@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ClimateBreakdown on Nature Works</title>
+    <link>http://localhost:1313/tags/climatebreakdown/</link>
+    <description>Recent content in ClimateBreakdown on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 18 Sep 2019 20:25:57 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/climatebreakdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peat Free Nurseries</title>
+      <link>http://localhost:1313/blog/peat-free-nurseries/</link>
+      <pubDate>Wed, 18 Sep 2019 20:25:57 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/peat-free-nurseries/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Does your nursery use peat-free compost? A list of nurseries that do, compiled by Nic Wilson 🙏&lt;/p&gt;
+        Using peat-based compost contributes to #ClimateBreakdown and wildlife habitat loss. Best thing you can do is use a peat-free compost (such as Sylvagrow, FertileFibre, Dalefoot etc) and buy your plants from a nursery that use peat-free compost.
+        <link>http://localhost:1313/blog/peat-free-nurseries/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Wild Food Corridors</title>
+      <link>http://localhost:1313/blog/wild-food-corridors/</link>
+      <pubDate>Sat, 13 Jul 2019 16:17:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/wild-food-corridors/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Involving people in the creation of wildlife habitat in public spaces whilst simultaneously providing a harvest is a way to focus minds on our existential environmental threats&lt;/p&gt;
+        We need to protect and restore our wildlife whilst dramatically reducing our Greenhouse Gas emissions, which means sustainable food production on a global scale, something that can only happen with public awareness, understanding and support.
+        <link>http://localhost:1313/blog/wild-food-corridors/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Why a forest garden is good for climate change</title>
+      <link>http://localhost:1313/blog/forest-garden-good-for-climate-change/</link>
+      <pubDate>Fri, 19 Apr 2019 14:42:46 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/forest-garden-good-for-climate-change/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A forest garden works with nature to grow edible crops, which is why it’s good for climate change. Here are the reasons why.&lt;/p&gt;
+        Climate change is caused by living in an unsustainable way. Forest gardens by definition are a sustainable and sustaining form of gardening.
+        <link>http://localhost:1313/blog/forest-garden-good-for-climate-change/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PeatFree on Nature Works</title>
+    <link>http://localhost:1313/tags/peatfree/</link>
+    <description>Recent content in PeatFree on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 18 Sep 2019 20:25:57 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/peatfree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peat Free Nurseries</title>
+      <link>http://localhost:1313/blog/peat-free-nurseries/</link>
+      <pubDate>Wed, 18 Sep 2019 20:25:57 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/peat-free-nurseries/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Does your nursery use peat-free compost? A list of nurseries that do, compiled by Nic Wilson 🙏&lt;/p&gt;
+        Using peat-based compost contributes to #ClimateBreakdown and wildlife habitat loss. Best thing you can do is use a peat-free compost (such as Sylvagrow, FertileFibre, Dalefoot etc) and buy your plants from a nursery that use peat-free compost.
+        <link>http://localhost:1313/blog/peat-free-nurseries/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>PeatFree Climate Emergency</title>
+      <link>http://localhost:1313/blog/peatfree-climate-emergency/</link>
+      <pubDate>Wed, 04 Sep 2019 16:36:54 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/peatfree-climate-emergency/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Using peat-based compost contributes to the destruction of wildlife habitats and the release of vast amounts of greenhouse gases. Profit, convenience &amp; ignorance; it is the story of Climate Breakdown.&lt;/p&gt;
+        The peat extraction industry is a microcosm of the wider Climate Emergency.
+        <link>http://localhost:1313/blog/peatfree-climate-emergency/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

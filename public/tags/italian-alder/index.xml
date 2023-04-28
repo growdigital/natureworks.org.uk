@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italian Alder on Nature Works</title>
+    <link>http://localhost:1313/tags/italian-alder/</link>
+    <description>Recent content in Italian Alder on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 15 Sep 2018 20:32:03 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/italian-alder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Tale of Three Trees</title>
+      <link>http://localhost:1313/blog/a-tale-of-three-trees/</link>
+      <pubDate>Sat, 15 Sep 2018 20:32:03 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/a-tale-of-three-trees/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Three Italian Alder, three very different outcomes&lt;/p&gt;
+        Three years ago I planted 3 Alnus cordata (Italian Alder) along the top of the forest garden, all at the same time.
+        <link>http://localhost:1313/blog/a-tale-of-three-trees/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

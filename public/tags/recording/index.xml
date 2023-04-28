@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recording on Nature Works</title>
+    <link>http://localhost:1313/tags/recording/</link>
+    <description>Recent content in Recording on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 17 Jul 2019 22:14:06 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/recording/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biological recording workshop</title>
+      <link>http://localhost:1313/blog/biological-recording-workshop/</link>
+      <pubDate>Wed, 17 Jul 2019 22:14:06 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/biological-recording-workshop/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Clare Flynn ran a fantastic wildlife recording workshop at The People’s Orchard in St Dogmaels, here are my notes to my future self&lt;/p&gt;
+        West Wales Biodiversity Information Centre (WWBIC), made up of Pembrokeshire, Ceredigion &amp;amp; Carmarthen.
+        <link>http://localhost:1313/blog/biological-recording-workshop/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

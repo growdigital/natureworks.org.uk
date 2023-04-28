@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CapeGooseberry on Nature Works</title>
+    <link>http://localhost:1313/tags/capegooseberry/</link>
+    <description>Recent content in CapeGooseberry on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 19 Feb 2023 19:49:53 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/capegooseberry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polytunnel</title>
+      <link>http://localhost:1313/blog/230219-polytunnel/</link>
+      <pubDate>Sun, 19 Feb 2023 19:49:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230219-polytunnel/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Spent the day clearing up the polytunnel, there’s a few perennial veg in there and a lot of material for the compost bin&lt;/p&gt;
+        We grow Cape Gooseberry (the most excellent jam), Yacon (salads?) and Chilean Guava (sweeties!
+        <link>http://localhost:1313/blog/230219-polytunnel/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>The Groundcherry Experiment</title>
+      <link>http://localhost:1313/blog/groundcherry-experiment/</link>
+      <pubDate>Wed, 12 Dec 2018 14:44:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/groundcherry-experiment/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;I nearly composted the whole Groundcherry bed and I’m very glad I didn’t.&lt;/p&gt;
+        This is the first year we grew Groundcherries AKA Cape Gooseberries AKA Physalis peruviana.
+        <link>http://localhost:1313/blog/groundcherry-experiment/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recipe on Nature Works</title>
+    <link>http://localhost:1313/tags/recipe/</link>
+    <description>Recent content in recipe on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 14 Jul 2018 10:45:51 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nettle soup</title>
+      <link>http://localhost:1313/blog/nettle-soup/</link>
+      <pubDate>Sat, 14 Jul 2018 10:45:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/nettle-soup/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Stalwart recipe of the foraging community&lt;/p&gt;
+        Ingredients  ½ carrier bag stinging nettle tops 50g vegan margarine 1 large onion 1 litre vegetable stock 1 large potato, peeled &amp;amp; cut into cubes 1 large carrot, peeled &amp;amp; chopped Salt &amp;amp; pepper 2 tbsp Oatly creme fraiche  Method  Wash nettles, get rid of thick stalks, drain Melt vegan margarine in large saucepan, add onion, cook gently 5-7 minutes until softened Add stock, nettles, potato &amp;amp; carrot.
+        <link>http://localhost:1313/blog/nettle-soup/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Vegan banana cake</title>
+      <link>http://localhost:1313/blog/vegan-banana-cake/</link>
+      <pubDate>Thu, 12 Jul 2018 11:51:04 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/vegan-banana-cake/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Very easy vegan banana cake, which I topped with our first ever gooseberries (Hinnomaki Red)!&lt;/p&gt;
+        We picked our first ever gooseberries last week. I washed them, popped them into a saucepan with a tiny bit of water, cooked them on a low heat for a few minutes until soft then added some sugar.
+        <link>http://localhost:1313/blog/vegan-banana-cake/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

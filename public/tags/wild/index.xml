@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wild on Nature Works</title>
+    <link>http://localhost:1313/tags/wild/</link>
+    <description>Recent content in wild on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 16 Jun 2018 13:07:48 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/wild/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Green Tangle</title>
+      <link>http://localhost:1313/blog/the-green-tangle/</link>
+      <pubDate>Sat, 16 Jun 2018 13:07:48 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/the-green-tangle/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;All that doesn’t glitter isn’t not gold! Or, it’s okay to have a green garden like a forest garden&lt;/p&gt;
+        As the saying goes, “You can have a show garden or you can have a real garden”.
+        <link>http://localhost:1313/blog/the-green-tangle/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

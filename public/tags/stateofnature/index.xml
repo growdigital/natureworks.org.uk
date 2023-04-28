@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StateOfNature on Nature Works</title>
+    <link>http://localhost:1313/tags/stateofnature/</link>
+    <description>Recent content in StateOfNature on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 10 Nov 2019 19:09:23 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/stateofnature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>State of Nature report 2019</title>
+      <link>http://localhost:1313/blog/state-nature-report-2019/</link>
+      <pubDate>Sun, 10 Nov 2019 19:09:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/state-nature-report-2019/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Links to the State of Nature report 2019 from the British Trust for Ornithology @_BTO. Because the mainstream media really doesn’t seem that interested.&lt;/p&gt;
+        I gave a talk about The Smaller Forest Garden the other day, and only 3 people out of the two dozen strong audience had heard of the State of Nature report 2019 published October 2019.
+        <link>http://localhost:1313/blog/state-nature-report-2019/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

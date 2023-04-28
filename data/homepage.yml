@@ -1,0 +1,104 @@
+######################## Banner ############################
+banner:
+  enable : true
+  title : "Wildlife &amp; food&nbsp;forest garden&nbsp;design"
+  content : "Your garden can be beautiful, edible <i>and</i> wildlife&nbsp;friendly.<br><br>Provide habitat diversity, grow edible perennials and create wonder with wild flowers.<br><br>Garden design by Jake Rayson 💚"
+  bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1400,q_40/v1543954134/quince-blossom-41405332295.jpg"
+  button:
+    enable : true
+    label : "Portfolio"
+    link : "portfolio"
+
+################### Service #################################
+service:
+  enable : true
+  title : "Create beautifully edible ecosystems"
+  subtitle : "Forest gardening"
+  bg_image : "images/shape-big.png"
+  service_item:
+    # Service item loop
+    - name : "Wildlife"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630869174/icon-landscape.png"
+      content : "By working with nature, a food forest garden is sustainable &amp; low-maintenance. It emulates a woodland edge, with layers of edible perennials & a living ground cover, providing its own nutrients and pest control."
+      button:
+        enable : true
+        label : "Design"
+        link : design
+
+    # Service item loop
+    - name : "Course"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630868761/icon-watering-plants.png"
+      content : "A full 3½ online forest garden course and a free planning mini-course, both on Udemy, with plenty of additional resources."
+      button:
+        enable : true
+        label : "Course"
+        link : course
+
+    # Service item loop
+    - name : "Workshops & livestream"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630869174/icon-growth.png"
+      content : "Realtime online and in-person workshops for groups, from an introductory 1 hour to a full day. Plus regular livestreams on YouTube."
+      button:
+        enable : true
+        label : "Livestream"
+        link : livestream
+
+############################# portfolio ############################
+portfolio:
+  enable : true
+  subtitle : "Portfolio"
+  title : "Gardens designed"
+
+# portfolio item comes from `content/design/` folder
+
+############################ testimonial ###########################
+testimonial:
+  enable : true
+  subtitle : "Testimonials"
+  title : "Quotes<br> From Clients"
+  testimonial_item:
+    # Testimonial item loop
+    - name: "David & Laura"
+      designation: "Small clifftop garden"
+      image: "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1651752658/david.jpg"
+      content: "We are truly overwhelmed by our awesome garden, it is absolutely perfect and exactly what we had wished for. From an overgrown building site to a heavenly retreat and wildlife haven. Jake you are amazing, we are so lucky to have found you, thank you so much."
+
+    # Testimonial item loop
+    - name : "Jason, aged 14"
+      designation : "Laura’s nephew"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1682407166/rugby-ball.jpg"
+      content : "It’s magical"
+
+    # Testimonial item loop
+    - name : "Kirsty Hayhoe"
+      designation : "English village garden"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630788090/kirsty-hayhoe-portrait.jpg"
+      content : "I asked Jake for a forest garden plan for my medium sized back garden. The plans, drawings and lists were comprehensive and meticulous. He made it easy to envision a beautiful, functioning ecosystem."
+
+    # Testimonial item loop
+    - name : "Daniel Richards"
+      designation : "One acre Welsh forest garden"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1631175141/alsatian-hat.jpg"
+      content : "Jake worked through our requirements and helped develop a comprehensive vision of what we wanted. The plans were meticulous and Jake was patient, knowledgeable and client led throughout. It was a pleasure working with him."
+
+    # Testimonial item loop
+    - name : "Glen Peters"
+      designation : "CEO, Western Solar Ltd"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630962703/glen-peters.jpg"
+      content : "Jake took on a complex job to design and implement the gardens for 10 affordable homes at Berllan Aur, our Zero Carbon development. He produced an imaginative, low maintenance scheme including native species and sourced them cost effectively."
+
+    # Testimonial item loop
+    - name : "Kristina & Dan"
+      designation : "0.6 hectare Belgian country garden"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630962703/dan-buzzo.jpg"
+      content : "Jake did a fantastic job, understanding the space, our needs, and also the real on site challenges. With interviews and discussion, video and remote surveying he produced a fantastic easy to follow plan, complete with planting guides and ideas for cropping edibles."
+
+################# call to action ##################################3
+call_to_action:
+  enable : true
+  title : "Free Plan a Backyard Forest mini-course"
+  content : "Interested in creating a forest garden? FREE online mini-course, including a forest garden definition, observations checklist and creating a forest garden map with paper and CAD."
+  button:
+    enable : true
+    label : "Grab your copy!"
+    link : "/courses/plan/"

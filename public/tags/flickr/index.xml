@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flickr on Nature Works</title>
+    <link>http://localhost:1313/tags/flickr/</link>
+    <description>Recent content in Flickr on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 11 Dec 2018 12:09:29 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/flickr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where to store your garden blog photos</title>
+      <link>http://localhost:1313/blog/store-garden-blog-photos/</link>
+      <pubDate>Tue, 11 Dec 2018 12:09:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/store-garden-blog-photos/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;One for you gdnbloggers – after a recent fracas with Flickr, a quick of summary of where online you can catalogue, store &amp; link to your garden photos&lt;/p&gt;
+        Back in the day, I used WordPress to write my blog and moreover used it to upload all my worthy garden photos.
+        <link>http://localhost:1313/blog/store-garden-blog-photos/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

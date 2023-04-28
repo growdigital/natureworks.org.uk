@@ -1,0 +1,156 @@
+
+html {
+  font-size: 16px;
+  line-height: 1.4;
+}
+body {
+  color: #444;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.remark-slide-content li,
+.remark-slide-content p {
+  font-size: 1.8rem;
+}
+
+h1 {
+  line-height: 1.1;
+  margin: 0.7rem 0 2rem;
+}
+
+h2, h3 {
+  line-height: 1.2;
+  margin: 1rem 0 2.2rem
+}
+
+h1, h2, h3, h4 {
+  font-family: "IBM Plex Serif", Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+/* Links */
+
+a:visited {
+  color: #0000EE !important;
+}
+
+/* Remark slide styling */
+
+.remark-slide-content {
+  background-color: #f6fce6;
+}
+
+.remark-slide-content {
+  padding: 1em 11em;
+}
+
+.remark-code-line {
+  font-size: 1.4rem;
+}
+
+.remark-slide-scaler {
+  box-shadow: 0 0 0 transparent;
+}
+
+.remark-inline-code {
+  background-color: yellow;
+  outline: 2px solid yellow;
+}
+
+/* Full screen image */
+
+.remark-slide {
+  position: relative;
+}
+
+.full-screen {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+/* Full screen remote images as div background */
+
+.full-screen--remote {
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+/* Breadcrumb */
+
+.breadcrumb {
+  bottom: 4px;
+  left: 16.5em;
+  position: absolute;
+}
+
+/* Image on the right */
+
+.right-img {
+  position: absolute;
+  right: 230px;
+  text-align: center;
+  top: 130px;
+}
+
+/* ==========================================================================
+   Utilities
+   ========================================================================== */
+
+/* Text decoration underline */
+
+.u-underline {
+  text-decoration: underline !important;
+}
+
+/* Invisible text */
+
+.u-hidden {
+  visibility: hidden !important;
+}
+
+/* Highlight */
+
+.u-highlight {
+  color: #eb4b2d !important;
+}
+
+.u-bg-yellow {
+  background-color: yellow !important;
+}
+
+
+.u-bg-aqua {
+  background-color: aqua !important;
+}
+
+.u-bg-lime {
+  background-color: lime !important;
+}
+
+/* Smaller text */
+
+.u-smaller {
+  font-size: smaller !important;
+}
+
+.u-small {
+  font-size: x-small !important;
+}
+
+.other {
+  color:red;
+}

@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section portfolio">
+  <div class="container">
+    <div class="row align-items-center">
+      {{ range .Data.Pages }}
+      <div class="col-md-6">
+        <div class="portfolio-item text-center">
+          <a href="{{ .Permalink }}">
+            {{ if .Params.images }}
+            <img
+              src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_60,w_120/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}"
+              class="img-fluid" alt="{{ (index .Params.imageAlt 0) }}">
+            {{ end }}
+            <h6 class="sm product-name">{{ .Title }}</h6>
+          </a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

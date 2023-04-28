@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Path on Nature Works</title>
+    <link>http://localhost:1313/tags/path/</link>
+    <description>Recent content in Path on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 30 Sep 2021 14:56:15 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/path/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multipurpose pathways</title>
+      <link>http://localhost:1313/blog/multipurpose-pathways/</link>
+      <pubDate>Thu, 30 Sep 2021 14:56:15 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/multipurpose-pathways/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Paths in the forest garden are useful in so many different ways. They go places. They define places. They keep plants in places.&lt;/p&gt;
+        Like all good permaculture features, paths have stacking functions, multiple uses that can be combined.
+        <link>http://localhost:1313/blog/multipurpose-pathways/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

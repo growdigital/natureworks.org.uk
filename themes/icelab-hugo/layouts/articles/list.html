@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section portfolio">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <ul class=".list-unstyled">
+          {{ range .Pages.ByTitle }}
+          <li class="media mb-2">
+            {{ if .Params.images }}
+            <a href="{{ .Permalink }}">
+              <img class="mr-3"
+                src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_120/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}"
+                class="img-fluid" alt="{{ (index .Params.imageAlt 0) }}">
+            </a>
+            {{ end }}
+            <div class="media-body">
+              <h2 class="h6"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+              <p>{{ .Description }}</p>
+            </div>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <!-- Sidebar -->
+        <aside class="bg-gray" data-aos="fade-up" data-aos-duration="500" data-aos-once="true">
+          <h3 class="mb-4">Latest posts</h3>
+          <p>The latest posts from the <a href="/blog">blog</a></p>
+          <ul class="list-unstyled">
+            {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
+            <li class="mb-3">
+              <a href="{{ .Permalink }}">
+                {{ .Title }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+
+        </aside>
+      </div>
+    </div>
+</section>
+
+{{ end }}

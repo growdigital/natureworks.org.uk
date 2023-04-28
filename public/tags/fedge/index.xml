@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fedge on Nature Works</title>
+    <link>http://localhost:1313/tags/fedge/</link>
+    <description>Recent content in Fedge on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 Apr 2019 14:49:04 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/fedge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dead hedge</title>
+      <link>http://localhost:1313/dead-hedge/</link>
+      <pubDate>Fri, 19 Apr 2019 14:49:04 +0100</pubDate>
+      
+      <guid>http://localhost:1313/dead-hedge/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A dead hedge, made from posts and scrubby branches, is an ideal temporary windbreak and wildlife habitat.&lt;/p&gt;
+        The benefits of a dead hedge, made from cut branches and foliage are:
+        <link>http://localhost:1313/dead-hedge/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

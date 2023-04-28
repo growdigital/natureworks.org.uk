@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diversity on Nature Works</title>
+    <link>http://localhost:1313/tags/diversity/</link>
+    <description>Recent content in Diversity on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 22 Jan 2023 09:25:32 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/diversity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It’s Behind You!</title>
+      <link>http://localhost:1313/blog/230122-behind-you/</link>
+      <pubDate>Sun, 22 Jan 2023 09:25:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230122-behind-you/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Forging local connections&lt;/p&gt;
+        During my more low-level tasks, in amongst the flower beds and on the cutting room floor, my mind will often race ahead on the complexities of the Nature &amp;amp; Climate Emergency.
+        <link>http://localhost:1313/blog/230122-behind-you/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Diversity</title>
+      <link>http://localhost:1313/diversity/</link>
+      <pubDate>Mon, 13 Apr 2020 21:19:03 +0100</pubDate>
+      
+      <guid>http://localhost:1313/diversity/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Notes for those who want to take positive action to improve the diversity of people involved with forest gardens and horticulture&lt;/p&gt;
+        87% of the UK identify as White. In the UK horticulture industry, the figure is 99%*.
+        <link>http://localhost:1313/diversity/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

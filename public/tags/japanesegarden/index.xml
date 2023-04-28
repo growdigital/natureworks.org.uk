@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JapaneseGarden on Nature Works</title>
+    <link>http://localhost:1313/tags/japanesegarden/</link>
+    <description>Recent content in JapaneseGarden on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 17 Dec 2019 20:51:11 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/japanesegarden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Japanese Forest Garden</title>
+      <link>http://localhost:1313/blog/japanese-forest-garden/</link>
+      <pubDate>Tue, 17 Dec 2019 20:51:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/japanese-forest-garden/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;My client in Poland wants a Japanese-style garden incorporated into the forest garden, so I made a special trip to meet the staff responsible for the Japanese Garden at Botanic Garden Wales&lt;/p&gt;
+        At first glance, the idea of a Japanese Garden is at odds with a forest garden: clipped cloud hedges, carefully trained trees, layer upon layer of symbolism and meaning.
+        <link>http://localhost:1313/blog/japanese-forest-garden/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

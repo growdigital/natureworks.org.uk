@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PrairieUp on Nature Works</title>
+    <link>http://localhost:1313/tags/prairieup/</link>
+    <description>Recent content in PrairieUp on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 24 Jan 2023 22:19:17 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/prairieup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benjamin Vogt &amp; Wildlife Trees</title>
+      <link>http://localhost:1313/blog/230124-vogt-trees/</link>
+      <pubDate>Tue, 24 Jan 2023 22:19:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230124-vogt-trees/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;No, not a prairie woodland mash up but two separate online events in one evening&lt;/p&gt;
+        I have a lot of time for Benjamin Vogt. He’s an ornamental native plant gardener, which means he’s a wildlife gardener by default.
+        <link>http://localhost:1313/blog/230124-vogt-trees/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

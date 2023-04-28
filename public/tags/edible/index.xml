@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edible on Nature Works</title>
+    <link>http://localhost:1313/tags/edible/</link>
+    <description>Recent content in Edible on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 13 Jul 2018 16:09:44 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/edible/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Lure of the Stinging-less Nettle</title>
+      <link>http://localhost:1313/blog/the-lure-of-the-stinging-less-nettle/</link>
+      <pubDate>Fri, 13 Jul 2018 16:09:44 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/the-lure-of-the-stinging-less-nettle/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A long time ago I heard about the legend of The Stinging-less Netlle, a fabled plant with all of the nitrogen-rich, low-maintenance and nutritional benefits of the stinging nettle without any of the stinging.&lt;/p&gt;
+        The stinging nettle Urtica dioica is an excellent forest garden plant.
+        <link>http://localhost:1313/blog/the-lure-of-the-stinging-less-nettle/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

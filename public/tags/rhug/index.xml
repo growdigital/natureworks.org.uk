@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rhug on Nature Works</title>
+    <link>http://localhost:1313/tags/rhug/</link>
+    <description>Recent content in Rhug on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 12 Feb 2023 22:37:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rhug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YouTube</title>
+      <link>http://localhost:1313/blog/230212-youtube/</link>
+      <pubDate>Sun, 12 Feb 2023 22:37:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230212-youtube/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;How useful are video gardening diaries?&lt;/p&gt;
+        As well as my (not so currently weekly) Substack newsletter, I also try to write these blogs every day and upload a couple of videos to YouTube every week.
+        <link>http://localhost:1313/blog/230212-youtube/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Blueberry</title>
+      <link>http://localhost:1313/blog/230131-blueberry/</link>
+      <pubDate>Tue, 31 Jan 2023 09:39:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230131-blueberry/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Northern Highbush Blueberry species for a woodland bed in a local garden&lt;/p&gt;
+        I‘m planting up the Rhug garden, the woodland beds, and I’m putting in a few Northern Highbush Blueberry (Vaccinium corymbosum) bushes.
+        <link>http://localhost:1313/blog/230131-blueberry/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Woodland bed &amp; steps</title>
+      <link>http://localhost:1313/blog/230109-rhug-woodland/</link>
+      <pubDate>Mon, 09 Jan 2023 10:49:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230109-rhug-woodland/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Edibles &amp; natives in the woodland beds at Rhug&lt;/p&gt;
+        It was a pleasant surprise at the last meeting to find out that the clients would like more edibles, herbs and things for the kitchen.
+        <link>http://localhost:1313/blog/230109-rhug-woodland/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

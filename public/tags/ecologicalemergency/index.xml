@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EcologicalEmergency on Nature Works</title>
+    <link>http://localhost:1313/tags/ecologicalemergency/</link>
+    <description>Recent content in EcologicalEmergency on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 09 Feb 2023 21:22:24 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ecologicalemergency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biodiverse</title>
+      <link>http://localhost:1313/blog/230209-biodiverse/</link>
+      <pubDate>Thu, 09 Feb 2023 21:22:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230209-biodiverse/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Just a couple of quick links, UK &amp; global ecology references&lt;/p&gt;
+        For a long time, I’ve been singing the praises of the Database of Insects and their Food Plants.
+        <link>http://localhost:1313/blog/230209-biodiverse/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Are you ready?</title>
+      <link>http://localhost:1313/blog/are-you-ready/</link>
+      <pubDate>Fri, 24 Apr 2020 08:07:38 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/are-you-ready/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;The climate and ecological emergency is happening. A forest garden is fundamentally sustainable, reducing carbon emissions &amp; increasing biodiversity, whilst providing a resilient food system in case of emergency.&lt;/p&gt;
+        The Covid-19 coronavirus crisis shines a light on how ill-prepared and unequal our society has become.
+        <link>http://localhost:1313/blog/are-you-ready/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

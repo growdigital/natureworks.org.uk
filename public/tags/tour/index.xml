@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tour on Nature Works</title>
+    <link>http://localhost:1313/tags/tour/</link>
+    <description>Recent content in Tour on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 05 Mar 2019 20:00:37 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tour/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our forest garden tours &amp; workshops setup</title>
+      <link>http://localhost:1313/blog/forest-garden-tours-workshops-setup/</link>
+      <pubDate>Tue, 05 Mar 2019 20:00:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/forest-garden-tours-workshops-setup/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;The majority of Forest Garden Wales workshops &amp; tours are on Airbnb, with monthly discount slots on Facebook/Eventbrite.&lt;/p&gt;
+        I’ve organised the forest garden tours and workshops for 2019. I decided to market them as Airbnb holiday Experiences because it is a vast amount of work to manage an online shop, calendar and publicity.
+        <link>http://localhost:1313/blog/forest-garden-tours-workshops-setup/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Now taking bookings for forest garden tours and workshops</title>
+      <link>http://localhost:1313/blog/forest-garden-experience/</link>
+      <pubDate>Thu, 10 Jan 2019 18:20:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/forest-garden-experience/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;I’m very excited to announce that the 2019 Forest Garden Wales tours and workshops, known as “Experiences” in Airbnb speak, are now available to book!&lt;/p&gt;
+        Our 2019 workshops and tours are now available to book on Airbnb:
+        <link>http://localhost:1313/blog/forest-garden-experience/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

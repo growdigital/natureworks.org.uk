@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabions on Nature Works</title>
+    <link>http://localhost:1313/tags/gabions/</link>
+    <description>Recent content in Gabions on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 21 Oct 2022 13:02:21 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/gabions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gabions</title>
+      <link>http://localhost:1313/gabions/</link>
+      <pubDate>Fri, 21 Oct 2022 13:02:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/gabions/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Gabions are robust wire baskets filled with aggregate or timber. They are relatively easy to install and make fantastic wildlife habitat.
+        <link>http://localhost:1313/gabions/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

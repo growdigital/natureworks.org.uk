@@ -1,0 +1,57 @@
+<footer class="footer">
+    <a class="sr-only" rel="me" href="https://mas.to/@natureworks">Mastodon</a>
+    <div class="footer-dividers">
+      <div class="divider"></div>
+      <div class="divider"></div>
+      <div class="divider"></div>
+      <div class="divider"></div>
+    </div>
+    <div class="shape-small">
+      <img src="{{`images/shape-small.png` | absURL }}" alt="small-shape">
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="logo">
+            <a href="{{ .Site.BaseURL }}">
+              <img src="{{ .Site.Params.logo | absURL }}" alt="logo">
+              <h3 class="text-white">Nature Works</h3>
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="content">
+            <nav class="footer-nav">
+              <ul class="list-inline">
+                <li class="list-inline-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+                {{ range .Site.Menus.secondary }}
+                <li class="list-inline-item"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                {{ end }}
+              </ul>
+            </nav>
+            <p>Email: <a href="mailto:hello@natureworks.org.uk">hello@natureworks.org.uk</a><br>Phone: <a href="tel:+447802535321">07802&nbsp;535&nbsp;321</a><br><small>Grow Digital Ltd t/a Nature Works, Company No. 06935830</small></p>
+            <ul class="social-links list-inline">
+              {{ range .Site.Params.social }}
+              <li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank"><i class="fa {{ .icon }}"></i></a></li>
+              {{ end }}
+            </ul>
+            <div class="scroll-top">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6px"
+                height="40px">
+                <path fill-rule="evenodd"
+                  d="M6.000,-0.000 C6.000,-0.000 -0.000,13.621 -0.000,13.766 C-0.000,13.783 4.011,14.008 4.000,13.999 C3.959,13.968 4.000,40.131 4.000,39.999 L6.000,39.999 L6.000,-0.000 L6.000,-0.000 Z" />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  {{ "<!-- JS Plugins -->" | safeHTML }}
+  {{ range .Site.Params.plugins.js}}
+  <script src="{{ .URL | absURL }}"></script>
+  {{ end }}
+  {{ "<!-- Main Script -->" | safeHTML }}
+  {{ $script := resources.Get "js/script.js" | minify}}
+  <script src="{{ $script.Permalink }}"></script>

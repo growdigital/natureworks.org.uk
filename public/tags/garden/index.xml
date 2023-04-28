@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garden on Nature Works</title>
+    <link>http://localhost:1313/tags/garden/</link>
+    <description>Recent content in Garden on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 22 Oct 2019 21:04:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/garden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview of my forest garden design process</title>
+      <link>http://localhost:1313/blog/overview-forest-garden-design-process/</link>
+      <pubDate>Tue, 22 Oct 2019 21:04:37 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/overview-forest-garden-design-process/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A bird’s eye view of my approach to designing a forest garden, in the form of a slideshow and screencast&lt;/p&gt;
+        I’ve been asking friends and colleagues for feedback about what would make a good online course for forest gardening.
+        <link>http://localhost:1313/blog/overview-forest-garden-design-process/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

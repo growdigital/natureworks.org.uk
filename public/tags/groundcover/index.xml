@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GroundCover on Nature Works</title>
+    <link>http://localhost:1313/tags/groundcover/</link>
+    <description>Recent content in GroundCover on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 08 Jan 2023 22:25:18 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/groundcover/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bugle</title>
+      <link>http://localhost:1313/blog/230108-bugle/</link>
+      <pubDate>Sun, 08 Jan 2023 22:25:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230108-bugle/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        I’m keeping on with my YouTube Garden Wild Flowers series, today was the turn of Bugle (Ajuga reptans), just a short 7 minute video.
+        <link>http://localhost:1313/blog/230108-bugle/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Ground cover</title>
+      <link>http://localhost:1313/ground-cover/</link>
+      <pubDate>Tue, 30 Apr 2019 20:10:44 +0100</pubDate>
+      
+      <guid>http://localhost:1313/ground-cover/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A step-by-step guide to establishing a living ground cover: to protect the soil, create a habitat for wildlife and provide you with a harvest. Win, win, win.&lt;/p&gt;
+        A key principle of no-dig gardening is to always protect the soil with mulch.
+        <link>http://localhost:1313/ground-cover/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>How to establish ground cover in a forest garden</title>
+      <link>http://localhost:1313/blog/establish-ground-cover/</link>
+      <pubDate>Tue, 30 Apr 2019 20:10:44 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/establish-ground-cover/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A step-by-step guide to establishing a living ground cover: to protect the soil, create a habitat for wildlife and provide you with a harvest. Win, win, win.&lt;/p&gt;
+        A key principle of no-dig gardening is to always protect the soil with mulch.
+        <link>http://localhost:1313/blog/establish-ground-cover/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

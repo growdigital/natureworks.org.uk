@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airbnb on Nature Works</title>
+    <link>http://localhost:1313/tags/airbnb/</link>
+    <description>Recent content in Airbnb on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 10 Jan 2019 18:20:18 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/airbnb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Now taking bookings for forest garden tours and workshops</title>
+      <link>http://localhost:1313/blog/forest-garden-experience/</link>
+      <pubDate>Thu, 10 Jan 2019 18:20:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/forest-garden-experience/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;I’m very excited to announce that the 2019 Forest Garden Wales tours and workshops, known as “Experiences” in Airbnb speak, are now available to book!&lt;/p&gt;
+        Our 2019 workshops and tours are now available to book on Airbnb:
+        <link>http://localhost:1313/blog/forest-garden-experience/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

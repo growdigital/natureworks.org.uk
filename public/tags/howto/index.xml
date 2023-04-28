@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howto on Nature Works</title>
+    <link>http://localhost:1313/tags/howto/</link>
+    <description>Recent content in Howto on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 22 Nov 2019 18:11:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a forest garden plan with a satellite background image</title>
+      <link>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</link>
+      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;As part of my online forest garden course, I’ve been looking at how to use a screenshot of a satellite photo as the basis of a forest garden plan. If you’re comfortable with computers, the process is relatively straightforward.&lt;/p&gt;
+        Using a CAD plan, it’s easy to move trees around to try out different ideas.
+        <link>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Dead hedge</title>
+      <link>http://localhost:1313/dead-hedge/</link>
+      <pubDate>Fri, 19 Apr 2019 14:49:04 +0100</pubDate>
+      
+      <guid>http://localhost:1313/dead-hedge/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A dead hedge, made from posts and scrubby branches, is an ideal temporary windbreak and wildlife habitat.&lt;/p&gt;
+        The benefits of a dead hedge, made from cut branches and foliage are:
+        <link>http://localhost:1313/dead-hedge/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>How to plant &amp; mulch a weedy windbreak</title>
+      <link>http://localhost:1313/blog/plant-mulch-windbreak/</link>
+      <pubDate>Sun, 17 Feb 2019 22:28:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/plant-mulch-windbreak/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;We’ve been planting an 80 metre long, 5 metre high windbreak on the northern boundary of the Ornamental Forest Garden. If you’re doing something similar, you may find these notes handy.&lt;/p&gt;
+        We’ve planted Amelanchier canadensis, Elaeagnus umbellata, Berberis darwinii and Viburnum opulus in the northern double-width windbreak hedge of the Ornamental Forest Garden.
+        <link>http://localhost:1313/blog/plant-mulch-windbreak/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Windbreak</title>
+      <link>http://localhost:1313/windbreak/</link>
+      <pubDate>Sun, 17 Feb 2019 22:28:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/windbreak/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Protection is critical in the forest garden and windbreaks provide habitat and food as well as protection from the wind.&lt;/p&gt;
+        Windbreak hedges are essential for protecting plants in the forest garden.
+        <link>http://localhost:1313/windbreak/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<!-- Work details part start -->
+<section class="work-single section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <div class="work-single-image">
+          <!-- Work Single Image -->
+          <img class="img-fluid w-100" src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_736/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" alt="{{ (index .Params.imageAlt 0) }}">
+        </div>
+        <!-- work single Content -->
+        <div class="work-single-content">
+          {{ .Content }}
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <!-- Sidebar -->
+        <aside class="work-single-sidebar bg-gray" data-aos="fade-up" data-aos-duration="500" data-aos-once="true">
+          <h5>Summary</h5>
+          <h6>{{ .Params.Summary }}</h6>
+          <h5>Length</h5>
+          <h6>{{.Params.Length}}</a></h6>
+          <h5>Level</h5>
+          <h6>{{.Params.Level}}</h6>
+          <h5>Features</h5>
+          <ul class="pl-0">
+          {{ range .Params.Features }}
+          <li>{{ . }}</li>
+          {{ end }}
+          </ul>
+          <h5>Price</h5>
+          <h6>£{{ printf "%.2f" (float .Params.Price) }}</h6>
+          <a href="{{ .Params.Link }}" target="_blank" class="btn btn-primary aos-init aos-animate">I want this!</a>
+        </aside>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- work details part end -->
+
+{{ end }}

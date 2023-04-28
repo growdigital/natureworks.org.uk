@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cinema on Nature Works</title>
+    <link>http://localhost:1313/tags/cinema/</link>
+    <description>Recent content in Cinema on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 10 Mar 2023 10:54:35 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cinema/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dream-like cinema</title>
+      <link>http://localhost:1313/blog/230306-dreams/</link>
+      <pubDate>Fri, 10 Mar 2023 10:54:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230306-dreams/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Cinema, like dreams, can help work through our lives&lt;/p&gt;
+        I watched World War Z with my teenaged son the other night.
+        <link>http://localhost:1313/blog/230306-dreams/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kit on Nature Works</title>
+    <link>http://localhost:1313/tags/kit/</link>
+    <description>Recent content in Kit on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 02 Jul 2020 14:07:34 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/kit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Livestreaming &amp; recording setup for online courses</title>
+      <link>http://localhost:1313/blog/livestreaming-recording-setup/</link>
+      <pubDate>Thu, 02 Jul 2020 14:07:34 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/livestreaming-recording-setup/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Here’s my current setup of computers &amp; equipment for livestreaming, recording and editing videos for my online forest garden courses. Hopefully this will help if you want to set up your own 😎&lt;/p&gt;
+        With the onset of the Covid-19 lockdown in the UK, I decided to concentrate on remote, online forest garden courses and workshops.
+        <link>http://localhost:1313/blog/livestreaming-recording-setup/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

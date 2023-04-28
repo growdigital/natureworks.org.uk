@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patterns on Nature Works</title>
+    <link>http://localhost:1313/tags/patterns/</link>
+    <description>Recent content in Patterns on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 14 Feb 2022 10:58:56 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What are Forest Garden Patterns?</title>
+      <link>http://localhost:1313/blog/what-are-forest-garden-patterns/</link>
+      <pubDate>Mon, 14 Feb 2022 10:58:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/what-are-forest-garden-patterns/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Interesting conversation with Nickie Bartlett from NFGS has led to me thinking about what I’m trying to achieve&lt;/p&gt;
+        I was helping Nickie Bartlett out with the National Forest Gardening Scheme website today, and we had a really interesting side-chat about templates and patterns.
+        <link>http://localhost:1313/blog/what-are-forest-garden-patterns/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

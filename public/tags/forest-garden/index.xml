@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forest Garden on Nature Works</title>
+    <link>http://localhost:1313/tags/forest-garden/</link>
+    <description>Recent content in Forest Garden on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 17 Feb 2019 22:28:20 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/forest-garden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windbreak</title>
+      <link>http://localhost:1313/windbreak/</link>
+      <pubDate>Sun, 17 Feb 2019 22:28:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/windbreak/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Protection is critical in the forest garden and windbreaks provide habitat and food as well as protection from the wind.&lt;/p&gt;
+        Windbreak hedges are essential for protecting plants in the forest garden.
+        <link>http://localhost:1313/windbreak/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

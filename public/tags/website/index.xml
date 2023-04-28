@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Nature Works</title>
+    <link>http://localhost:1313/tags/website/</link>
+    <description>Recent content in Website on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 11 Feb 2023 12:09:40 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RSS</title>
+      <link>http://localhost:1313/blog/230211-rss/</link>
+      <pubDate>Sat, 11 Feb 2023 12:09:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230211-rss/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;I’ve managed to create my RSS feed, so know my blog posts will automatically appear on Facebook &amp; Mastodon. Which is nice.&lt;/p&gt;
+        More noodling to streamline my publishing. Firstly, I’m using Buffer and BulkBuffer to automate my social media posts across Facebook, Mastodon and Google Maps Business.
+        <link>http://localhost:1313/blog/230211-rss/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Grow your own website</title>
+      <link>http://localhost:1313/blog/grow-your-own-website/</link>
+      <pubDate>Tue, 09 Apr 2019 12:27:44 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/grow-your-own-website/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Advice on how to set up a website for an organisation, as promised to Teresa Filipponi at the Hub Cymru Africa permaculture event at Botanic Garden Wales!&lt;/p&gt;
+        Jumping on the website and social media bandwagon is difficult if you don’t have the technical experience or the budget.
+        <link>http://localhost:1313/blog/grow-your-own-website/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

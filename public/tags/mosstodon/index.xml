@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mosstodon on Nature Works</title>
+    <link>http://localhost:1313/tags/mosstodon/</link>
+    <description>Recent content in Mosstodon on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 12 Jan 2023 22:44:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mosstodon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is why I’m a climate activist</title>
+      <link>http://localhost:1313/blog/230112-life/</link>
+      <pubDate>Thu, 12 Jan 2023 22:44:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230112-life/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;There will be no bumblebees in the UK by the end of the century if we hit 3.5°C&lt;/p&gt;
+        I went to an online “Evening for Wildlife Gardeners” tonight, organised by the Wildlife Garden Forum, and it was really very good and really very sad.
+        <link>http://localhost:1313/blog/230112-life/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

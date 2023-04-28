@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hedge on Nature Works</title>
+    <link>http://localhost:1313/tags/hedge/</link>
+    <description>Recent content in Hedge on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 31 Dec 2020 11:30:17 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hedge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mostly native</title>
+      <link>http://localhost:1313/blog/mostly-native/</link>
+      <pubDate>Thu, 31 Dec 2020 11:30:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/mostly-native/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Detail of a mostly native windbreak hedge on the eco-homes project&lt;/p&gt;
+        On part of the eco-homes project I’m landscaping, there’s a 2m high clay and shale bank.
+        <link>http://localhost:1313/blog/mostly-native/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

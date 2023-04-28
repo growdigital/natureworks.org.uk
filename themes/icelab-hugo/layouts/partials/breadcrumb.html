@@ -1,0 +1,13 @@
+{{ define "breadcrumb" }}
+  <ul class="breadcrumb list-inline">
+  {{ with .Parent }}
+    {{ template "breadcrumb" . }}
+    <li class="list-inline-item"><a href="{{ .Permalink }}">{{ if .IsHome }}Home{{ else }}{{.Title}}{{ end }}</a> /</li>
+  {{ end }}
+{{ end }}
+{{ if not .IsHome }}
+  <ul class="breadcrumb list-inline">
+    {{ template "breadcrumb" . }}
+    <li class="list-inline-item">{{.Title}}</li>
+  </ul>
+{{ end }}

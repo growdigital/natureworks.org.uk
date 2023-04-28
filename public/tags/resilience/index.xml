@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resilience on Nature Works</title>
+    <link>http://localhost:1313/tags/resilience/</link>
+    <description>Recent content in resilience on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 05 Jan 2023 20:22:39 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/resilience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memex note to self</title>
+      <link>http://localhost:1313/blog/230105-memex/</link>
+      <pubDate>Thu, 05 Jan 2023 20:22:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230105-memex/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Finally back on the blogging wagon&lt;/p&gt;
+        I read the most amazing blog post by Cory Doctorow about blogging, called The Memex Method.
+        <link>http://localhost:1313/blog/230105-memex/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

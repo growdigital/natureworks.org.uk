@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pollinators on Nature Works</title>
+    <link>http://localhost:1313/tags/pollinators/</link>
+    <description>Recent content in Pollinators on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 17 Dec 2019 23:57:30 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pollinators/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hoverfly &amp; wild pollinators research at Botanic Garden Wales</title>
+      <link>http://localhost:1313/blog/hoverfly-wild-pollinators-botanic-garden-wales/</link>
+      <pubDate>Tue, 17 Dec 2019 23:57:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/hoverfly-wild-pollinators-botanic-garden-wales/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Abigail Lowe at the Botanic Garden Wales is researching which are the most beneficial flowers to plant for hoverflies and other wild pollinators&lt;/p&gt;
+        On a recent visit to Botanic Garden Wales, I met up with Abigail Lowe, a PhD student with the Garden’s Science Team who is continuing the critical research into which flowers pollinators prefer, focussing on the role of hoverflies.
+        <link>http://localhost:1313/blog/hoverfly-wild-pollinators-botanic-garden-wales/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Flowers for pollinators in an orchard</title>
+      <link>http://localhost:1313/blog/flowers-pollinators-orchard/</link>
+      <pubDate>Sat, 09 Mar 2019 10:20:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/flowers-pollinators-orchard/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Orchards need pollinators, which in turn need particular help in spring. Based on DNA barcoding research by @WalesBotanic, these are the top spring flowers. This article first appeared in The People’s Orchard Newsletter.&lt;/p&gt;
+        Steve Wilson, the tutor at a recent People’s Orchard grafting workshop, discussed how his wildflower meadow encourages pollinators.
+        <link>http://localhost:1313/blog/flowers-pollinators-orchard/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

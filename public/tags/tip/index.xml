@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tip on Nature Works</title>
+    <link>http://localhost:1313/tags/tip/</link>
+    <description>Recent content in Tip on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 12 May 2019 22:28:17 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/tip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Label</title>
+      <link>http://localhost:1313/label/</link>
+      <pubDate>Sun, 12 May 2019 22:28:17 +0100</pubDate>
+      
+      <guid>http://localhost:1313/label/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;These nifty plant labels keep on expanding with a growing branch, and are easy to make from old plastic milk bottles.&lt;/p&gt;
+        I used to tie ordinary plant labels to tree branches with bits of baling twine.
+        <link>http://localhost:1313/label/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

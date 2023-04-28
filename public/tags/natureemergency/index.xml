@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NatureEmergency on Nature Works</title>
+    <link>http://localhost:1313/tags/natureemergency/</link>
+    <description>Recent content in NatureEmergency on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 10 Mar 2023 10:54:35 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/natureemergency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dream-like cinema</title>
+      <link>http://localhost:1313/blog/230306-dreams/</link>
+      <pubDate>Fri, 10 Mar 2023 10:54:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230306-dreams/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Cinema, like dreams, can help work through our lives&lt;/p&gt;
+        I watched World War Z with my teenaged son the other night.
+        <link>http://localhost:1313/blog/230306-dreams/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>1.5°C within 10-15 years</title>
+      <link>http://localhost:1313/blog/230203-onepointfive/</link>
+      <pubDate>Fri, 03 Feb 2023 21:26:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230203-onepointfive/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;This is remarkably bad news that hasn’t really hit the headlines&lt;/p&gt;
+        “@PNASNews suggests earth will cross the 1.5 degrees C temperature increase threshold in the next decade (within just 10 to 15 years) and is likely to exceed 2 degrees C by around 2060.
+        <link>http://localhost:1313/blog/230203-onepointfive/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>DBIF</title>
+      <link>http://localhost:1313/dbif/</link>
+      <pubDate>Fri, 19 Apr 2019 14:42:46 +0100</pubDate>
+      
+      <guid>http://localhost:1313/dbif/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;An invaluable tool in the wildlife gardeners’ toolbox, The Database of Insects and their Food Plants details scientifically corroborated interactions between insects and plants&lt;/p&gt;
+        The Database of Insects and their Food Plants (DBIF for short) is a fantastic resource for wildlife gardeners.
+        <link>http://localhost:1313/dbif/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

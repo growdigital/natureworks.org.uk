@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ClimateAction on Nature Works</title>
+    <link>http://localhost:1313/tags/climateaction/</link>
+    <description>Recent content in ClimateAction on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 Apr 2019 14:42:46 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/climateaction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why a forest garden is good for climate change</title>
+      <link>http://localhost:1313/blog/forest-garden-good-for-climate-change/</link>
+      <pubDate>Fri, 19 Apr 2019 14:42:46 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/forest-garden-good-for-climate-change/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A forest garden works with nature to grow edible crops, which is why it’s good for climate change. Here are the reasons why.&lt;/p&gt;
+        Climate change is caused by living in an unsustainable way. Forest gardens by definition are a sustainable and sustaining form of gardening.
+        <link>http://localhost:1313/blog/forest-garden-good-for-climate-change/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

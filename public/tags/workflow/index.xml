@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workflow on Nature Works</title>
+    <link>http://localhost:1313/tags/workflow/</link>
+    <description>Recent content in workflow on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 14 Jan 2023 21:13:11 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KDEnlive</title>
+      <link>http://localhost:1313/blog/230113-kdenlive/</link>
+      <pubDate>Sat, 14 Jan 2023 21:13:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230113-kdenlive/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Video editing is hard graft&lt;/p&gt;
+        I’m in the midst of editing my 1 hour-ish long CAD for Gardeners class.
+        <link>http://localhost:1313/blog/230113-kdenlive/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

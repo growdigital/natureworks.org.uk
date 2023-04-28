@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CrystalBall on Nature Works</title>
+    <link>http://localhost:1313/tags/crystalball/</link>
+    <description>Recent content in CrystalBall on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 29 Feb 2020 08:47:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/crystalball/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020 Garden Trends</title>
+      <link>http://localhost:1313/blog/2020-garden-trends/</link>
+      <pubDate>Sat, 29 Feb 2020 08:47:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2020-garden-trends/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;I’ve spent 2 months fulminating about this year’s garden trends and it can be summarised in 2 words: more nature&lt;/p&gt;
+        I am late to the New Year’s party, missing out on all those 2020 Gardening Almanacs and Things I Will Water Properly This Year guilt lists.
+        <link>http://localhost:1313/blog/2020-garden-trends/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

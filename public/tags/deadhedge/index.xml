@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DeadHedge on Nature Works</title>
+    <link>http://localhost:1313/tags/deadhedge/</link>
+    <description>Recent content in DeadHedge on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 15 May 2019 13:29:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/deadhedge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lynda’s Tayberry fedge</title>
+      <link>http://localhost:1313/blog/lyndas-tayberry-fedge/</link>
+      <pubDate>Wed, 15 May 2019 13:29:58 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/lyndas-tayberry-fedge/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A fedge (or dead hedge) can have many uses, one of which is as a support for scrambling soft fruit like the Tayberry.&lt;/p&gt;
+        At the end of my Introduction to Forest Gardening talk at Llechryd Gardening Club, the Club Secretary Lynda kindly offered some Tayberry bushes, suggesting that they would grow well on the south side of the dead hedge.
+        <link>http://localhost:1313/blog/lyndas-tayberry-fedge/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Dead hedge</title>
+      <link>http://localhost:1313/dead-hedge/</link>
+      <pubDate>Fri, 19 Apr 2019 14:49:04 +0100</pubDate>
+      
+      <guid>http://localhost:1313/dead-hedge/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A dead hedge, made from posts and scrubby branches, is an ideal temporary windbreak and wildlife habitat.&lt;/p&gt;
+        The benefits of a dead hedge, made from cut branches and foliage are:
+        <link>http://localhost:1313/dead-hedge/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

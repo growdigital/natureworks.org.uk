@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on Nature Works</title>
+    <link>http://localhost:1313/tags/data/</link>
+    <description>Recent content in data on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 06 Oct 2020 09:21:10 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spreadsheets</title>
+      <link>http://localhost:1313/spreadsheets/</link>
+      <pubDate>Tue, 06 Oct 2020 09:21:10 +0100</pubDate>
+      
+      <guid>http://localhost:1313/spreadsheets/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Sortable spreadsheets to help you find suitable plants more easily&lt;/p&gt;
+        Plants For A Future is a brilliant online database of useful plants, invaluable for forest gardeners.
+        <link>http://localhost:1313/spreadsheets/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

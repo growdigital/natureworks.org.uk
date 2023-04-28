@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        {{ if .Params.Subhead }}
+          <h3>{{ .Params.Subhead  }}</h3>
+        {{ end }}
+        {{ if .Params.Images }}
+          <figure>
+            <img class="img-fluid w-100" src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_736/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" alt="{{ (index .Params.imageAlt 0) }}">
+            {{ if .Params.imageCap }}
+            <figcaption>
+              <p class="mt-2">
+                <em><small>{{ (index .Params.imageCap 0) }}</small></em>
+              </p>
+            </figcaption>
+            {{ end }}
+          </figure>
+        {{ end }}
+        {{ .Content }}
+      </div>
+      <div class="col-lg-4">
+        <!-- Sidebar -->
+        <aside class="work-single-sidebar bg-gray">
+          <h5>Quick links</h5>
+          {{ with .Params.Links }}
+          <ul>
+            {{ range . }}
+            <li><a href="{{ .url }}">{{ .title }}</a></li>
+            {{ end }}
+          </ul>
+          {{ end }}
+          <a href="mailto:hello@natureworks.org.uk" class="btn btn-primary">Email Jake</a>
+          <a href="https://www.bark.com/en/gb/company/nature-works/8Dzev/" target="_blank" class="bark-widget mt-4" data-type="reviews" data-id="8Dzev" data-image="small-navy" data-version="3.0">Nature Works</a><script type="text/javascript" src="https://d3a1eo0ozlzntn.cloudfront.net/assets/js/frontend-v2/widgets-v2.24a197bed6.v2.js" defer></script>
+        </aside>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

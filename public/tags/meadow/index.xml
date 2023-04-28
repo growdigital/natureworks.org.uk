@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meadow on Nature Works</title>
+    <link>http://localhost:1313/tags/meadow/</link>
+    <description>Recent content in Meadow on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 16 Jan 2020 10:58:22 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/meadow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The idea of a modular forest garden</title>
+      <link>http://localhost:1313/blog/modular-forest-garden/</link>
+      <pubDate>Thu, 16 Jan 2020 10:58:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/modular-forest-garden/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Modular design can make designed meadow planting easier but can it do the same for a forest garden?&lt;/p&gt;
+        I’m fascinated by Benjamin Vogt’s idea of using modular design for a native garden meadow.
+        <link>http://localhost:1313/blog/modular-forest-garden/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Wildlife features</title>
+      <link>http://localhost:1313/wildlife-features/</link>
+      <pubDate>Wed, 26 Jun 2019 09:37:02 +0100</pubDate>
+      
+      <guid>http://localhost:1313/wildlife-features/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Checklist of invaluable features for your wildlife friendly garden&lt;/p&gt;
+        A simple list of features that benefit wildlife in any garden.
+        <link>http://localhost:1313/wildlife-features/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Wildlife garden checklist</title>
+      <link>http://localhost:1313/blog/wildlife-garden-checklist/</link>
+      <pubDate>Wed, 26 Jun 2019 09:37:02 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/wildlife-garden-checklist/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Inspired by Malcolm Berry’s talk, here’s a simple checklist of invaluable features for your wildlife-friendly garden&lt;/p&gt;
+        Inspired by Malcolm Berry’s wildlife gardening talk to Drefach Gardening Club, here is a simple list of features that benefit wildlife in any garden.
+        <link>http://localhost:1313/blog/wildlife-garden-checklist/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

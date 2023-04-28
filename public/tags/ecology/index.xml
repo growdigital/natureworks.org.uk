@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecology on Nature Works</title>
+    <link>http://localhost:1313/tags/ecology/</link>
+    <description>Recent content in Ecology on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 09 Feb 2023 21:22:24 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biodiverse</title>
+      <link>http://localhost:1313/blog/230209-biodiverse/</link>
+      <pubDate>Thu, 09 Feb 2023 21:22:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230209-biodiverse/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Just a couple of quick links, UK &amp; global ecology references&lt;/p&gt;
+        For a long time, I’ve been singing the praises of the Database of Insects and their Food Plants.
+        <link>http://localhost:1313/blog/230209-biodiverse/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Species</title>
+      <link>http://localhost:1313/blog/230205-species/</link>
+      <pubDate>Sun, 05 Feb 2023 22:13:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230205-species/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;National Biodiversity Network Atlas is amazeballs&lt;/p&gt;
+        Conscious I haven’t been blogging every day, so will be posting whatever comes up.
+        <link>http://localhost:1313/blog/230205-species/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Life as the measure</title>
+      <link>http://localhost:1313/blog/life-as-the-measure/</link>
+      <pubDate>Tue, 25 Feb 2020 21:09:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/life-as-the-measure/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Gross Domestic Product is a pretty useless measure of a country’s prosperity, it’s time to factor in the true cost of economic activity by using life as the measure&lt;/p&gt;
+        Don’t know much about ecology, don’t know much economics either but what I do know is what a wonderful world it would be, if we used life as the measure, rather than human derived financial value (AKA money).
+        <link>http://localhost:1313/blog/life-as-the-measure/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

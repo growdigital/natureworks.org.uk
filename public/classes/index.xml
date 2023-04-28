@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wild Edible Classes on Nature Works</title>
+    <link>http://localhost:1313/classes/</link>
+    <description>Recent content in Wild Edible Classes on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 12 Dec 2022 11:25:53 +0000</lastBuildDate><atom:link href="http://localhost:1313/classes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CAD for Gardeners</title>
+      <link>http://localhost:1313/classes/cad/</link>
+      <pubDate>Sat, 23 Oct 2021 15:38:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/classes/cad/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        CAD for garden design £29.99
+        <link>http://localhost:1313/classes/cad/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Backyard Forest</title>
+      <link>http://localhost:1313/classes/backyard/</link>
+      <pubDate>Thu, 21 Oct 2021 15:38:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/classes/backyard/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Complete online forest garden course £99.99
+        <link>http://localhost:1313/classes/backyard/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Plan a Backyard Forest</title>
+      <link>http://localhost:1313/classes/plan/</link>
+      <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/classes/plan/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Free forest garden mini-course
+        <link>http://localhost:1313/classes/plan/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>The Forest Garden Spreadsheet</title>
+      <link>http://localhost:1313/classes/spreadsheet/</link>
+      <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/classes/spreadsheet/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Free downloadable forest garden plants spreadsheet
+        <link>http://localhost:1313/classes/spreadsheet/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

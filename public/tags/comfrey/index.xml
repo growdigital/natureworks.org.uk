@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comfrey on Nature Works</title>
+    <link>http://localhost:1313/tags/comfrey/</link>
+    <description>Recent content in Comfrey on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 15 Jun 2020 12:55:40 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/comfrey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comfrey</title>
+      <link>http://localhost:1313/comfrey/</link>
+      <pubDate>Mon, 15 Jun 2020 12:55:40 +0100</pubDate>
+      
+      <guid>http://localhost:1313/comfrey/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Different techniques for creating comfrey feed&lt;/p&gt;
+        Comfrey is rich in Potassium, and is a fantastic fertiliser for fruiting plants.
+        <link>http://localhost:1313/comfrey/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Chop ‘n’ drop</title>
+      <link>http://localhost:1313/chop-n-drop/</link>
+      <pubDate>Tue, 07 Jan 2020 10:30:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chop-n-drop/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Plant comfrey by your fruit trees, then chop the leaves once or twice a year and mulch in-situ. This is the chop ‘n’ drop comfrey mulch technique, no composting required.&lt;/p&gt;
+        Comfrey is a garden workhorse. As a mineral accumulator, it’s rich in potassium and is used to make a liquid compost.
+        <link>http://localhost:1313/chop-n-drop/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

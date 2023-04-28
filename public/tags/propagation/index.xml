@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Propagation on Nature Works</title>
+    <link>http://localhost:1313/tags/propagation/</link>
+    <description>Recent content in Propagation on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 16 Apr 2019 10:17:15 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/propagation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a simple propagation bed</title>
+      <link>http://localhost:1313/blog/howto-propagation-bed/</link>
+      <pubDate>Tue, 16 Apr 2019 10:17:15 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/howto-propagation-bed/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Now is always a good time to start propagating ground cover plants for a forest garden, indeed any garden. Here’s how to make a simple, no-dig propagation bed, where you can plant-and-forget.&lt;/p&gt;
+        At the beginning of any forest garden project, I always recommend surveying and planning first, followed by propagating ground cover plants.
+        <link>http://localhost:1313/blog/howto-propagation-bed/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

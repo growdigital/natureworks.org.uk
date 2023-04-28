@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AbandonedAmerica on Nature Works</title>
+    <link>http://localhost:1313/tags/abandonedamerica/</link>
+    <description>Recent content in AbandonedAmerica on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 06 Jan 2023 23:59:26 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/abandonedamerica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abandoned</title>
+      <link>http://localhost:1313/blog/230106-abandoned/</link>
+      <pubDate>Fri, 06 Jan 2023 23:59:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230106-abandoned/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Long day writing &amp; tech noodling, finishing with a photography find&lt;/p&gt;
+        Today I have mostly been noodling with tech to record the ‘CAD for Gardeners‘ online class.
+        <link>http://localhost:1313/blog/230106-abandoned/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

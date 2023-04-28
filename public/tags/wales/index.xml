@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wales on Nature Works</title>
+    <link>http://localhost:1313/tags/wales/</link>
+    <description>Recent content in Wales on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 12 Jan 2020 20:30:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/wales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wild Orchids of Wales</title>
+      <link>http://localhost:1313/blog/wild-orchids-of-wales/</link>
+      <pubDate>Sun, 12 Jan 2020 20:30:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/wild-orchids-of-wales/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;My notes from fantastic talk ‘Wild Orchids of Wales’ by Sue Parker, Publicity Officer at Hardy Orchid Society&lt;/p&gt;
+        Great talk by Sue Parker at Llechryd &amp;amp; District Gardening Club.
+        <link>http://localhost:1313/blog/wild-orchids-of-wales/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

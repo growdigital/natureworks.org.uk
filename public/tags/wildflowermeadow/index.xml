@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WildflowerMeadow on Nature Works</title>
+    <link>http://localhost:1313/tags/wildflowermeadow/</link>
+    <description>Recent content in WildflowerMeadow on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 19 Mar 2019 22:02:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/wildflowermeadow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wildflower meadow genesis</title>
+      <link>http://localhost:1313/blog/wildflower-meadow-genesis/</link>
+      <pubDate>Tue, 19 Mar 2019 22:02:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/wildflower-meadow-genesis/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A daily rambling about the plan for a wildflower meadow at Forest Garden Wales.&lt;/p&gt;
+        A neighbour has very kindly lent us a brush cutter, so I’ve been busy for the past couple of weeks clearing the bramble from the coppice area (pictured above) to plant more trees, and the 2 acre sloping pasture so that we can create a wildflower meadow.
+        <link>http://localhost:1313/blog/wildflower-meadow-genesis/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CommunityFoodForest on Nature Works</title>
+    <link>http://localhost:1313/tags/communityfoodforest/</link>
+    <description>Recent content in CommunityFoodForest on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 18 Jun 2019 10:52:21 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/communityfoodforest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing wilderness well</title>
+      <link>http://localhost:1313/blog/designing-wilderness-well/</link>
+      <pubDate>Tue, 18 Jun 2019 10:52:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/designing-wilderness-well/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;If you create any wildlife friendly space, a forest garden included, care is required to design it well, so as to maximise the benefits.&lt;/p&gt;
+        @BotanicalMartin’s recent tweet resonated deeply with me:
+ I think this will be a blueprint for many of our urban/suburban green spaces in the future - species-rich grassland (irregularly-cut) with scrub (irregularly coppiced), bramble, bare areas, open areas, well-trodden paths.
+        <link>http://localhost:1313/blog/designing-wilderness-well/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

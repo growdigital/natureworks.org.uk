@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QCAD on Nature Works</title>
+    <link>http://localhost:1313/tags/qcad/</link>
+    <description>Recent content in QCAD on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 18 Jan 2023 13:21:33 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/qcad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long time making CAD class</title>
+      <link>http://localhost:1313/blog/230118-time/</link>
+      <pubDate>Wed, 18 Jan 2023 13:21:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230118-time/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Making wildlife forest garden classes takes a long time!&lt;/p&gt;
+        I am just putting finishing touches to the CAD for Gardeners online class.
+        <link>http://localhost:1313/blog/230118-time/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>GIS</title>
+      <link>http://localhost:1313/blog/230107-gis/</link>
+      <pubDate>Sat, 07 Jan 2023 23:11:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230107-gis/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        GIS stands for Geographic Information System, software that can analyse data that has a geographic component.
+        <link>http://localhost:1313/blog/230107-gis/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Spacing</title>
+      <link>http://localhost:1313/spacing/</link>
+      <pubDate>Wed, 20 Mar 2019 13:29:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/spacing/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;The gaps between tree canopies should be about ¼ to ½ of the average tree canopy diameter. This is to allow enough light to reach the understorey plants.&lt;/p&gt;
+        It’s important to leave enough space between trees in the canopy layer, so that there’s enough light coming through to the plants below.
+        <link>http://localhost:1313/spacing/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Tree spacing in the forest garden</title>
+      <link>http://localhost:1313/blog/tree-spacing-forest-garden/</link>
+      <pubDate>Wed, 20 Mar 2019 13:29:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/tree-spacing-forest-garden/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;The gaps between tree canopies should be about ¼ to ½ of the average tree canopy diameter. This is to allow enough light to reach the understorey plants.&lt;/p&gt;
+        It’s important to leave enough space between trees in the canopy layer, so that there’s enough light coming through to the plants below.
+        <link>http://localhost:1313/blog/tree-spacing-forest-garden/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

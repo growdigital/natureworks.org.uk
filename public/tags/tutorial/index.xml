@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Nature Works</title>
+    <link>http://localhost:1313/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 22 Nov 2019 18:11:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a forest garden plan with a satellite background image</title>
+      <link>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</link>
+      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;As part of my online forest garden course, I’ve been looking at how to use a screenshot of a satellite photo as the basis of a forest garden plan. If you’re comfortable with computers, the process is relatively straightforward.&lt;/p&gt;
+        Using a CAD plan, it’s easy to move trees around to try out different ideas.
+        <link>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

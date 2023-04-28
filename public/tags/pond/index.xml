@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pond on Nature Works</title>
+    <link>http://localhost:1313/tags/pond/</link>
+    <description>Recent content in Pond on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 26 Jun 2019 15:57:25 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/pond/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clay lined pond</title>
+      <link>http://localhost:1313/clay-lined-pond/</link>
+      <pubDate>Wed, 26 Jun 2019 15:57:25 +0100</pubDate>
+      
+      <guid>http://localhost:1313/clay-lined-pond/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Nick Balmer wrote a fantastic summary of creating a clay-lined pond in the closed Facebook Forest Garden UK group, reproduced here with his kind permission 🙂&lt;/p&gt;
+        I’m creating yet another wildlife pond, this time in the Ornamental Forest Garden.
+        <link>http://localhost:1313/clay-lined-pond/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Wildlife features</title>
+      <link>http://localhost:1313/wildlife-features/</link>
+      <pubDate>Wed, 26 Jun 2019 09:37:02 +0100</pubDate>
+      
+      <guid>http://localhost:1313/wildlife-features/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Checklist of invaluable features for your wildlife friendly garden&lt;/p&gt;
+        A simple list of features that benefit wildlife in any garden.
+        <link>http://localhost:1313/wildlife-features/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Wildlife garden checklist</title>
+      <link>http://localhost:1313/blog/wildlife-garden-checklist/</link>
+      <pubDate>Wed, 26 Jun 2019 09:37:02 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/wildlife-garden-checklist/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Inspired by Malcolm Berry’s talk, here’s a simple checklist of invaluable features for your wildlife-friendly garden&lt;/p&gt;
+        Inspired by Malcolm Berry’s wildlife gardening talk to Drefach Gardening Club, here is a simple list of features that benefit wildlife in any garden.
+        <link>http://localhost:1313/blog/wildlife-garden-checklist/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

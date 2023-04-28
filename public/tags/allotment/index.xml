@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allotment on Nature Works</title>
+    <link>http://localhost:1313/tags/allotment/</link>
+    <description>Recent content in Allotment on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 27 Feb 2023 22:20:50 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/allotment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Wildlife Allotment</title>
+      <link>http://localhost:1313/blog/230227-wildlife-allotment/</link>
+      <pubDate>Mon, 27 Feb 2023 22:20:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/230227-wildlife-allotment/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Nadine Mitschunas has created the most amazing wildlife allotments, and writes a blog the Hardy Plant Society&lt;/p&gt;
+        I first saw My Wildlife Allotment on BBC Gardeners World a couple of years ago, and was impressed then with the visual richness of the allotment.
+        <link>http://localhost:1313/blog/230227-wildlife-allotment/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

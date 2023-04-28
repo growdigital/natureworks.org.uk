@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climate Emergency on Nature Works</title>
+    <link>http://localhost:1313/tags/climate-emergency/</link>
+    <description>Recent content in Climate Emergency on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 05 Nov 2019 09:45:05 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/climate-emergency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>If we don’t change direction, we’ll end up where we’re going</title>
+      <link>http://localhost:1313/blog/end-up-going/</link>
+      <pubDate>Tue, 05 Nov 2019 09:45:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/end-up-going/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;I gave a talk to Llangwm Gardening Club about The Smaller Forest Garden. I digressed onto Native Plants and the Climate Emergency. Oops.&lt;/p&gt;
+        My talk on The Smaller Forest Garden for Llangwm Gardening Club seemed to go down well (slides here: forestgarden.
+        <link>http://localhost:1313/blog/end-up-going/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

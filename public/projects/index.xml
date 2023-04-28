@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nature Works</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 29 Aug 2019 15:38:38 +0600</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forest Garden Gallery</title>
+      <link>http://localhost:1313/projects/gallery/</link>
+      <pubDate>Sun, 28 Feb 2021 15:38:38 +0600</pubDate>
+      
+      <guid>http://localhost:1313/projects/gallery/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Sortable online spreadsheet of plants in &amp;lsquo;Creating a Forest Garden&amp;rsquo;
+        <link>http://localhost:1313/projects/gallery/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Forest Garden Spreadsheet</title>
+      <link>http://localhost:1313/projects/spreadsheet/</link>
+      <pubDate>Sun, 28 Feb 2021 15:38:38 +0600</pubDate>
+      
+      <guid>http://localhost:1313/projects/spreadsheet/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Sortable online spreadsheet of plants in &amp;lsquo;Creating a Forest Garden&amp;rsquo;
+        <link>http://localhost:1313/projects/spreadsheet/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Garden Wild</title>
+      <link>http://localhost:1313/projects/gardenwild/</link>
+      <pubDate>Sun, 28 Feb 2021 15:38:38 +0600</pubDate>
+      
+      <guid>http://localhost:1313/projects/gardenwild/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Sortable online spreadsheet of plants in &amp;lsquo;Creating a Forest Garden&amp;rsquo;
+        <link>http://localhost:1313/projects/gardenwild/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Garden Wild Spreadsheet</title>
+      <link>http://localhost:1313/projects/wild-spreadsheet/</link>
+      <pubDate>Sun, 28 Feb 2021 15:38:38 +0600</pubDate>
+      
+      <guid>http://localhost:1313/projects/wild-spreadsheet/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Sortable online spreadsheet of plants in &amp;lsquo;Creating a Forest Garden&amp;rsquo;
+        <link>http://localhost:1313/projects/wild-spreadsheet/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Gardening with UK natives Facebook group</title>
+      <link>http://localhost:1313/projects/facebook/</link>
+      <pubDate>Sun, 28 Feb 2021 15:38:38 +0600</pubDate>
+      
+      <guid>http://localhost:1313/projects/facebook/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Sortable online spreadsheet of plants in &amp;lsquo;Creating a Forest Garden&amp;rsquo;
+        <link>http://localhost:1313/projects/facebook/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>One Thousand Acre Forest Garden</title>
+      <link>http://localhost:1313/projects/thousand/</link>
+      <pubDate>Sun, 28 Feb 2021 15:38:38 +0600</pubDate>
+      
+      <guid>http://localhost:1313/projects/thousand/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Sortable online spreadsheet of plants in &amp;lsquo;Creating a Forest Garden&amp;rsquo;
+        <link>http://localhost:1313/projects/thousand/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
