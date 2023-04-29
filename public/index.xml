@@ -8,6 +8,19 @@
     <language>en-gb</language>
     <lastBuildDate>Sat, 29 Apr 2023 09:49:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Website</title>
+      <link>http://localhost:1313/blog/230429-website/</link>
+      <pubDate>Sat, 29 Apr 2023 10:15:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/230429-website/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;After a blip, regular blogging service has now been resumed&lt;/p&gt;
+        The website has been on hold for a couple of weeks.
+        <link>http://localhost:1313/blog/230429-website/</link>
+      </description>
+    </item>
+    
+    <item>
       <title>The Flower Meadow</title>
       <link>http://localhost:1313/blog/230429-the-flower-meadow/</link>
       <pubDate>Sat, 29 Apr 2023 09:49:18 +0100</pubDate>
