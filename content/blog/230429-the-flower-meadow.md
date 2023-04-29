@@ -7,7 +7,7 @@ tags:
 - WildFlowers
 - WestWales
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1682758124/file_ggag7c.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1682758124/the-wildflower-meadow-230427.jpg
 imageAlt:
 - Long flower beds of cut flowers, grey misty day, bare trees on the horizon
 imageCap:
