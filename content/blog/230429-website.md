@@ -21,3 +21,5 @@ This means blogging and updates are back on track. I really want to shift the fo
 I’m thinking to populate the [structure of my Backyard Forest course](https://www.natureworks.org.uk/backyard/) on my website, like a written version of the course, with all the resources. But for free, and without my face. 
 
 I’m also planning to break the course apart into individual classes; the same kind of structure but it means that it’s easier to update individual classes, and you can buy just the ones you need.
+
+_Edit:_ Oh, I meant to say, a client’s nephew saw their garden, and the 14 year old rugby playing boy said “It’s magical!”. That is a very high accolade indeed!
