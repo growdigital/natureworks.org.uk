@@ -6,7 +6,7 @@
     <description>Recent content on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 29 Apr 2023 09:49:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2023 20:55:15 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website</title>
       <link>http://localhost:1313/blog/230429-website/</link>
@@ -30,19 +30,6 @@
         &lt;p class="p-summary"&gt;Locally grown, sustabinable cut and wild flowers grown on a smallholding in West Wales. What is not to love? 💚&lt;/p&gt;
         On the way back from a site visit, I stopped off at Penrhiwpal to say hello to Sara at The Flower Meadow.
         <link>http://localhost:1313/blog/230429-the-flower-meadow/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>Pricing</title>
-      <link>http://localhost:1313/pricing/</link>
-      <pubDate>Mon, 24 Apr 2023 13:11:19 +0100</pubDate>
-      
-      <guid>http://localhost:1313/pricing/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        Consultancy  Day rate £400 Hourly rate £75 One hour introductory online consultation £120
-        <link>http://localhost:1313/pricing/</link>
       </description>
     </item>
     
@@ -881,14 +868,40 @@
     
     <item>
       <title>CAD for Gardeners</title>
-      <link>http://localhost:1313/classes/cad/</link>
+      <link>http://localhost:1313/store/cad/</link>
       <pubDate>Sat, 23 Oct 2021 15:38:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/classes/cad/</guid>
+      <guid>http://localhost:1313/store/cad/</guid>
       <description>
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         CAD for garden design £29.99
-        <link>http://localhost:1313/classes/cad/</link>
+        <link>http://localhost:1313/store/cad/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Backyard Forest</title>
+      <link>http://localhost:1313/class/backyard/</link>
+      <pubDate>Thu, 21 Oct 2021 15:38:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/class/backyard/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Complete online forest garden course £99.99
+        <link>http://localhost:1313/class/backyard/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Backyard Forest</title>
+      <link>http://localhost:1313/classes-copy/backyard/</link>
+      <pubDate>Thu, 21 Oct 2021 15:38:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/classes-copy/backyard/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Complete online forest garden course £99.99
+        <link>http://localhost:1313/classes-copy/backyard/</link>
       </description>
     </item>
     
@@ -915,6 +928,19 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         Complete online forest garden course £49.99
         <link>http://localhost:1313/courses/backyard/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Backyard Forest</title>
+      <link>http://localhost:1313/store/backyard/</link>
+      <pubDate>Thu, 21 Oct 2021 15:38:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/store/backyard/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Complete online forest garden course £99.99
+        <link>http://localhost:1313/store/backyard/</link>
       </description>
     </item>
     
@@ -1064,19 +1090,6 @@
     
     <item>
       <title>Plan a Backyard Forest</title>
-      <link>http://localhost:1313/classes/plan/</link>
-      <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
-      
-      <guid>http://localhost:1313/classes/plan/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        Free forest garden mini-course
-        <link>http://localhost:1313/classes/plan/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>Plan a Backyard Forest</title>
       <link>http://localhost:1313/courses/plan/</link>
       <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
       
@@ -1085,6 +1098,19 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         Free forest garden mini-course
         <link>http://localhost:1313/courses/plan/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Plan a Backyard Forest</title>
+      <link>http://localhost:1313/store/plan/</link>
+      <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/store/plan/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Free forest garden mini-course
+        <link>http://localhost:1313/store/plan/</link>
       </description>
     </item>
     
@@ -1103,19 +1129,6 @@
     
     <item>
       <title>The Forest Garden Spreadsheet</title>
-      <link>http://localhost:1313/classes/spreadsheet/</link>
-      <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
-      
-      <guid>http://localhost:1313/classes/spreadsheet/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        Free downloadable forest garden plants spreadsheet
-        <link>http://localhost:1313/classes/spreadsheet/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>The Forest Garden Spreadsheet</title>
       <link>http://localhost:1313/courses/spreadsheet/</link>
       <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
       
@@ -1124,6 +1137,19 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         Free downloadable forest garden plants spreadsheet
         <link>http://localhost:1313/courses/spreadsheet/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>The Forest Garden Spreadsheet</title>
+      <link>http://localhost:1313/store/spreadsheet/</link>
+      <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/store/spreadsheet/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Free downloadable forest garden plants spreadsheet
+        <link>http://localhost:1313/store/spreadsheet/</link>
       </description>
     </item>
     

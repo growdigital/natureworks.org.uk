@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/classes/</loc>
+    <lastmod>2023-04-29T20:55:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/class/</loc>
+    <lastmod>2023-04-29T20:55:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/classes-copy/</loc>
+    <lastmod>2023-04-29T20:55:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-04-29T20:55:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/course/cad/</loc>
+    <lastmod>2023-04-29T13:48:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/course/</loc>
+    <lastmod>2023-04-29T13:48:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-04-29T10:15:21+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/website/</loc>
+    <lastmod>2023-04-29T10:15:21+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230429-website/</loc>
     <lastmod>2023-04-29T10:15:21+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/flowers/</loc>
-    <lastmod>2023-04-29T09:49:18+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-04-29T09:49:18+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-04-29T09:49:18+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230429-the-flower-meadow/</loc>
@@ -22,9 +40,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/wildflowers/</loc>
     <lastmod>2023-04-29T09:49:18+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pricing/</loc>
-    <lastmod>2023-04-24T13:11:19+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
     <lastmod>2023-04-15T21:31:35+01:00</lastmod>
@@ -186,9 +201,6 @@
     <lastmod>2023-02-11T22:41:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230211-rss/</loc>
-    <lastmod>2023-02-11T12:09:40+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
     <lastmod>2023-02-11T12:09:40+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230210-primer/</loc>
@@ -488,7 +500,7 @@
     <loc>http://localhost:1313/tags/resilience/</loc>
     <lastmod>2023-01-05T20:22:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/classes/</loc>
+    <loc>http://localhost:1313/store/</loc>
     <lastmod>2022-12-12T11:25:53+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/221130-primary-meeting/</loc>
@@ -569,13 +581,22 @@
     <loc>http://localhost:1313/portfolio/wildlife-trust/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/classes/cad/</loc>
+    <loc>http://localhost:1313/store/cad/</loc>
     <lastmod>2021-10-23T15:38:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/class/backyard/</loc>
+    <lastmod>2021-10-21T15:38:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/classes-copy/backyard/</loc>
+    <lastmod>2021-10-21T15:38:38+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/classes/backyard/</loc>
     <lastmod>2021-10-21T15:38:38+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/courses/backyard/</loc>
+    <lastmod>2021-10-21T15:38:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/store/backyard/</loc>
     <lastmod>2021-10-21T15:38:38+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/workshops/backyard/</loc>
@@ -614,19 +635,19 @@
     <loc>http://localhost:1313/portfolio/berllan-aur/</loc>
     <lastmod>2021-05-21T15:38:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/classes/plan/</loc>
+    <loc>http://localhost:1313/courses/plan/</loc>
     <lastmod>2021-05-21T15:38:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/plan/</loc>
+    <loc>http://localhost:1313/store/plan/</loc>
     <lastmod>2021-05-21T15:38:38+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/workshops/plan/</loc>
     <lastmod>2021-05-21T15:38:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/classes/spreadsheet/</loc>
+    <loc>http://localhost:1313/courses/spreadsheet/</loc>
     <lastmod>2021-05-21T15:38:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/spreadsheet/</loc>
+    <loc>http://localhost:1313/store/spreadsheet/</loc>
     <lastmod>2021-05-21T15:38:38+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/workshops/spreadsheet/</loc>

@@ -52,11 +52,11 @@ menu:
     - name: Design
       URL: design
       weight: 4
-    - name: Pricing
-      URL: pricing
-      weight: 5
     - name: Classes
       URL: classes
+      weight: 5
+    - name: Store
+      URL: store
       weight: 6
   secondary:
     - name: About

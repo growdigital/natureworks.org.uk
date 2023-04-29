@@ -55,6 +55,28 @@ There is much to consider in an intersectional garden, so I like to simplify the
 
 For an example of the online notes, Google Sheets and Pinterest working together, please see [the Clifftop Garden](https://notes.grwd.uk/clifftop/).
 
+### Pricing
+
+#### Consultancy
+
+* Day rate `£400`
+* Hourly rate `£75`
+* One hour introductory online consultation `£120`<br>(client provides photos & videos in advance)
+
+#### Design
+
+| Service | Pricing | Details |
+| - | -: | - |
+| Initial meeting | `Free` | Introductory meeting to outline project and explore if we can work together. |
+| 1. Site survey | `£600` | Full site survey, report & outline plan. Either online or on-site. Report & plan provided online. Mileage 45p per mile. |
+| 2. Sketch design | `£800` | Overview of design for garden, with sketches, full costing & whole garden quote |
+| 3. CAD plan | `£2000` | Detailed CAD planting plan, from structural elements, to canopy layer, shrub layer and herbaceous perennials. Includes meetings & revisions. |
+| 4.&nbsp;Plant&nbsp;spreadsheet | `£800` | Detailed plant spreadsheet, including suppliers, schedule & management. |
+
+The site survey gives you an overview of ideas. For every stage you commission, I&nbsp;remove £200 from the cost of the site survey. 
+
+If you commission the whole design process, you get the site survey for free, ie&nbsp;total cost of £3,000 rather than £3,600.
+
 #### Costing
 
 Each job is costed individually and not by a day rate. The cost of a design really depends on the level of detail required. I can provide anything from an outline canopy and windbreak plan to detailed border planting plans with costings & suppliers.

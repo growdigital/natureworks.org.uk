@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Nature Works</title>
+    <link>http://localhost:1313/course/</link>
+    <description>Recent content in Courses on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 29 Apr 2023 13:48:15 +0100</lastBuildDate><atom:link href="http://localhost:1313/course/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
