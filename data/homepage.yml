@@ -67,7 +67,7 @@ testimonial:
     - name : "Jason, aged 14"
       designation : "Laura’s nephew"
       image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1682407166/rugby-ball.jpg"
-      content : "It’s magical"
+      content : "It’s magical!"
 
     # Testimonial item loop
     - name : "Kirsty Hayhoe"

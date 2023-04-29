@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/flowers/</loc>
+    <lastmod>2023-04-29T09:49:18+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-04-29T09:49:18+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-04-29T09:49:18+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/230429-the-flower-meadow/</loc>
+    <lastmod>2023-04-29T09:49:18+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/westwales/</loc>
+    <lastmod>2023-04-29T09:49:18+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wildflowers/</loc>
+    <lastmod>2023-04-29T09:49:18+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/pricing/</loc>
     <lastmod>2023-04-24T13:11:19+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
     <lastmod>2023-04-15T21:31:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-04-15T21:31:35+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/230415-syra/</loc>
-    <lastmod>2023-04-15T21:31:35+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-04-15T21:31:35+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/habitat/</loc>
@@ -105,9 +117,6 @@
     <lastmod>2023-02-27T22:50:25+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230227-vision/</loc>
-    <lastmod>2023-02-27T22:50:25+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wildflowers/</loc>
     <lastmod>2023-02-27T22:50:25+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/allotment/</loc>

@@ -6,7 +6,46 @@
     <description>Recent content in Tags on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 15 Apr 2023 21:31:35 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2023 09:49:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flowers</title>
+      <link>http://localhost:1313/tags/flowers/</link>
+      <pubDate>Sat, 29 Apr 2023 09:49:18 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/flowers/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/flowers/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>WestWales</title>
+      <link>http://localhost:1313/tags/westwales/</link>
+      <pubDate>Sat, 29 Apr 2023 09:49:18 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/westwales/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/westwales/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>WildFlowers</title>
+      <link>http://localhost:1313/tags/wildflowers/</link>
+      <pubDate>Sat, 29 Apr 2023 09:49:18 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/wildflowers/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/wildflowers/</link>
+      </description>
+    </item>
+    
     <item>
       <title>ForestGarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
@@ -238,19 +277,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/vision/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>WildFlowers</title>
-      <link>http://localhost:1313/tags/wildflowers/</link>
-      <pubDate>Mon, 27 Feb 2023 22:50:25 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/wildflowers/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/wildflowers/</link>
       </description>
     </item>
     
