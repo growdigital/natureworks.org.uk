@@ -10,11 +10,13 @@ imageAlt:
 imageCap: 
 - The structure of the new Clifftop Garden clearly visible 
 links:
-- title: Tools
-  url: /design#tools
-- title: Costing
-  url: /design#costing
-- title: What is a forest garden?
+- title: Philosophy
+  url: /design#philosophy
+- title: Approach
+  url: /design#approach
+- title: Pricing
+  url: /design#pricing
+- title: Definition
   url: /design#what-is-a-forest-garden
 ---
 

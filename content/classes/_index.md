@@ -13,9 +13,9 @@ imageCap:
 
 ## Wildlife food forest garden design classes
 
-Following the [same structure](/backyard/) as my best-selling online course [The Backyard Forest](/store/backyard/), I am creating a series of classes. They will be more focussed, stand-alone and more easily updateable. 
+Following the [same structure](/backyard/) as my best-selling online course [The Backyard Forest](/store/backyard/), I am creating a series of classes. They will be more focussed, stand-alone and easily updateable. 
 
-[backyard](/classes/backyard)
+The online classes will be available from [the store](/store/), and my notes for each class will be available here.
 
 1. Primer
 2. Principles
