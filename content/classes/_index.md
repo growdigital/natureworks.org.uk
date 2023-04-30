@@ -17,18 +17,20 @@ Following the [same structure](/backyard/) as my best-selling online course [The
 
 The online classes will be available from [the store](/store/), and my notes for each class will be available here.
 
-1. Primer
-2. Principles
-3. Survey
-4. [CAD](/store/cad)
-5. Notes
-6. Design
-7. Wildlife
-8. Water
-9. Native plants
-10. Windbreaks
-11. Perennial veg
-12. Shrubs
-13. Trees
-14. Management
-15. Community
+| Class | Details | Slides | Store | Notes |
+| - | - | :-: | :-: | :-: |
+| 1. Primer | Overview of wildlife forest gardening | <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> | 
+| 2. Principles | Key principles & features | <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 3. Survey | How to survey the land | <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> | 
+| **4. CAD** | Computer Aided Design for forest gardening | <a href="/slides/cad/" class="u-nodec" target="_blank">📇</a> | <a href="/store/cad/" class="u-nodec" target="_blank">🛒</a> | <a class="u-na">📝</a> |
+| 5. Notes | Creating online notes & spreadsheets |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 6. Design | How to design a garden |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 7. Wildlife | Wildlife first in garden design |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 8. Water | Conserve, slow & let water go |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 9. Native plants | For a balanced & resilient ecosystem |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 10. Windbreaks | Protecting your young plants |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 11. Perennial veg | Choosing & growing edible herbaceous perennials |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 12. Shrubs | Choosing & planting shrubs |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 13. Trees | Choosing & planting trees |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 14. Management | What can you manage & when? |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |
+| 15. Community | Climate resilience in the community |  <a class="u-na">📇</a> | <a class="u-na">🛒</a> | <a class="u-na">📝</a> |

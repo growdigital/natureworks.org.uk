@@ -119,3 +119,9 @@ blockquote{
     box-shadow: 0 19px 32.55px 2.45px rgba(0,0,0,.08);
   }
 
+// Link not available
+
+.u-na {
+    cursor: not-allowed; 
+    filter: saturate(0);
+}
