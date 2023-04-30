@@ -25,6 +25,7 @@ h1,h2,h3,h3.sm,h4,h5,h6,h6.sm{
   font-family: $primary-font;
   font-weight: 700;
   color: $black;
+  margin-bottom: 0.7rem;
 }
 
 h1,.h1{
@@ -96,13 +97,14 @@ th {
   border-right: 1px solid $pale;
   color: #fff;
   font-family: $primary-font;
-  padding: 3px 6px;
+  font-size: 17px;
+  padding: 4px 8px;
 }
 
 td {
-  border-right: 1px solid $pale;
-  font-size: 17px;
-  padding: 3px 6px;
+  border-right: 1px solid $gray;
+  font-size: 16px;
+  padding: 5px 8px 8px;
 }
 
 td:last-child, th:last-child {
