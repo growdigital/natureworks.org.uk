@@ -22,12 +22,18 @@ links:
   url: https://bit.ly/forest-garden-spreadsheet
 ---
 
-Sign up to my Nature Works weekly-ish [Substack newsletter](https://natureworks.substack.com/):
+Sign up to my Nature Works weekly-ish [Gumroad newsletter](https://natureworksgarden.gumroad.com/posts):
 
-* Get a heads-up on upcoming [courses](https://www.natureworks.org.uk/course)
+* Get a heads-up on upcoming [classes](https://www.natureworks.org.uk/classes)
 * News from my [forest garden YouTube channel](https://youtube.com/NatureWorksGarden)
 * Useful links to assorted forest garden ephemera & trinkets
 
 No name required, just pop your email in the box and click **Subscribe**.
 
-<iframe src="https://natureworks.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+![Nature Works logo](https://res.cloudinary.com/growdigital/image/upload/w_50,r_10/v1592425148/fgw-logo-transparent.png)
+
+##### Nature Works
+
+Wildlife & food forest gardening newsletter
+
+<form style="width:100%;" action="https://app.gumroad.com/follow_from_embed_form" method="post" style="--accent:var(--accent);--contrast-accent:var(--contrast-accent);" id="gumroad-follow-form-embed"><input type="hidden" name="seller_id" value="7670563699179"/><input style="padding:16px; width:50%" id="gumroad-follow-form-embed-input" type="email" placeholder="Type your email…" name="email" value=""/><button id="gumroad-follow-form-embed-button" class="btn btn-primary" type="submit">Subscribe</button></form>

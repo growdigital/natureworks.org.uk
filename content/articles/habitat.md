@@ -31,7 +31,11 @@ This is simply a list of wildlife habitat structures, for my own benefit. I will
 * bird box
 * gabions
 * hedgehog house
+* Hedgehog highway
+* Reptile refugium (Kate Bradbury pp135)
+* Hibernaculum (amphibians & reptiles pp135)
 * bee logs
+  * Bee hole size [Prof Dave Goulson](https://www.youtube.com/@davegoulson6831) [Pt1](https://youtu.be/zQQmyz-v8Kg) & [Pt2](https://youtu.be/pxk5jkArC60)
 * hoverfly lagoons
 * dust bath for House Sparrows
 * different mediums
