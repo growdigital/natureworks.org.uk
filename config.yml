@@ -56,7 +56,7 @@ menu:
       URL: classes
       weight: 5
     - name: Store
-      URL: https://store.natureworks.org.uk/
+      URL: /store
       weight: 6
   secondary:
     - name: About
