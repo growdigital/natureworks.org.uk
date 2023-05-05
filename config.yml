@@ -56,7 +56,7 @@ menu:
       URL: classes
       weight: 5
     - name: Store
-      URL: /store
+      URL: store
       weight: 6
   secondary:
     - name: About
