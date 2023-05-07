@@ -29,7 +29,6 @@ Also see slideshow definition: [natureworks.org.uk/talks/definition](/talks/defi
 * **Ground cover**: preparation guide [natureworks.org.uk/ground-cover](/ground-cover/)
 * **Guard**: cheap, robust tree guard [natureworks.org.uk/guard](/guard)
 * **Hosta**: best species for eating [natureworks.org.uk/hostas](/hostas/)
-* **Label**: Recycled ever-expanding plant labels [natureworks.org.uk/label](/label/)
 * **Latin**: The meaning of Latin plant names [natureworks.org.uk/latin](/latin/)
 * **Layers**: the 7 layers of a forest garden [natureworks.org.uk/layers](/layers/)
 * **Nest box**: instructions to make a bird nesting box [natureworks.org.uk/nestbox](/nestbox/)
