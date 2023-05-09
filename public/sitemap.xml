@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-05-02T14:58:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/230502-silvopasture/</loc>
+    <lastmod>2023-05-02T14:58:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/silvopasture/</loc>
+    <lastmod>2023-05-02T14:58:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-05-02T14:58:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/classes/</loc>
+    <lastmod>2023-05-01T17:46:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/230501-classes/</loc>
+    <lastmod>2023-05-01T17:46:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/course/</loc>
+    <lastmod>2023-05-01T17:46:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2023-05-01T17:46:16+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/classes/</loc>
     <lastmod>2023-04-29T20:55:15+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/class/</loc>
-    <lastmod>2023-04-29T20:55:15+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/classes-copy/</loc>
-    <lastmod>2023-04-29T20:55:15+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2023-04-29T20:55:15+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/course/cad/</loc>
@@ -19,9 +37,6 @@
   </url><url>
     <loc>http://localhost:1313/course/</loc>
     <lastmod>2023-04-29T13:48:15+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-04-29T10:15:21+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/website/</loc>
     <lastmod>2023-04-29T10:15:21+01:00</lastmod>
@@ -40,9 +55,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/wildflowers/</loc>
     <lastmod>2023-04-29T09:49:18+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2023-04-15T21:31:35+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230415-syra/</loc>
     <lastmod>2023-04-15T21:31:35+01:00</lastmod>
@@ -587,9 +599,6 @@
     <loc>http://localhost:1313/class/backyard/</loc>
     <lastmod>2021-10-21T15:38:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/classes-copy/backyard/</loc>
-    <lastmod>2021-10-21T15:38:38+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/courses/backyard/</loc>
     <lastmod>2021-10-21T15:38:38+00:00</lastmod>
   </url><url>
@@ -724,9 +733,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/tree-leaves-for-salad/</loc>
     <lastmod>2020-09-09T11:51:27+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/course/</loc>
-    <lastmod>2020-07-15T12:21:03+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/free/</loc>
     <lastmod>2020-07-15T12:21:03+01:00</lastmod>
@@ -1163,13 +1169,7 @@
     <loc>http://localhost:1313/blog/lyndas-tayberry-fedge/</loc>
     <lastmod>2019-05-15T13:29:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/label/</loc>
-    <lastmod>2019-05-12T22:28:17+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/recycled-ever-expanding-plant-labels/</loc>
-    <lastmod>2019-05-12T22:28:17+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tip/</loc>
     <lastmod>2019-05-12T22:28:17+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ground-cover/</loc>

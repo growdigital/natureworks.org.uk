@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>silvopasture on Nature Works</title>
+    <link>http://localhost:1313/tags/silvopasture/</link>
+    <description>Recent content in silvopasture on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 02 May 2023 14:58:04 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/silvopasture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Silvopasture</title>
+      <link>http://localhost:1313/blog/230502-silvopasture/</link>
+      <pubDate>Tue, 02 May 2023 14:58:04 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/230502-silvopasture/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Photo of silvopasture in northern Spain&lt;/p&gt;
+        A friend on my forest garden Telegram group posted a photo from northern Spain of silvopasture, where there’s animal farming and agroforestry combined.
+        <link>http://localhost:1313/blog/230502-silvopasture/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,7 @@ imageAlt:
 - Hand holding plant label curled around small branch
 imageCap:
 - This label has been in place on the Victoria Plum for two years now.
-draft: false
+draft: true
 aliases:
 - /blog/recycled-ever-expanding-plant-labels/
 ---

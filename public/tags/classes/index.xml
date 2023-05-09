@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classes on Nature Works</title>
+    <link>http://localhost:1313/tags/classes/</link>
+    <description>Recent content in Classes on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 01 May 2023 17:46:16 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/classes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classes</title>
+      <link>http://localhost:1313/blog/230501-classes/</link>
+      <pubDate>Mon, 01 May 2023 17:46:16 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/230501-classes/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;New classes section in place and a renamed store&lt;/p&gt;
+        Ain’t no denying it, we are truly in a Nature and Climate Emergency.
+        <link>http://localhost:1313/blog/230501-classes/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

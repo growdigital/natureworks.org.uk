@@ -38,9 +38,9 @@ params:
     - name: Mastodon
       icon: fa-universal-access
       link: 'https://mas.to/@natureworks'
-    - name: Substack
+    - name: Newsletter
       icon: fa-newspaper-o
-      link: 'https://natureworks.substack.com'
+      link: 'https://natureworksgarden.gumroad.com/posts'
     - name: Facebook
       icon: fa-facebook
       link: 'https://facebook.com/NatureWorksGarden'
@@ -55,8 +55,8 @@ menu:
     - name: Classes
       URL: classes
       weight: 5
-    - name: Store
-      URL: store
+    - name: Store↗
+      URL: https://store.natureworks.org.uk/
       weight: 6
   secondary:
     - name: About
