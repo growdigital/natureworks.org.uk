@@ -22,7 +22,7 @@ links:
 
 I create and landscape wildlife food [forest garden](#what-is-a-forest-garden) designs that are sustainable and low maintenance. Based in West Wales, I offer both a local and remote design service, see my [portfolio](/portfolio/) for examples.
 
-#### Philosophy
+### Philosophy
 
 > A food forest garden can be an intersectional garden, a beautiful wildlife haven producing edible crops 
 
@@ -56,7 +56,7 @@ The site survey gives you an overview of ideas. For every stage you commission, 
 
 If you commission the whole design process, you get the site survey for free, ie&nbsp;total cost of £3,000 rather than £3,600.
 
-#### Approach
+### Approach
 
 There is much to consider in an intersectional garden, so I like to simplify the process by breakind it into 3 related stages:
 
@@ -87,7 +87,7 @@ In total, it takes about 1-2 weeks to create a garden design, with good client c
 
 To help with a rough estimate of design and landscaping a 1 acre forest garden, I gave a talk in February 2021: [natureworks.org.uk/talks/costing](https://www.natureworks.org.uk/talks/costing/)
 
-#### What is a forest garden?
+### What is a forest garden?
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1574024543/art-national-geographic-video.jpg" alt="Wooded forest garden" caption="Still from Thomas Regnault’s short film of Martin Crawford’s forest garden" >}}
 
