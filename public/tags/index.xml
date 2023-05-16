@@ -6,7 +6,33 @@
     <description>Recent content in Tags on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 02 May 2023 14:58:04 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 22:16:27 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeadHedge</title>
+      <link>http://localhost:1313/tags/deadhedge/</link>
+      <pubDate>Tue, 09 May 2023 22:16:27 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/deadhedge/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/deadhedge/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>ForestGarden</title>
+      <link>http://localhost:1313/tags/forestgarden/</link>
+      <pubDate>Tue, 09 May 2023 22:16:27 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/forestgarden/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/forestgarden/</link>
+      </description>
+    </item>
+    
     <item>
       <title>silvopasture</title>
       <link>http://localhost:1313/tags/silvopasture/</link>
@@ -43,19 +69,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/course/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>ForestGarden</title>
-      <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Mon, 01 May 2023 17:46:16 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/forestgarden/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/forestgarden/</link>
       </description>
     </item>
     
@@ -2448,19 +2461,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/foodforest/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>DeadHedge</title>
-      <link>http://localhost:1313/tags/deadhedge/</link>
-      <pubDate>Wed, 15 May 2019 13:29:58 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/deadhedge/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/deadhedge/</link>
       </description>
     </item>
     
