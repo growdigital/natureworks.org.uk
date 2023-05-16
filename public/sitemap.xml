@@ -572,7 +572,19 @@
     <loc>http://localhost:1313/tags/clumping/</loc>
     <lastmod>2022-03-12T13:29:51+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/functions/</loc>
+    <lastmod>2022-03-12T13:29:51+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/grass/</loc>
+    <lastmod>2022-03-12T13:29:51+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stacking/</loc>
+    <lastmod>2022-03-12T13:29:51+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/stacking-functions/</loc>
+    <lastmod>2022-03-12T13:29:51+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stackingfunctions/</loc>
     <lastmod>2022-03-12T13:29:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/design/</loc>
