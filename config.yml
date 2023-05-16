@@ -40,7 +40,7 @@ params:
       link: 'https://mas.to/@natureworks'
     - name: Newsletter
       icon: fa-newspaper-o
-      link: 'https://natureworksgarden.gumroad.com/posts'
+      link: 'https://store.natureworks.org.uk/posts'
     - name: Facebook
       icon: fa-facebook
       link: 'https://facebook.com/NatureWorksGarden'

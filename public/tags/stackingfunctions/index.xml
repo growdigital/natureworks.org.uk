@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StackingFunctions on Nature Works</title>
+    <link>http://localhost:1313/tags/stackingfunctions/</link>
+    <description>Recent content in StackingFunctions on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 12 Mar 2022 13:29:51 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/stackingfunctions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stacking functions</title>
+      <link>http://localhost:1313/stacking-functions/</link>
+      <pubDate>Sat, 12 Mar 2022 13:29:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/stacking-functions/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A permaculture design term for elements with multiple functions&lt;/p&gt;
+        When designing garden elements, it’s good to stack the functions, so you have a feature that is doing more than one thing.
+        <link>http://localhost:1313/stacking-functions/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
