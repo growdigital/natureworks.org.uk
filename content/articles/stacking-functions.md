@@ -29,6 +29,8 @@ For example, these are [dead hedge](/dead-hedge/) functions:
 
 The same principle can be used for specific plants. Eg a [Sea Buckthorn](https://pfaf.org/user/Plant.aspx?LatinName=Hippophae+rhamnoides) can be used for:
 
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1580911534/sea-buckthorn-31131832578.jpg" alt="Orange berries and silver leaves" caption="Sea Buckthorn fruiting, in a windbreak hedge" >}}
+
 * Windbreak hedge
 * Nitrogen fixer
 * Wildlife habitat
