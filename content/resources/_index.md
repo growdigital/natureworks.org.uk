@@ -21,41 +21,34 @@ aliases:
 - /free/
 - /freebies/
 - /freebie/
+- /reference/
 ---
 
-| Name | Details | Online | Download |
-| - | - | :--: | :-: |
-| Forest&nbsp;Garden&nbsp;Spreadsheet | All the plants in Martin Crawford’s [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/). Data from [PFAF](https://pfaf.org/user/Default.aspx). By Jake Rayson, Olly Boon & Chris Day | <a href="https://bit.ly/forest-garden-spreadsheet"><i class="fa fa-table"></i></a> | <a href="https://store.natureworks.org.uk/l/ForestGardenSpreadsheet"><i class="fa fa-download"></i></a> |
+| Name | Type | Details | Online | Aquire |
+| - | - | - | :--: | :-: |
+| **Forest&nbsp;Garden&nbsp;Spreadsheet** | Spreadsheet | All the plants in Martin Crawford’s fabulous book [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/). Data with kind permission from [PFAF](https://pfaf.org/user/Default.aspx). Made by Jake Rayson, Olly Boon & Chris Day. | <a href="https://bit.ly/forest-garden-spreadsheet" target="_blank"><i class="fa fa-table"></i></a> | <a href="https://store.natureworks.org.uk/l/ForestGardenSpreadsheet" target="_blank"><i class="fa fa-download"></i></a> |
+| **Garden Wild Spreadsheet** | Spreadsheet | UK native plants for gardening. Currently 100 wild flowers, plans to extend to shrubs, trees, ferns & grasses. By Jake Rayson. | <a href="https://bit.ly/garden-wild-spreadsheet" target="_blank"><i class="fa fa-table"></i></a> | - | 
+| **Apple&nbsp;Varieties&nbsp;Spreadsheet** | Spreadsheet | Useful list of different apple varieties for the UK. Created by Chris Day, re-formatted by Jake Rayson. | <a href="https://bit.ly/apple-spreadsheet" target="_blank"><i class="fa fa-table"></i></a> | - | 
+| **Plants For A Future** | Database | Database of useful plants | <a href="https://pfaf.org/" target="_blank"><i class="fa fa-database"></i></a> | - | 
+| **Plant Atlas** | Database | Botanical native plant reference for Britain & Ireland | <a href="https://plantatlas2020.org/" target="_blank"><i class="fa fa-database"></i></a> | - |
+| **RHS Plant Finder** | Database | Ornamental plant reference.  Plant finder with [native filter applied](https://bit.ly/rhs-native-plant). | <a href="https://www.rhs.org.uk/plants/search-form" target="_blank"><i class="fa fa-database"></i></a> | - |
+| **DBIF** | Database | Database of Insects & their Food Plants, in the UK | <a href="http://dbif.brc.ac.uk/hosts.aspx" target="_blank"><i class="fa fa-database"></i></a> | - |
+| **DoPI** | Database | Database of Pollinator Interactions by Sussex University. Pollinator interactions UK native flowers. | <a href="https://www.sussex.ac.uk/lifesci/ebe/dopi/" target="_blank"><i class="fa fa-database"></i></a> | - |
+| **NBN Atlas** | Database | National Biodiversity Network of life in the UK | <a href="https://nbnatlas.org/" target="_blank"><i class="fa fa-database"></i></a> | - |
+| **GBIF** | Database | Global Biodiversity Information Facility, life on Earth | <a href="https://www.gbif.org/" target="_blank"><i class="fa fa-database"></i></a> | - |
+| **Wikimedia Commons** | Database | Open license images |  <a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank"><i class="fa fa-database"></i></a> | - |
+| **Archive.org library** | Library | Free digital book library | <a href="https://archive.org/details/inlibrary" target="_blank"><i class="fa fa-database"></i></a> | - |
+| **Creating a Forest Garden** | Book | Seminal forest gardening book, giving an overview of the process and the plants | - | <a href="https://uk.bookshop.org/p/books/creating-a-forest-garden-working-with-nature-to-grow-edible-crops-martin-crawford/557814?aid=12050&ean=9781900322621" target="_blank"><i class="fa fa-book"></i></a> |
+| **Harrap’s Wild Flowers** | Book | Thorough, lightweight UK wild flower ID book. Lovely. | - | <a href="https://uk.bookshop.org/p/books/harrap-s-wild-flowers-simon-harrap/1491339?aid=12050&ean=9781472966483" target="_blank"><i class="fa fa-book"></i></a> |
+| **Roots and All** | Podcast | Wildlife gardening & more, my favourite podcast, by Sarah Wilson. | <a href="https://rootsandall.co.uk/podcasts/" target="_blank"><i class="fa fa-globe"></i></a> | <a href="https://rootsandall.libsyn.com/rss" target="_blank"><i class="fa fa-podcast"></i></a> |
+| **Growing Greener** | Podcast | USA wildlife & ecological gardening podcast. By Thomas Christopher. | <a href="https://www.thomaschristophergardens.com/podcast" target="_blank"><i class="fa fa-globe"></i></a> | <a href="https://growinggreener.libsyn.com/rss" target="_blank"><i class="fa fa-podcast"></i></a> |
+| **Eat Weeds** | Podcast | UK foraging podcast  | <a href="https://www.eatweeds.co.uk/podcast" target="_blank"><i class="fa fa-globe"></i></a> | <a href="https://feeds.transistor.fm/eatweeds-podcast-for-people-who-love-plants-36f388f7-b4eb-4b3e-a14c-2e81e3b3120e" target="_blank"><i class="fa fa-podcast"></i></a> |
 
-* [Garden Wild Spreadsheet](https://bit.ly/garden-wild-spreadsheet) - UK native wild flowers
-* [Apple varieties spreadsheet](https://bit.ly/apple-spreadsheet) - by Chris Day
+### My stuff
+
 * [Plan a Backyard Forest mini-course](https://www.natureworks.org.uk/classes/plan/) - basic setup of a forest garden plan
 * [Forest garden YouTube channel](https://youtube.com/NatureWorksGarden) - design tips, walkthroughs, plants, ideas etc
-* [Substack newsletter](https://natureworks.substack.com/) - weekly updates, links, thoughts, ramblings
-
-### References
-
-* [Plants For A Future](https://pfaf.org/user/Default.aspx) - database of useful plants
-* [Plant Atlas](https://www.brc.ac.uk/plantatlas/) - botanical native plant reference for Britain & Ireland
-* [RHS plant finder](https://www.rhs.org.uk/plants/search-form) - ornamental plant reference
-* [RHS plant finder with native filter](https://bit.ly/rhs-native-plant)
-* [DBIF](http://dbif.brc.ac.uk/hosts.aspx) - UK Database of Insects & their Food Plants
-* [Database of Pollinator Interactions](https://www.sussex.ac.uk/lifesci/ebe/dopi/) - pollinator interactions UK native flowers
-* [NBN Atlas](https://nbnatlas.org/) - National Biodiversity Network of life in the UK
-* [GBIF](https://www.gbif.org/) - Global Biodiversity Information Facility, life on Earth
-* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - open license images
-* [Archive.org library](https://archive.org/details/inlibrary) - free digital book library 
-
-### Books
-
-* [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) by Martin Crawford
-* [Harrap’s Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472982667/) by Simon Harrap
-
-### Podcasts
-
-* [Roots and All](https://www.brc.ac.uk/plantatlas/) by Sarah Wilson
-* [Growing Greener](https://www.thomaschristophergardens.com/podcast) by Thomas Christopher
-* [Eat Weeds](https://www.eatweeds.co.uk/podcast) by Robin Harford
+* [Jake’s newsletter](https://natureworks.substack.com/) - weekly updates, links, thoughts, ramblings
 
 ### Nurseries
 
@@ -69,6 +62,6 @@ Choose locally grown if you can, to support [ecoregion](https://en.wikipedia.org
 * [Agroforestry Research Trust](https://www.agroforestry.co.uk/) - Devon, UK
 * [Mintopia](https://mintopia.bigcartel.com/) - National Plant Collection of Mentha, Cheshire, UK
 
-If you like what I do, consider becoming a [Patreon](https://patreon.com/natureworks) from only £1 per month.
+If you like what I do, consider becoming a [Ko-fi member](https://ko-fi.com/natureworks/tiers) from only £1 per month.
 
 Thank you 😊 🌳 💚
