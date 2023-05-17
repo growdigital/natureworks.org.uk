@@ -15,7 +15,7 @@ imageCap:
 - Dead hedges are an ideal example of an element with stacking functions
 draft: false
 aliases:
-- /stacking-functions/
+- /functions/
 - /stackingfunctions/
 ---
 

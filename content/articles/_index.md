@@ -41,7 +41,7 @@ Also see slideshow definition: [natureworks.org.uk/talks/definition](/talks/defi
 * **Rootstock**: fruit tree rootstock reference [natureworks.org.uk/rootstock](/rootstock/)
 * **Spacing**: calculating the space between trees [natureworks.org.uk/spacing](/spacing/)
 * **Spreadsheets**: sortable spreadsheets to find plants easily [natureworks.org.uk/spreadhseets](/spreadsheets/)
-* **Stacking Functions**: design garden elements to have multiple functions [natureworks.org.uk/functions](/functions/) 
+* **Stacking Functions**: design garden elements to have multiple functions [natureworks.org.uk/stacking-functions](/stacking-functions/) 
 * **Survey**: checklist for survey observations [natureworks.org.uk/survey/](/survey/)
 * **Top 10 Perennial Veg**: [natureworks.org.uk/top-10-perennial-veg](/top-10-perennial-veg/)
 * **Walkthroughs**: practical videos for The Backyard Forest course [natureworks.org.uk/walkthroughs](/walkthroughs/)
