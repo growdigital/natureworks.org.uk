@@ -15,7 +15,8 @@ imageCap:
 - Dead hedges are an ideal example of an element with stacking functions
 draft: false
 aliases:
-- /boundary/
+- /stacking-functions/
+- /stackingfunctions/
 ---
 
 When designing garden elements, it’s good to **stack the functions**, so you have a feature that is doing more than one thing.
