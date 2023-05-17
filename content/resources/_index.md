@@ -11,11 +11,11 @@ tags:
 - Courses
 type: portfolio
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1543954134/quince-blossom-41405332295.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1683925265/fern-floral-verge-230512.jpg
 imageAlt: 
-- Blossom close-up in the late day sun
+- Floriferous & green verge with reflective bollard
 imageCap:
-- Quince blossom in the forest garden
+- Remember, native plants where possible!
 draft: false
 aliases:
 - /free/
@@ -37,7 +37,7 @@ aliases:
 | **NBN Atlas** | Database | National Biodiversity Network of life in the UK | <a href="https://nbnatlas.org/" target="_blank"><i class="fa fa-database"></i></a> | - |
 | **GBIF** | Database | Global Biodiversity Information Facility, life on Earth | <a href="https://www.gbif.org/" target="_blank"><i class="fa fa-database"></i></a> | - |
 | **Wikimedia Commons** | Database | Open license images |  <a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank"><i class="fa fa-database"></i></a> | - |
-| **Archive.org library** | Library | Free digital book library | <a href="https://archive.org/details/inlibrary" target="_blank"><i class="fa fa-database"></i></a> | - |
+| **Archive.org library** | Library | Free digital book library | <a href="https://archive.org/details/inlibrary" target="_blank"><i class="fa fa-book"></i></a> | - |
 | **Creating a Forest Garden** | Book | Seminal forest gardening book, giving an overview of the process and the plants | - | <a href="https://uk.bookshop.org/p/books/creating-a-forest-garden-working-with-nature-to-grow-edible-crops-martin-crawford/557814?aid=12050&ean=9781900322621" target="_blank"><i class="fa fa-book"></i></a> |
 | **Harrap’s Wild Flowers** | Book | Thorough, lightweight UK wild flower ID book. Lovely. | - | <a href="https://uk.bookshop.org/p/books/harrap-s-wild-flowers-simon-harrap/1491339?aid=12050&ean=9781472966483" target="_blank"><i class="fa fa-book"></i></a> |
 | **Roots and All** | Podcast | Wildlife gardening & more, my favourite podcast, by Sarah Wilson. | <a href="https://rootsandall.co.uk/podcasts/" target="_blank"><i class="fa fa-globe"></i></a> | <a href="https://rootsandall.libsyn.com/rss" target="_blank"><i class="fa fa-podcast"></i></a> |
