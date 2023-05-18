@@ -1,11 +1,11 @@
 ---
 title: The Undergrove
 date: 2022-11-01
-draft: true
+draft: false
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1646773096/walled/minecraft-japanese-garden-central.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1683925273/undergrove/den-steps-230512.jpg
 imageAlt: 
-- Screenshot of walled garden in Minecraft
+- Slate garden path leading past wooden den, up steps by gabion to fenced platform area
 client: Retired couple
 summary: Small sloping rear garden for new-build eco-house
 location: Newcastle Emlyn, Wales
@@ -15,64 +15,22 @@ siteLink: grwd.uk/undergrove
 > Where leafless oaks towered high above, I sat within an undergrove<br>Of tallest hollies, tall and green; A fairer bower was never seen.  
 ~ _William Wordsworth_
 
-[![cad plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1660315725/undergrove/cad-plan.png)](https://res.cloudinary.com/growdigital/image/upload/v1660315725/undergrove/cad-plan.png)  
-_First draft of the CAD plan_
+Curved self-binding slate paths, seating areas and wildlife friendly gabions, with native and mostly edible planting, in an east-facing rear garden of a new eco-house, with a grove of oaks beyond a steep slope. 
 
-An east-facing rear garden of a new eco-house, with a grove of oaks at the back beyond a steep slope. Outdoor office, lawn and raised beds.
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1684408799/undergrove/plum-espalier-230512-crop.jpg" alt="Newly planted espalier tree on plastic fence" caption="Starting to train a young Plum tree as an espalier" >}}
 
-[![PDF CAD plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788206/undergrove/undergrove.png)](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)  
-### [Download latest PDF](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)
+The space is quite limited, so I have made good use of the fencing for espaliered fruit trees and cultivars of native honeysuckle, and climbing roses up the mature oaks. For the two seating areas and roundwood framed den, I created two retaining walls gabions, filled with locally sourced stone. For additional habitat, there are two gabion pillars, topped with bee logs and a slate roof.
 
-## Aim
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1683925251/undergrove/aronia-brilliant-bee-logs-230512.jpg" alt="White clusters of flowers on young shrub in front of gabion filled with bee logs" caption="Aronia 'Brilliant' in blossom in front of a gabion filled with bee logs " >}}
 
-To maximise the available space to create a secluded, accessible, multi-level woodland garden, using native and edible plants. 
+The den has been made for the grandchildren, and is tucked away behind the outdoor office, secret yet accessible. It is designed and built by [David Hunter](https://thecoppiceplot.com/about/), and is made out of Larch, with a roundwood frame and clad externally.
 
-[![Sketch of slope](https://res.cloudinary.com/growdigital/image/upload/w_420/v1654091710/undergrove/undergrove-sketch-bank.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091710/undergrove/undergrove-sketch-bank.jpg)  
-_Rear slope, click to expand_
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1684409281/undergrove/den-230310.jpg" alt="Newly built den with sloping roof, squeezed into a space behind the outdoor office" caption="David Hunter’s amazing handiwork fits nicely into a compact space" >}}
 
-The key areas are:
+I have used a combination of non-native edibles, such as the Apple, Plum and Asian Pear trees, [Hosta 'Elegans'](https://www.rhs.org.uk/plants/99289/hosta-sieboldiana-var-elegans/details) and [H. 'Halcyon'](https://www.rhs.org.uk/plants/91303/hosta-(tardiana-group)-halcyon/details), and the [Aronia](https://pfaf.org/user/Plant.aspx?LatinName=Aronia+arbutifolia) and [Blueberry 'Northland'](https://www.rhs.org.uk/plants/231119/i-vaccinium-i-northland-(f)/details), combined with native wild flowers such as [Devil's Bit Scabious](https://pfaf.org/user/Plant.aspx?LatinName=Succisa+pratensis), native ferns like ['Hart's Tongue'](https://pfaf.org/user/plant.aspx?latinname=Asplenium+scolopendrium) and native cultivars such as [Honeysuckle 'Graham Thomas'](https://www.rhs.org.uk/plants/74793/lonicera-periclymenum-graham-thomas/details).
 
-1. **Rear slope** — with 2, possibly 3, seating areas: the den, west-facing bench and possibly a space above the den. The path needs to be level for accessiblity, with solid steps, so possibly some sort of cost-effective retaining walls. The plants need to screen the areas from the neighbours and with some seclusion from the rest of the garden.
-2. **Lawn area** — keep openness and functionality of the lawn, but improve accessibility, particularly to the raised beds. Possibly a central feature, keeping enough space for temporary structures.
-3. **Climbers & espaliers** — really important to green the garden whilst maximising the use of space.
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1684410176/undergrove/crabapple-blossom-230426.jpg" alt="Young apple tree in blossom on slope by path in new garden" caption="The Crabapple in full blossom, after only being planted the previous winter" >}}
 
-[![Bare back garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091809/undergrove/raised-beds-slopes-from-side.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091809/undergrove/raised-beds-slopes-from-side.jpg)  
-_Rear slope, platform to the left & platform to the right_
+I had originally installed a half-barrel pond for wildlife, with native aquatic plants. Unfortunately, the leaf fall from the Oaks has swamped the pond, so I have replaced it with a stone pile supporting a Sycamore log. On top of this will be steel water bowl, which can be easily cleaned and refilled, and still provide water for birds.
 
-## Features
-
-* Water feature
-* Sympathetic hidden wooden den
-* Espaliered fruit trees maximising space
-* Climbers to “borrow” the oak trees
-* Private west-facing seating area
-* Efficient annual & perennial veg beds
-
-### Den
-
-[![PDF plan of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788359/undergrove/den.png)](https://github.com/growdigital/undergrove/raw/main/den.pdf)  
-_Link to PDF of den_
-
-Smooth, lightweight cleft larch construction, clad with tidy planks.
-
-[![Sketch of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091725/undergrove/den-sketch-entrance.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091725/undergrove/den-sketch-entrance.jpg)  
-_Sketch of front of den, with rounded entrance & swing doors_
-
-[![Sketch of site of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091711/undergrove/undergrove-sketch-den-site.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091711/undergrove/undergrove-sketch-den-site.jpg)  
-_Site of den, showing position_
-
-### Pond
-
-Sunken half-barrel, planted with native miniature aquatic plants!
-
-[![Sketch cross-section sunken barrel pond](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091709/undergrove/pond-cross-section.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091709/undergrove/pond-cross-section.jpg)  
-_Cross-section of pond, showing gravel to preserve outside wood_
-
-## Files
-
-* [Download latest PDF](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)
-* [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/undergrove/blob/main/undergrove.dxf)
-* [Satellite image](https://github.com/growdigital/undergrove/raw/main/satellite.jpg)
-* [GitHub repository](https://github.com/growdigital/undergrove)
-
-This page online: <https://grwd.uk/undergrove>
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1684408498/undergrove/stone-pile-log-230517.jpg" alt="Stone pile, sycamore log, raised behinds behind" caption="The Sycamore log will support the water bowl, whilst the miniature Darwin’s Barberry in the corner will provide protection for visiting birds" >}}
