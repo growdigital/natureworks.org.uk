@@ -7,7 +7,7 @@ images:
 imageAlt: 
 - Hostas in a new flower bed, by curvy path
 client: Young professional couple
-summary: Small enclosed rear garden for new-build, on a shoestring budget
+summary: Small enclosed rear garden on a shoestring budget
 location: Carmarthen, Wales
 siteLink: grwd.uk/max
 ---
