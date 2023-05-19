@@ -22,4 +22,4 @@ There is no political appetite from governments to systemic change, which is wha
 
 Which means we will have unmanaged systemic change and spiralling temperature increases to 4-5°C.
 
-So, what do we do?
+So, what do we do? What does climate resilience look like in society?
