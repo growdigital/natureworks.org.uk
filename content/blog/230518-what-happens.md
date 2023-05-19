@@ -22,4 +22,4 @@ There is no political appetite from governments to systemic change, which is wha
 
 Which means we will have unmanaged systemic change and spiralling temperature increases to 4-5°C.
 
-This means 
+So, what do we do?
