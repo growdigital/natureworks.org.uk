@@ -3,9 +3,9 @@ title: Max
 date: 2023-03-02
 draft: false
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1684412783/max/hostas-230501-169.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1684524358/max/seating-230519.jpg
 imageAlt: 
-- Hostas in a new flower bed, by curvy path
+- New rear garden, seating in corner, wooden fencing around
 client: Young professional couple
 summary: Small enclosed rear garden on a shoestring budget
 location: Carmarthen, Wales
