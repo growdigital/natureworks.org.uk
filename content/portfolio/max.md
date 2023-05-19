@@ -31,3 +31,5 @@ There are [Blueberry](https://pfaf.org/user/Plant.aspx?LatinName=Vaccinium+corym
 The garden looks quite magical already. Even the Apple trees are blossoming!
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1684414697/max/espalier-apple-230518.jpg" alt="Close-up of apple blossom against brick wall" caption="The espalier Apple tree is blossoming already" >}}
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1684414080/max/hostas-230501-169.jpg" alt="Hostas and ferns in new curvy bed" caption="Hostas and ferns in the shady bed" >}}
