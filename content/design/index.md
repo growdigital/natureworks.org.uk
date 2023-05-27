@@ -40,7 +40,7 @@ This creates a more resilient ecosystem, which benefits the edible crops in the 
 
 * Day rate `£400`
 * Hourly rate `£75`
-* One hour introductory online consultation `£120`<br>(client provides photos & videos in advance)
+* Introductory online consultation `£120`<br>(1 hour, client provides photos & videos in advance)
 
 #### Design
 
