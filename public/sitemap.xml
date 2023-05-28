@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/230528-boundary-plants/</loc>
+    <lastmod>2023-05-28T11:12:01+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/geranium/</loc>
+    <lastmod>2023-05-28T11:12:01+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tips/</loc>
+    <lastmod>2023-05-28T11:12:01+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230518-what-happens/</loc>
     <lastmod>2023-05-18T22:25:48+01:00</lastmod>
   </url><url>
