@@ -33,3 +33,27 @@ A simple list of features that benefit wildlife in any garden.
 * **Flowers:** Flowers all year round for pollinators and predators. Try growing native wild flowers, as they’re a food source for larger number of insects. Include some umbellifers for our smaller tongued compatriots. There is a wealth of information online about suitable flowers. Martin Crawford’s book [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) has a whole appendix devoted to which flowers provide pollen and/or nectar and when.
 
 Inspired by [Malcolm Berry](https://www.facebook.com/The-Dreaded-Gardener-1403035606578314/)’s wildlife gardening talk to [Drefach Gardening Club](http://www.drefachfelindregardeningclub.co.uk)
+
+--- 
+
+I’m reworking this list, simplifying it and giving links to resources. 
+
+https://www.natureworks.org.uk/wildlife-features/
+
+1. Pond
+2. Native
+3. Meadow
+4. Hedges
+5. Trees & shrubs
+6. Log piles
+7. Stone piles
+8. Gabions - "unit of structural habitat"
+9. Bee hotels - [Air bee ’n bee](https://www.thebuzzclub.uk/air-bee-n-bee)
+10. Miner Bees - [Marvellous Miners](https://www.thebuzzclub.uk/miningbees)
+10. [Earwig hotels](https://www.thebuzzclub.uk/earwigo)
+11. [Hoverfly lagoons](https://www.thebuzzclub.uk/hoverfly-lagoons)
+12. Hedgehog highway
+13. bumble bee boxes
+14. small mammal boxes
+15. solitary bee stuff
+
