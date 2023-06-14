@@ -11,7 +11,7 @@ imageCap:
 - A cornucopia of forest garden delights
 ---
 
-## Wildlife forest garden design classes
+## Forest garden design classes
 
 Following the [same structure](/backyard/) as my best-selling online course [The Backyard Forest](/store/backyard/), I am creating a series of classes. They will be more focussed, stand-alone and easily updateable. 
 
