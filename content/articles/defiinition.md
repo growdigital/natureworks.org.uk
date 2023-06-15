@@ -67,4 +67,4 @@ Using trees, shrubs, perennials and self-seeding annuals, a forest garden emulat
 * No fertilisers (fertility from mineral accumulators and nitrogen fixers)
 * No compost (compost in-situ)
 
-The book I always recommend is Martin Crawford’s [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/). 
+The book I recommend is Martin Crawford’s [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/). 
