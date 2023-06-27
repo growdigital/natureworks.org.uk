@@ -1,7 +1,7 @@
 ######################## Banner ############################
 banner:
   enable : true
-  title : "Wildlife &amp; food&nbsp;forest garden&nbsp;design"
+  title : "Wildlife &amp; forest&nbsp;garden design"
   content : "Your garden can be beautiful, edible <i>and</i> wildlife&nbsp;friendly.<br><br>Provide habitat diversity, grow edible perennials and create wonder with wild flowers.<br><br>Garden design by Jake Rayson 💚"
   bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1400,q_40/v1543954134/quince-blossom-41405332295.jpg"
   button:
