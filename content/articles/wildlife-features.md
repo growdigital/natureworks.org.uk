@@ -38,8 +38,6 @@ Inspired by [Malcolm Berry](https://www.facebook.com/The-Dreaded-Gardener-140303
 
 I’m reworking this list, simplifying it and giving links to resources. 
 
-https://www.natureworks.org.uk/wildlife-features/
-
 1. Pond
 2. Native
 3. Meadow
@@ -56,21 +54,3 @@ https://www.natureworks.org.uk/wildlife-features/
 13. bumble bee boxes
 14. small mammal boxes
 15. solitary bee stuff
-
-We want to host youth activity workshops (film, food, arts, sport etc), shaped by co-authored outcomes from ongoing community assemblies. These will help forge a more resilient community.
-
-We aim to strengthen the bonds in the community by bringing people of all ages together through film, food and a range of youth activities. Through engagement and listening across a variety of sites and events in the wider Newcastle Emlyn area, using community assemblies, we’ll build a stronger, more inclusive community for all ages.
-We aim to particularly engage, consult and listen to young people of the area who currently have very few social options. We want to be led by them in determining their ongoing needs. 
-Strengthening social bonds in our area will help the Newcastle Emlyn area become a more adaptive and resilient community, and more able to respond to the nature and climate crisis that is unfolding around us.
-
-* 9x youth sessions (activity & community assembly) @£500 each *£4,500*
-  Approx breakdown:
-  * Hall hire £100
-  * Equipment hire £50
-  * Community food £200
-  * Facilitators £150
-* Administrative costs *£500* 
-  * Public liability insurance £200
-  * Film screening license £
-  * Posters & publicity £200
-
