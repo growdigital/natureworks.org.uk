@@ -56,3 +56,15 @@ I’m reworking this list, simplifying it and giving links to resources.
 15. solitary bee stuff
 
 [Buzz Club](https://www.thebuzzclub.uk/projects-overview)
+
+## Habitats & growing mediums
+
+* Pond
+* Marsh
+* Stones
+* Gravel
+* Sand
+* Clay
+* Grass short
+* Grass medium
+* Grass long
