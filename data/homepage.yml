@@ -32,7 +32,7 @@ service:
       button:
         enable : true
         label : "Store"
-        link : store
+        link : https://store.natureworks.org.uk/
 
     # Service item loop
     - name : "Ornamental wild flowers"
