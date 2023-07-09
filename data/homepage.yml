@@ -102,9 +102,9 @@ testimonial:
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Free Plan a Backyard Forest mini-course"
-  content : "Interested in creating a forest garden? FREE online mini-course, including a forest garden definition, observations checklist and creating a forest garden map with paper and CAD."
+  title : "Forest Garden Primer"
+  content : "Interested in creating a forest garden? As a reward for reading this far, a FREE copy of my Forest Garden Primer class using the code: FREEPRIMER"
   button:
     enable : true
     label : "Grab your copy!"
-    link : "/courses/plan/"
+    link : "https://natureworksgarden.gumroad.com/l/primer/FreePrimer"
