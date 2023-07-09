@@ -58,6 +58,12 @@ testimonial:
   title : "Quotes<br> From Clients"
   testimonial_item:
     # Testimonial item loop
+    - name: "YC"
+      designation: "Small London garden"
+      image: "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1688922322/tennis-ball.jpg"
+      content: "Jake listened, worked quickly and came up with a design that is beautiful, practical and cost effective. Great communication and full engagement throughout, not to mention a wellspring of knowledge in forest gardening. Couldn't recommend more."
+
+    # Testimonial item loop
     - name: "David & Laura"
       designation: "Small clifftop garden"
       image: "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1651752658/david.jpg"
