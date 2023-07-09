@@ -102,8 +102,8 @@ testimonial:
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Forest Garden Primer"
-  content : "Interested in creating a forest garden? As a reward for reading this far, a FREE copy of my Forest Garden Primer class using the code: FREEPRIMER"
+  title : "FREE Forest Garden Primer"
+  content : "Interested in creating a forest garden? For reading this far, a FREE copy of my Forest Garden Primer class, a short 20 minute introduction, packed full of information."
   button:
     enable : true
     label : "Grab your copy!"
