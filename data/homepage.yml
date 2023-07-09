@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Wildlife &amp; forest&nbsp;garden design"
   content : "Your garden can be beautiful, edible <i>and</i> wildlife&nbsp;friendly.<br><br>Provide habitat diversity, grow edible perennials and create wonder with wild flowers.<br><br>Garden design by Jake Rayson 💚"
-  bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1400,q_40/v1543954134/quince-blossom-41405332295.jpg"
+  bg_image: "https://res.cloudinary.com/growdigital/image/upload/q_40/v1688476097/sweet-chestnut-flower-230702.jpg"
   button:
     enable : true
     label : "Portfolio"
@@ -17,31 +17,31 @@ service:
   bg_image : "images/shape-big.png"
   service_item:
     # Service item loop
-    - name : "Wildlife"
+    - name : "Design"
       icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630869174/icon-landscape.png"
-      content : "By working with nature, a food forest garden is sustainable &amp; low-maintenance. It emulates a woodland edge, with layers of edible perennials & a living ground cover, providing its own nutrients and pest control."
+      content : "By working with nature, a forest garden is sustainable &amp; low-maintenance. It emulates a woodland edge, with layers of edible perennials and a living ground cover."
       button:
         enable : true
         label : "Design"
         link : design
 
     # Service item loop
-    - name : "Course"
+    - name : "Edible perennials"
       icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630868761/icon-watering-plants.png"
-      content : "A full 3½ online forest garden course and a free planning mini-course, both on Udemy, with plenty of additional resources."
+      content : "Trees provide. Plant fruit, nut and nitrogen fixing trees, underplant with edible shrubs, perennial vegetables, herbs and wild flowers. See my store for classes on creating a forest garden."
       button:
         enable : true
-        label : "Course"
-        link : course
+        label : "Store"
+        link : store
 
     # Service item loop
-    - name : "Workshops & livestream"
+    - name : "Ornamental wild flowers"
       icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630869174/icon-growth.png"
-      content : "Realtime online and in-person workshops for groups, from an introductory 1 hour to a full day. Plus regular livestreams on YouTube."
+      content : "Be a force for good by increasing the diversity of native plants species and habitat. Include structural complexity in garden infrastructure and use ornamental wild flowers."
       button:
         enable : true
-        label : "Livestream"
-        link : livestream
+        label : "Native plants class"
+        link : https://store.natureworks.org.uk/l/native
 
 ############################# portfolio ############################
 portfolio:
