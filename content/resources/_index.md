@@ -62,6 +62,6 @@ Choose locally grown if you can, to support [ecoregion](https://en.wikipedia.org
 * [Agroforestry Research Trust](https://www.agroforestry.co.uk/) - Devon, UK
 * [Mintopia](https://mintopia.bigcartel.com/) - National Plant Collection of Mentha, Cheshire, UK
 
-If you like what I do, consider becoming a [Ko-fi member](https://ko-fi.com/natureworks/tiers) from only £1 per month.
+If you like what I do, consider becoming a [Guild of Forest Gardeners member](https://store.natureworks.org.uk/l/membership) from only £1 per month.
 
 Thank you 😊 🌳 💚
