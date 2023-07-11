@@ -46,7 +46,7 @@ This creates a more resilient ecosystem, which benefits the edible crops in the 
 
 | Service | Pricing | Details |
 | - | -: | - |
-| Initial meeting | `Free` | Introductory online meeting to outline project and explore if we can work together. |
+| Initial meeting | `Free` | Online meeting to outline project and explore if we can work together. |
 | 1. Site survey | `£600` | Full site survey, report & outline plan. Either online or on-site. Report & plan provided online. Mileage 45p per mile. |
 | 2. Garden&nbsp;design | `£2-4,000` approx | Detailed CAD planting plan, with sketches, full costing & whole garden quote. Detailed plant spreadsheet, including suppliers, schedule & management. Includes meetings & revisions. Price depends on size & complexity of garden and also the level of detail in the design. |
 | 3. Garden design & installation | `£10,000+` approx | Includes garden design, hard landscaping, planting and management. Price depends on size of garden, type and quantity of materials. |

@@ -103,7 +103,7 @@ testimonial:
 call_to_action:
   enable : true
   title : "FREE Forest Garden Primer"
-  content : "Interested in creating a forest garden? For reading this far, a FREE copy of my Forest Garden Primer class, a short 20 minute introduction, packed full of information."
+  content : "Interested in creating a forest garden? Then get your FREE copy of my Forest Garden Primer class (usually £2), a short 20 minute introduction, packed full of information. What is a forest garden? Why are so good in a Climate Emergency? How do you go about creating one?"
   button:
     enable : true
     label : "Grab your copy!"
