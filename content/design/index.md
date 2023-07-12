@@ -53,6 +53,11 @@ This creates a more resilient ecosystem, which benefits the edible crops in the 
 
 The site survey gives you an overview of ideas.
 
+#### Talks
+
+* Existing talk, virtual or in-person `£150`
+* New, bespoke talk `£300`
+
 #### Costing
 
 Each job is costed individually and not by a day rate. The cost of a design really depends on the level of detail required. I can provide anything from an outline canopy and windbreak plan to detailed border planting plans with costings & suppliers.
