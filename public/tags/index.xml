@@ -6,17 +6,56 @@
     <description>Recent content in Tags on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 28 May 2023 11:12:01 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jul 2023 13:10:04 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cymru</title>
+      <link>http://localhost:1313/tags/cymru/</link>
+      <pubDate>Mon, 17 Jul 2023 13:10:04 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/cymru/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/cymru/</link>
+      </description>
+    </item>
+    
     <item>
       <title>ForestGarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Sun, 28 May 2023 11:12:01 +0100</pubDate>
+      <pubDate>Mon, 17 Jul 2023 13:10:04 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description>
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/forestgarden/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Museum</title>
+      <link>http://localhost:1313/tags/museum/</link>
+      <pubDate>Mon, 17 Jul 2023 13:10:04 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/museum/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/museum/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>StFagans</title>
+      <link>http://localhost:1313/tags/stfagans/</link>
+      <pubDate>Mon, 17 Jul 2023 13:10:04 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/stfagans/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/stfagans/</link>
       </description>
     </item>
     
@@ -2123,19 +2162,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/modular/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>Cymru</title>
-      <link>http://localhost:1313/tags/cymru/</link>
-      <pubDate>Sun, 12 Jan 2020 20:30:57 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/cymru/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/cymru/</link>
       </description>
     </item>
     

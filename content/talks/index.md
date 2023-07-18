@@ -14,24 +14,25 @@ imageCap:
 links:
   - title: My Nature Works YouTube channel
     url: https://youtube.com/natureworksgarden
-  - title: Livestream talks & courses
-    url: https://www.youtube.com/playlist?list=PL3tnDlJcXMk86gFClHhePDh5GqvMYGARo
+  - title: Nature Works Store
+    url: https://store.natureworks.org.uk/
+  - title: Newsletter
+    url: https://store.natureworks.org.uk/posts
 ---
 
-## Wildlife & food forest garden talks
+## Wildlife & forest garden talks
 
-I give talks on all aspects of wildlife, food forest gardening and garden design. 
+I give talks on all aspects of wildlife, forest gardening and garden design. 
 
-My focus is on using native plants with edibles in an ornamental setting. 
+My focus is on using native plants and wild flowers with edibles in an ornamental setting. 
 
 ### Costs
 
 * Talks can range from 30-45 minutes
-* Zoom talks £75
-* In-person talks £120 + 45p per mile
-* Please note, I live in [West Wales](https://g.page/natureworksgarden?share), will travel for an hour or so to a talk  
-* I have my own projector, screen and cables
+* Existing talk, virtual or in-person `£100`
+* In-person `+45p per mile`
+* New, bespoke talk `+£150`
+* Please note, I live in [West Wales](https://g.page/natureworksgarden?share), will travel for about an hour
+* I require a projector with HDMI input and screen. And dark chocolate digestives. Tea, soya milk, no sugar.
 
-Slides for every talk are kept permanently online for future reference. Here is my [free, online monthly workshop](/courses/realtime/) slideshow, to give you an idea of the format:
-
-**[Realtime online workshop](/realtime/)**
+Slides for every talk are kept permanently online for future reference. Here is my [free Forest Garden Primer class](https://store.natureworks.org.uk/l/primer), and the [accompanying slides](/slides/primer/) to give you an idea of the format.
