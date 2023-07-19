@@ -29,6 +29,7 @@ aliases:
 | **Forest&nbsp;Garden&nbsp;Spreadsheet** | Spreadsheet | All the plants in Martin Crawford’s fabulous book [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/). Data with kind permission from [PFAF](https://pfaf.org/user/Default.aspx). Made by Jake Rayson, Olly Boon & Chris Day. | <a href="https://bit.ly/forest-garden-spreadsheet" target="_blank"><i class="fa fa-table"></i></a> | <a href="https://store.natureworks.org.uk/l/ForestGardenSpreadsheet" target="_blank"><i class="fa fa-download"></i></a> |
 | **Garden Wild Spreadsheet** | Spreadsheet | UK native plants for gardening. Currently 100 wild flowers, plans to extend to shrubs, trees, ferns & grasses. By Jake Rayson. | <a href="https://bit.ly/garden-wild-spreadsheet" target="_blank"><i class="fa fa-table"></i></a> | - | 
 | **Apple&nbsp;Varieties&nbsp;Spreadsheet** | Spreadsheet | Useful list of different apple varieties for the UK. Created by Chris Day, re-formatted by Jake Rayson. | <a href="https://bit.ly/apple-spreadsheet" target="_blank"><i class="fa fa-table"></i></a> | - | 
+| **Pl@ntNet App** | App | Citizen science project app to identify plants | <a href="https://identify.plantnet.org/" target="_blank"><i class="fa fa-desktop"></i></a> | <a href="https://plantnet.org/en/" target="_blank"><i class="fa fa-mobile"></i></a> | 
 | **Plants For A Future** | Database | Database of useful plants | <a href="https://pfaf.org/" target="_blank"><i class="fa fa-database"></i></a> | - | 
 | **Plant Atlas** | Database | Botanical native plant reference for Britain & Ireland | <a href="https://plantatlas2020.org/" target="_blank"><i class="fa fa-database"></i></a> | - |
 | **RHS Plant Finder** | Database | Ornamental plant reference.  Plant finder with [native filter applied](https://bit.ly/rhs-native-plant). | <a href="https://www.rhs.org.uk/plants/search-form" target="_blank"><i class="fa fa-database"></i></a> | - |
@@ -46,9 +47,9 @@ aliases:
 
 ### My stuff
 
-* [Plan a Backyard Forest mini-course](https://www.natureworks.org.uk/classes/plan/) - basic setup of a forest garden plan
-* [Forest garden YouTube channel](https://youtube.com/NatureWorksGarden) - design tips, walkthroughs, plants, ideas etc
+* [Forest Garden Primer](https://store.natureworks.org.uk/l/primer) - free online class, overview of forest gardening
 * [Jake’s newsletter](https://natureworks.substack.com/) - weekly updates, links, thoughts, ramblings
+* [Forest garden YouTube channel](https://youtube.com/NatureWorksGarden) - design tips, walkthroughs, plants, ideas etc
 
 ### Nurseries
 
@@ -62,6 +63,6 @@ Choose locally grown if you can, to support [ecoregion](https://en.wikipedia.org
 * [Agroforestry Research Trust](https://www.agroforestry.co.uk/) - Devon, UK
 * [Mintopia](https://mintopia.bigcartel.com/) - National Plant Collection of Mentha, Cheshire, UK
 
-If you like what I do, consider becoming a [Guild of Forest Gardeners member](https://store.natureworks.org.uk/l/membership) from only £1 per month.
+If you like what I do, consider making a donation
 
 Thank you 😊 🌳 💚
