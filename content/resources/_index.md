@@ -63,6 +63,6 @@ Choose locally grown if you can, to support [ecoregion](https://en.wikipedia.org
 * [Agroforestry Research Trust](https://www.agroforestry.co.uk/) - Devon, UK
 * [Mintopia](https://mintopia.bigcartel.com/) - National Plant Collection of Mentha, Cheshire, UK
 
-If you like what I do, consider making a donation
+If you like what I do, consider [making a donation](https://store.natureworks.org.uk/l/donation)
 
 Thank you 😊 🌳 💚
