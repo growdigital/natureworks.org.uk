@@ -1,15 +1,17 @@
 ---
 title: Community Assembly workshop
 date: 2023-07-20T12:25:19+01:00
-description: Online workshop today about Community Assemblies, these are my outline notes
+description: Online workshop today about Community Assemblies, which are at the heart of a garden design I’m working on
 tags: 
 - ForestGarden
+- CommunityAssembly
+- Workshop
 images: 
-- 
+- https://res.cloudinary.com/growdigital/image/upload/v1689077853/hope/garden-sketch-230711.jpg
 imageAlt:
-- 
+- Sketch of show garden with assembly area 
 imageCap:
-- 
+- A very rough sketch of the proposed Community Assembly garden
 gallery: false
 draft: false
 ---
@@ -21,11 +23,11 @@ draft: false
 ## Definition
 
 Create space for reflective discussion & learning
-    * Ideas generation
-    * Decision making for the community
-    * Direct action
-    * Feedback & evaluation mechanism
-    * Community connection, resilience building
+  * Ideas generation
+  * Decision making for the community
+  * Direct action
+  * Feedback & evaluation mechanism
+  * Community connection, resilience building
 
 Self selecting, local cf Citizens Assembly
 
@@ -65,14 +67,14 @@ conflict resolution in place to resolve this. **We welcome all
 people but not all behaviours**
 
 * 3 pillars
-    1. Radical inclusivity
-    2. Active listening
-    3. Trust the process
+  1. Radical inclusivity
+  2. Active listening
+  3. Trust the process
 * Frame the Assembly
-    * State question
-    * Explain results destination
-    * Introduce the input (info)
-    * Explain deliberation phrase 
+  * State question
+  * Explain results destination
+  * Introduce the input (info)
+  * Explain deliberation phrase 
 
 ### 2. Deliberation phase
 
