@@ -19,9 +19,9 @@ aliases:
 - /boundary/
 ---
 
-Grass makes a cheap and durable path but it _will_ creep into your borders if they’re not well established. 
+Grass makes a cheap and durable path but _will_ creep into borders if they’re not well established or don’t have dense growth. 
 
-As an extra barrier areas with less robust ground cover, I like to line grass paths with clumping boundary plants to stop the ‘Grass Creep’. 
+As an extra barrier, I often line grass paths with clumping boundary plants to stop ‘Grass Creep’. 
 
 Here are some suggested plants:
 
@@ -29,4 +29,9 @@ Here are some suggested plants:
 * [Spotted Cranesbill (0.6m)](https://pfaf.org/user//Plant.aspx?LatinName=Geranium%20maculatum)
 * [Lemon Balm (0.7m)](https://pfaf.org/user/plant.aspx?latinname=Melissa+officinalis)
 
-Very aware that these aren’t UK natives, I can’t really think of [suitable UK natives](https://bit.ly/garden-wild-spreadsheet), any suggestions welcome! <hello@natureworks.org.uk>
+Big Root Cranesbill varities recommended by [Penlan Perennials](https://penlanperennials.co.uk/):
+
+* Geranium macrorrhizum ‘Bevans Variety’,  45cm tall, spread 1m. Evergreen, flowers May-October.
+* G. macrorrhizum 'Dreamland', 50cm x 50cm, flowers May-September.
+* G. macrorrhizum 'Mavis Simpson' 25cm x 90cm, evergreen.
+
