@@ -7,7 +7,7 @@ images:
 imageAlt: 
 - Slate garden path leading past wooden den, up steps by gabion to fenced platform area
 client: Retired couple
-summary: Small sloping rear garden for new-build eco-house
+summary: Small 140m² sloping rear garden for new-build eco-house
 location: Newcastle Emlyn, Wales
 siteLink: grwd.uk/undergrove
 ---
