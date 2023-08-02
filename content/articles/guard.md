@@ -13,6 +13,13 @@ imageCap:
 - Cheap tree guard made with 2m fence posts, stock fencing and chicken wire
 gallery: false
 draft: false
+aliases: 
+- /guards/
+- /treeguard/
+- /tree-guard/
+- /treeguards/
+- /tree-guards/
+
 ---
 
 If you have deer, wild boar, wild goats or rabbits, then you’ll need to protect your newly planted trees.
