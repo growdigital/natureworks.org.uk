@@ -22,7 +22,7 @@ aliases:
 
 ---
 
-If you have deer, wild boar, wild goats or rabbits, then you’ll need to protect your newly planted trees.
+If you have sheep, deer, wild boar, wild goats or rabbits, then you’ll need to protect your newly planted trees.
 
 This is a cheap method of creating a substantial tree guard, a big thank you to orchardist [Martin Hayes](https://www.theapplemancan.uk/) for sharing his knowledge.
 

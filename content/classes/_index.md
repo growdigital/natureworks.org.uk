@@ -19,7 +19,7 @@ The online classes will be available from [the store](https://store.natureworks.
 
 | Class | Details | Slides | Store | Notes |
 | - | - | :-: | :-: | :-: |
-| **Forest&nbsp;Garden&nbsp;Primer** | Overview of wildlife forest gardening. _20 minutes_. | <a href="/slides/primer/" class="u-nodec u-larger" target="_blank"><i class="fa fa-list-alt" aria-hidden="true"></i></a> | <a href="https://store.natureworks.org.uk/l/primer" class="u-nodec u-larger" target="_blank">**£1.99**</a> | <a class="u-na u-larger"><i class="fa fa-file-text-o" aria-hidden="true"></i></a> |
+| **Forest&nbsp;Garden&nbsp;Primer** | Overview of wildlife forest gardening. _20 minutes_. | <a href="/slides/primer/" class="u-nodec u-larger" target="_blank"><i class="fa fa-list-alt" aria-hidden="true"></i></a> | <a href="https://store.natureworks.org.uk/l/primer" class="u-nodec u-larger" target="_blank">**Free**</a> | <a class="u-na u-larger"><i class="fa fa-file-text-o" aria-hidden="true"></i></a> |
 | **CAD** | Computer Aided Design for forest gardening. _1 hour 10 minutes_. | <a href="/slides/cad/" class="u-nodec u-larger" target="_blank"><i class="fa fa-list-alt" aria-hidden="true"></i></a> | <a href="https://store.natureworks.org.uk/l/cad" class="u-nodec u-larger" target="_blank">**£19.99**</a> | <a class="u-na u-larger"><i class="fa fa-file-text-o" aria-hidden="true"></i></a> |
 | **Backyard Forest** | Full forest garden course. _3 hour 45 minutes_. | <a href="/backyard/" class="u-nodec u-larger" target="_blank"><i class="fa fa-list-alt" aria-hidden="true"></i></a> | <a href="https://store.natureworks.org.uk/l/BackyardForest" class="u-nodec u-larger" target="_blank">**£49.99**</a> | <a class="u-na u-larger"><i class="fa fa-file-text-o" aria-hidden="true"></i></a> |
 
