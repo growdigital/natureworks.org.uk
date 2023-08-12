@@ -6,7 +6,85 @@
     <description>Recent content in Tags on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 20 Jul 2023 12:25:19 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Aug 2023 11:27:55 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ForestGarden</title>
+      <link>http://localhost:1313/tags/forestgarden/</link>
+      <pubDate>Sat, 05 Aug 2023 11:27:55 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/forestgarden/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/forestgarden/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>NativePlants</title>
+      <link>http://localhost:1313/tags/nativeplants/</link>
+      <pubDate>Sat, 05 Aug 2023 11:27:55 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/nativeplants/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/nativeplants/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>PrairieUp</title>
+      <link>http://localhost:1313/tags/prairieup/</link>
+      <pubDate>Sat, 05 Aug 2023 11:27:55 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/prairieup/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/prairieup/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>RadicalAnthropology</title>
+      <link>http://localhost:1313/tags/radicalanthropology/</link>
+      <pubDate>Sat, 05 Aug 2023 11:27:55 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/radicalanthropology/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/radicalanthropology/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>RadicalHorticulture</title>
+      <link>http://localhost:1313/tags/radicalhorticulture/</link>
+      <pubDate>Sat, 05 Aug 2023 11:27:55 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/radicalhorticulture/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/radicalhorticulture/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>WildlifeGarden</title>
+      <link>http://localhost:1313/tags/wildlifegarden/</link>
+      <pubDate>Sat, 05 Aug 2023 11:27:55 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/wildlifegarden/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/wildlifegarden/</link>
+      </description>
+    </item>
+    
     <item>
       <title>CommunityAssembly</title>
       <link>http://localhost:1313/tags/communityassembly/</link>
@@ -17,19 +95,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/communityassembly/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>ForestGarden</title>
-      <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Thu, 20 Jul 2023 12:25:19 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/forestgarden/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/forestgarden/</link>
       </description>
     </item>
     
@@ -121,19 +186,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/ecosystem/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>NativePlants</title>
-      <link>http://localhost:1313/tags/nativeplants/</link>
-      <pubDate>Sat, 27 May 2023 08:44:41 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/nativeplants/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/nativeplants/</link>
       </description>
     </item>
     
@@ -342,19 +394,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/habitat/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>WildlifeGarden</title>
-      <link>http://localhost:1313/tags/wildlifegarden/</link>
-      <pubDate>Thu, 13 Apr 2023 22:26:02 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/wildlifegarden/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/wildlifegarden/</link>
       </description>
     </item>
     
@@ -914,19 +953,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/devon/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>PrairieUp</title>
-      <link>http://localhost:1313/tags/prairieup/</link>
-      <pubDate>Tue, 24 Jan 2023 22:19:17 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/prairieup/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/prairieup/</link>
       </description>
     </item>
     

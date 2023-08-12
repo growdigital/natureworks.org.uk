@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2023-08-05T11:27:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nativeplants/</loc>
+    <lastmod>2023-08-05T11:27:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-08-05T11:27:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/prairieup/</loc>
+    <lastmod>2023-08-05T11:27:55+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230805-radical-horticulture/</loc>
     <lastmod>2023-08-05T11:27:55+01:00</lastmod>
   </url><url>
@@ -11,19 +23,16 @@
     <loc>http://localhost:1313/tags/radicalhorticulture/</loc>
     <lastmod>2023-08-05T11:27:55+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-08-05T11:27:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wildlifegarden/</loc>
+    <lastmod>2023-08-05T11:27:55+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230720-community-assembly/</loc>
     <lastmod>2023-07-20T12:25:19+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/communityassembly/</loc>
-    <lastmod>2023-07-20T12:25:19+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2023-07-20T12:25:19+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-07-20T12:25:19+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-07-20T12:25:19+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/workshop/</loc>
@@ -54,9 +63,6 @@
     <lastmod>2023-05-27T08:44:41+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230527-native/</loc>
-    <lastmod>2023-05-27T08:44:41+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nativeplants/</loc>
     <lastmod>2023-05-27T08:44:41+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wildflowers/</loc>
@@ -144,9 +150,6 @@
     <lastmod>2023-04-13T22:26:02+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/habitat/</loc>
-    <lastmod>2023-04-13T22:26:02+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wildlifegarden/</loc>
     <lastmod>2023-04-13T22:26:02+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/gardendesign/</loc>
@@ -369,9 +372,6 @@
     <lastmod>2023-01-24T22:19:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/devon/</loc>
-    <lastmod>2023-01-24T22:19:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/prairieup/</loc>
     <lastmod>2023-01-24T22:19:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wildlifetrust/</loc>
