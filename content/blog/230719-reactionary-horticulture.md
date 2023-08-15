@@ -1,7 +1,7 @@
 ---
 title: Reactionary horticulture & the bastions of colonialism
 date: 2023-07-19T22:42:01+01:00
-description: 
+description: It was only a matter of time before the culture wars were made explicit in gardening
 tags: 
 - ForestGarden
 - RadicalAnthropology
