@@ -1,7 +1,7 @@
 ---
 title: Woke Gardening
 date: 2023-08-15T16:53:17+01:00
-description: 
+description: More reactionary horticulture in the media
 tags: 
 - ForestGarden
 - WokeGardening
