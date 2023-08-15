@@ -36,7 +36,7 @@ params:
       icon: fa-youtube
       link: 'https://www.youtube.com/c/natureworksgarden'
     - name: Mastodon
-      icon: fa-universal-access
+      icon: fa-brands fa-mastodon
       link: 'https://mas.to/@natureworks'
     - name: Newsletter
       icon: fa-newspaper-o
