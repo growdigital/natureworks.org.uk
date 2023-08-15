@@ -14,6 +14,12 @@ imageCap:
 - There was only one mulberry on the mulberry tree last summer, lucky it was black…
 gallery: false
 draft: false
+aliases:
+- /fruit-colours
+- /fruit-color
+- /fruit-colors
+- /colours
+- /colors
 ---
 
 In descending order of attractiveness:

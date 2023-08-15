@@ -41,9 +41,9 @@ params:
     - name: Newsletter
       icon: fa-newspaper-o
       link: 'https://store.natureworks.org.uk/posts'
-    - name: Facebook
-      icon: fa-facebook
-      link: 'https://facebook.com/NatureWorksGarden'
+    - name: Ko-fi
+      icon: fa-coffee
+      link: 'https://ko-fi.com/natureworks'
 menu:
   main:
     - name: Portfolio
