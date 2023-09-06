@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2023-08-15T17:11:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-08-15T17:11:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-08-15T17:11:50+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230815-crux/</loc>
     <lastmod>2023-08-15T17:11:50+01:00</lastmod>
   </url><url>
@@ -13,6 +22,15 @@
   </url><url>
     <loc>http://localhost:1313/blog/230815-yasmeen-lari-architecture/</loc>
     <lastmod>2023-08-15T17:06:19+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/radicalhorticulture/</loc>
+    <lastmod>2023-08-15T16:53:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reactionaryhorticulture/</loc>
+    <lastmod>2023-08-15T16:53:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tradhort/</loc>
+    <lastmod>2023-08-15T16:53:17+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230815-woke-gardening/</loc>
     <lastmod>2023-08-15T16:53:17+01:00</lastmod>
@@ -26,13 +44,7 @@
     <loc>http://localhost:1313/tags/landscaping/</loc>
     <lastmod>2023-08-14T08:16:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2023-08-05T11:27:55+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/nativeplants/</loc>
-    <lastmod>2023-08-05T11:27:55+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2023-08-05T11:27:55+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/prairieup/</loc>
@@ -42,12 +54,6 @@
     <lastmod>2023-08-05T11:27:55+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/radicalanthropology/</loc>
-    <lastmod>2023-08-05T11:27:55+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/radicalhorticulture/</loc>
-    <lastmod>2023-08-05T11:27:55+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-08-05T11:27:55+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wildlifegarden/</loc>
@@ -63,12 +69,6 @@
     <lastmod>2023-07-20T12:25:19+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230719-reactionary-horticulture/</loc>
-    <lastmod>2023-07-19T22:42:01+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reactionaryhorticulture/</loc>
-    <lastmod>2023-07-19T22:42:01+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tradhort/</loc>
     <lastmod>2023-07-19T22:42:01+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cymru/</loc>

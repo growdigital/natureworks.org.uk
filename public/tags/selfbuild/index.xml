@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SelfBuild on Nature Works</title>
+    <link>http://localhost:1313/tags/selfbuild/</link>
+    <description>Recent content in SelfBuild on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 15 Aug 2023 17:06:19 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/selfbuild/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yasmeen Lari exhibition</title>
+      <link>http://localhost:1313/blog/230815-yasmeen-lari-architecture/</link>
+      <pubDate>Tue, 15 Aug 2023 17:06:19 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/230815-yasmeen-lari-architecture/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Zero-carbon architect and building exhibition&lt;/p&gt;
+        The architect Yasmeen Lari has an exhibition at Architekturzentrum Wien.
+        <link>http://localhost:1313/blog/230815-yasmeen-lari-architecture/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
