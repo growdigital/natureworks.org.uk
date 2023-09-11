@@ -3,9 +3,9 @@ title: "Portfolio"
 date: 2019-08-29T15:38:38+06:00
 draft: false
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/w_800/v1631304479/hedgerows/hedgerows-flowers-shed.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1694126515/clifftop/around-the-corner-pergola-230907.jpg
 imageAlt:
-- Beds with flowers in front of shed at back of house
+- Curved garden gravel path, rustic fence, wooded valley beyond
 imageCap: 
-- Hedgerows design project for English village forest garden
+- The Clifftop garden in Ceredigion
 ---
