@@ -4,11 +4,11 @@ subhead: "Wildlife & forest garden design"
 date: 2021-09-17T09:00:00+06:00
 draft: false
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1650484491/clifftop/220419-path-from-stump.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1694125135/clifftop/fence-geranium-drop-230907.jpg
 imageAlt:
-- View from above of wiggly path in new garden
+- Rustic wooden fence on the edge of a garden, beyond a wooden valley
 imageCap: 
-- The structure of the new Clifftop Garden clearly visible 
+- On the edge of the Clifftop Garden 
 links:
 - title: Philosophy
   url: /design#philosophy

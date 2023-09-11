@@ -7,5 +7,5 @@ images:
 imageAlt:
 - Curved garden gravel path, rustic fence, wooded valley beyond
 imageCap: 
-- The Clifftop garden in Ceredigion
+- The Clifftop Garden in Ceredigion
 ---
