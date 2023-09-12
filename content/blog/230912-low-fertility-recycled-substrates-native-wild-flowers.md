@@ -30,3 +30,13 @@ I have a possible garden project, where the builder has cleared some rooms to be
 I am really keen to know which plants will thrive in which substrate. Currently, I’ve only trialled growing [Thymus serpyllum](https://plantatlas2020.org/atlas/2cd4p9h.cmt) on crushed concrete, which does very well. 
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1694125679/clifftop/thyme-mounds-230907.jpg" alt="Mounds of thyme growing in crushed concrete" caption="Having the Thyme of its life, in crushed concrete and full sun" >}}
+
+### Substrates to play with 
+
+* Crushed concrete
+* Crushed brick
+* Coarse sand
+* Gravel
+* Clinker
+* Crushed ceramic
+* Plaster
