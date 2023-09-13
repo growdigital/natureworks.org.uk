@@ -11,12 +11,13 @@ tags:
 - Wildlife
 - Diversity
 images: 
-- 
+- https://res.cloudinary.com/growdigital/image/upload/v1694620002/sally-bower-john-little-hilldrop-hoggin.jpg
 imageAlt:
-- Photo of 
+- Curved oggin path through substrate garden
 imageCap:
-- 
+- Photo by Sally Bower, visiting Hilldrop, John Little's garden
 gallery: false
 draft: false
 ---
 
+Landscape designer [Sally Bower](http://www.sallybower.co.uk/) has a very lovely study tour report about growing in low nutrient substrates. Well worth a look at the [RHS PDF](https://www.rhs.org.uk/education-learning/pdf/bursaries/Bursary-Reports/rhs-bursary-report-sally-bower.pdf).
