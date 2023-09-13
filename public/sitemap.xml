@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/230913-robinia-tree-stakes/</loc>
+    <lastmod>2023-09-13T13:50:48+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/treestakes/</loc>
+    <lastmod>2023-09-13T13:50:48+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/230913-nature-rising-from-the-rubble/</loc>
+    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/brownfield/</loc>
     <lastmod>2023-09-12T12:56:30+01:00</lastmod>
   </url><url>
