@@ -1,7 +1,8 @@
 ---
 title: Radical Horticulture Manifesto
 date: 2023-09-17T10:26:27+01:00
-description: 
+description: Some thoughts and musings on a (not really so) #RadicalHorticulture.
+
 tags: 
 - ForestGarden
 - RadicalHorticulture
@@ -40,6 +41,5 @@ draft: false
 * Where does the water go?
 * Provision for maintenance?
 
-Some thoughts and musings on a (not really so) radical horticulture.
 
 #RadicalHorticulture #ForestGarden
