@@ -2,7 +2,6 @@
 title: Radical Horticulture Manifesto
 date: 2023-09-17T10:26:27+01:00
 description: Some thoughts and musings on a (not really so) #RadicalHorticulture.
-
 tags: 
 - ForestGarden
 - RadicalHorticulture
