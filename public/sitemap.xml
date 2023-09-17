@@ -2,17 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/230917-radical-horticulture-manifesto/</loc>
+    <lastmod>2023-09-17T10:26:27+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2023-09-13T13:50:48+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-09-13T13:50:48+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/orchard/</loc>
+    <lastmod>2023-09-13T13:50:48+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230913-robinia-tree-stakes/</loc>
+    <lastmod>2023-09-13T13:50:48+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-09-13T13:50:48+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/treestakes/</loc>
     <lastmod>2023-09-13T13:50:48+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/brownfield/</loc>
+    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/diversity/</loc>
+    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/habitat/</loc>
+    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/johnlittle/</loc>
+    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nativeplants/</loc>
+    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230913-nature-rising-from-the-rubble/</loc>
     <lastmod>2023-09-13T13:50:26+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brownfield/</loc>
-    <lastmod>2023-09-12T12:56:30+01:00</lastmod>
+    <loc>http://localhost:1313/tags/wildflowers/</loc>
+    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wildlife/</loc>
+    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230912-low-fertility-recycled-substrates-native-wild-flowers/</loc>
     <lastmod>2023-09-12T12:56:30+01:00</lastmod>
@@ -20,23 +53,8 @@
     <loc>http://localhost:1313/blog/230907-celtic-wild-flowers/</loc>
     <lastmod>2023-09-07T14:36:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nativeplants/</loc>
-    <lastmod>2023-09-07T14:36:05+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-09-07T14:36:05+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/nursery/</loc>
     <lastmod>2023-09-07T14:36:05+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-09-07T14:36:05+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wildflowers/</loc>
-    <lastmod>2023-09-07T14:36:05+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2023-08-15T17:11:50+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230815-crux/</loc>
     <lastmod>2023-08-15T17:11:50+01:00</lastmod>
@@ -146,9 +164,6 @@
     <loc>http://localhost:1313/tags/spreadsheet/</loc>
     <lastmod>2023-05-16T21:44:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wildlife/</loc>
-    <lastmod>2023-05-16T21:44:51+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/deadhedge/</loc>
     <lastmod>2023-05-09T22:16:27+01:00</lastmod>
   </url><url>
@@ -199,9 +214,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/230415-syra/</loc>
     <lastmod>2023-04-15T21:31:35+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/habitat/</loc>
-    <lastmod>2023-04-13T22:26:02+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/habitat/</loc>
     <lastmod>2023-04-13T22:26:02+01:00</lastmod>
@@ -374,9 +386,6 @@
     <loc>http://localhost:1313/blog/230207-hiraeth/</loc>
     <lastmod>2023-02-07T21:10:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/johnlittle/</loc>
-    <lastmod>2023-02-06T21:33:58+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/230206-tiktok-john/</loc>
     <lastmod>2023-02-06T21:33:58+00:00</lastmod>
   </url><url>
@@ -430,9 +439,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/wildlifetrust/</loc>
     <lastmod>2023-01-24T22:19:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/diversity/</loc>
-    <lastmod>2023-01-22T09:25:32+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230122-behind-you/</loc>
     <lastmod>2023-01-22T09:25:32+00:00</lastmod>
@@ -1158,9 +1164,6 @@
     <lastmod>2019-11-05T09:45:05+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/my-favourite-place/</loc>
-    <lastmod>2019-11-02T14:29:31+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/orchard/</loc>
     <lastmod>2019-11-02T14:29:31+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/overwhelmed-by-vegetables/</loc>

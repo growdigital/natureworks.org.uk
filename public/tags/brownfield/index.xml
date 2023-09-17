@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Habitat on Nature Works</title>
-    <link>http://localhost:1313/tags/habitat/</link>
-    <description>Recent content in Habitat on Nature Works</description>
+    <title>BrownField on Nature Works</title>
+    <link>http://localhost:1313/tags/brownfield/</link>
+    <description>Recent content in BrownField on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 13 Sep 2023 13:50:26 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/habitat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Sep 2023 13:50:26 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/brownfield/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nature Rising From the Rubble</title>
       <link>http://localhost:1313/blog/230913-nature-rising-from-the-rubble/</link>
@@ -30,32 +30,6 @@
         &lt;p class="p-summary"&gt;Many recycled aggregates are low fertility and sterile, meaning they’re an ideal growing substrate for many native plants and wild flowers&lt;/p&gt;
         I’m a big fan of John Little’s work on creating wildlife habitat diversity using recycled building “waste”.
         <link>http://localhost:1313/blog/230912-low-fertility-recycled-substrates-native-wild-flowers/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>Habitat</title>
-      <link>http://localhost:1313/habitat/</link>
-      <pubDate>Thu, 13 Apr 2023 22:26:02 +0100</pubDate>
-      
-      <guid>http://localhost:1313/habitat/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;List of diverse wildlife habitat ideas&lt;/p&gt;
-        This is simply a list of wildlife habitat structures, for my own benefit.
-        <link>http://localhost:1313/habitat/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>Gabions</title>
-      <link>http://localhost:1313/gabions/</link>
-      <pubDate>Fri, 21 Oct 2022 13:02:21 +0100</pubDate>
-      
-      <guid>http://localhost:1313/gabions/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        Gabions are robust wire baskets filled with aggregate or timber. They are relatively easy to install and make fantastic wildlife habitat.
-        <link>http://localhost:1313/gabions/</link>
       </description>
     </item>
     
