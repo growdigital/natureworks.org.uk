@@ -70,7 +70,7 @@ Choose locally grown if you can, to support [ecoregion](https://en.wikipedia.org
 ### Cross Genre
 
 * [How Buildings Learn](https://en.wikipedia.org/wiki/How_Buildings_Learn) by [Steward Brand](https://en.wikipedia.org/wiki/Stewart_Brand) - insightful look at buildings and design, applicable to gardens. [Book](https://archive.org/details/howbuildingslear00bran) and [TV series](https://www.youtube.com/watch?v=maTkAcDbrEY&list=PLrg__Ji1S58TnecKCIFNskj-Q3P2NV0pw&index=1).
-* [Jonathan Meades](https://en.wikipedia.org/wiki/Jonathan_Meades), [video shrine](https://meadesshrine.blogspot.com/p/shrine.html) - art, architecture & culture critic
+* [Jonathan Meades](https://en.wikipedia.org/wiki/Jonathan_Meades) - art, architecture & culture critic. [Video shrine](https://meadesshrine.blogspot.com/p/shrine.html).
 
 If you like what I do, consider [making a donation](https://store.natureworks.org.uk/l/donation).
 
