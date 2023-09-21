@@ -15,7 +15,7 @@ gallery: false
 draft: false
 ---
 
-Martin Crawford [asked the question]() about food forests and economics:
+Martin Crawford [asked the question](https://www.natureworks.org.uk/blog/230815-crux/) about food forests and economics:
 
 > “Do we design food forests to fit in to the existing economic model, which is deeply flawed? Or design them for maximum ecological resilience and assume the economic model will change in time?”
 
