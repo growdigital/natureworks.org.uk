@@ -99,6 +99,19 @@
     </item>
     
     <item>
+      <title>Rhug</title>
+      <link>http://localhost:1313/portfolio/rhug/</link>
+      <pubDate>Fri, 01 Sep 2023 15:38:38 +0600</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/rhug/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        Welsh holiday cottage ornamental, edible &amp;amp; native garden
+        <link>http://localhost:1313/portfolio/rhug/</link>
+      </description>
+    </item>
+    
+    <item>
       <title>The crux of the matter</title>
       <link>http://localhost:1313/blog/230815-crux/</link>
       <pubDate>Tue, 15 Aug 2023 17:11:50 +0100</pubDate>
@@ -2534,19 +2547,6 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         The monthly structured livestream is the first Wednesday of the month on my YouTube channel youtube.
         <link>http://localhost:1313/livestream/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>Rhug</title>
-      <link>http://localhost:1313/portfolio/rhug/</link>
-      <pubDate>Thu, 29 Aug 2019 15:38:38 +0600</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/rhug/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        Ornamental &amp;amp; native garden for Welsh holiday cottage
-        <link>http://localhost:1313/portfolio/rhug/</link>
       </description>
     </item>
     

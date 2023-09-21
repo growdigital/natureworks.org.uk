@@ -1,19 +1,43 @@
 ---
 title: "Rhug"
-date: 2019-08-29T15:38:38+06:00
+date: 2023-09-01T15:38:38+06:00
 draft: false
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1694851487/rhug/rose-generous-gardener-arch-230915.jpg"
 imageAlt:
 - "Pale blue flower against white wall"
 client: "Harry & Natalie"
-summary: "Ornamental & native garden for Welsh holiday cottage"
+summary: "Welsh holiday cottage ornamental, edible & native garden"
 location: "St Dogmaels, Wales"
 siteLink: "grwd.uk/rhug"
 ---
 
-### Low-maintenance holiday garden
-          
+### Ornamental, edible, native
+
+Rhug is a holiday cottage with a couple of acres of woodland grounds, gloriously situated overlooking the River Teifi near Poppit Sands.
+
+I have worked extensively on the areas around the house mostly with perennial edibles, native wild flowers and some ornamental plants.
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1695306518/rhug/gable-end-rose-230738.jpg" alt="Timber clad gable end of house with rose climbing" caption="The approach to Rhug is up a track, greeted by rose 'Blush Noisette' on the timber clad gable end" >}}
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1694851488/rhug/woodland-garden-230915.jpg" alt="Small woodland garden with stone steps" caption="The small woodland beds and stone steps to the west of the house" >}}
+
+ up small beds in front of the house with a mixture of roses, honeysuckle, everlasting peas and other native wild flowers, a small woodland garden with blueberries, rhubarb and native flowers, 
+
+royal fern https://res.cloudinary.com/growdigital/image/upload/v1694851474/rhug/royal-fern-230915.jpg
+
+rose arch https://res.cloudinary.com/growdigital/image/upload/v1694851487/rhug/rose-generous-gardener-arch-230915.jpg
+
+daffodil garlic https://res.cloudinary.com/growdigital/image/upload/v1694466625/rhug/daffodil-garlic-230908.jpg
+
+hosta https://res.cloudinary.com/growdigital/image/upload/v1683361889/rhug/hosta-solomons-seal-230505.jpg
+
+solomons seal https://res.cloudinary.com/growdigital/image/upload/v1683361889/rhug/solomons-seal-230505.jpg
+
+woodland garden 
+
+#### Original design
+
 The original design was for curved herb and wild flower beds, providing shelter and screening for a hot tub, barbeque and green roof seating area. A water bowl and semicircular beds on the the balustrade provided additional planting and intimacy to the space.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1632136620/rhug/rhug-patio-cad-crop.png" alt="CAD garden design" caption="Detail on hot tub, barbecue and seating area" >}}

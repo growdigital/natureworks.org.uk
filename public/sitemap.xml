@@ -77,6 +77,9 @@
     <loc>http://localhost:1313/tags/nursery/</loc>
     <lastmod>2023-09-07T14:36:05+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/portfolio/rhug/</loc>
+    <lastmod>2023-09-01T15:38:38+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230815-crux/</loc>
     <lastmod>2023-08-15T17:11:50+01:00</lastmod>
   </url><url>
@@ -1236,9 +1239,6 @@
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2019-08-29T15:38:38+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/rhug/</loc>
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/rhydgaled/</loc>

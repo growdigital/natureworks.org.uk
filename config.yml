@@ -17,7 +17,7 @@ params:
       - URL: plugins/plugins.js
   logo: https://res.cloudinary.com/growdigital/image/upload/v1630698563/natureworks/logo.png
   home: Home
-  description: Wildlife & Food Forest Garden Design
+  description: Wildlife & Forest Garden Design
   author: Jake Rayson
   cloudinary: 'https://res.cloudinary.com/growdigital/image/upload/'
   images:
