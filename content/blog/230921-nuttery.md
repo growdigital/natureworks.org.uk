@@ -22,3 +22,11 @@ My vision for a resilient community garden is a wildlife allotment, a covered so
 The two are [Smallcombe Nuttery](https://transitionbath.org/project/community-gardening/) managed by [Transition Bath](https://transitionbath.org/), and [The Nuttery in Newnham](https://maps.app.goo.gl/uCKt4VZoJaHrhXPL8), which appears to be a community garden.
 
 I will keep looking. If you know of any nutteries, community or commercial, do let me know.
+
+### Links from good people
+
+* [Transition Monmouth community orchard with nut trees](https://transitionmonmouth.wordpress.com/community-orchard-diary/)
+* [Nantclwyd-y-Dre](https://www.denbighshire.gov.uk/en/leisure-and-tourism/museums-and-historic-houses/nantclwyd-y-dre.aspx) 15th century house and garden, open to public, with nuttery
+* [Incredible Edible Middlesborough](https://www.incredibleedible.org.uk/news/planting-for-the-future/) mixed use orachards in 3 sites
+
+
