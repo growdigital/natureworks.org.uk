@@ -2,22 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/230921-crux-question/</loc>
+    <lastmod>2023-09-21T10:19:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/economics/</loc>
+    <lastmod>2023-09-21T10:19:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2023-09-21T10:19:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-09-21T10:19:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-09-21T10:19:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/communitygarden/</loc>
+    <lastmod>2023-09-21T09:52:52+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nuttery/</loc>
+    <lastmod>2023-09-21T09:52:52+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/230921-nuttery/</loc>
+    <lastmod>2023-09-21T09:52:52+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wildlifeallotment/</loc>
+    <lastmod>2023-09-21T09:52:52+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230917-radical-horticulture-manifesto/</loc>
     <lastmod>2023-09-17T10:26:27+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2023-09-13T13:50:48+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-09-13T13:50:48+01:00</lastmod>
+    <loc>http://localhost:1313/tags/radicalhorticulture/</loc>
+    <lastmod>2023-09-17T10:26:27+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/orchard/</loc>
     <lastmod>2023-09-13T13:50:48+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230913-robinia-tree-stakes/</loc>
-    <lastmod>2023-09-13T13:50:48+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-09-13T13:50:48+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/treestakes/</loc>
@@ -67,9 +88,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/230815-yasmeen-lari-architecture/</loc>
     <lastmod>2023-08-15T17:06:19+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/radicalhorticulture/</loc>
-    <lastmod>2023-08-15T16:53:17+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/reactionaryhorticulture/</loc>
     <lastmod>2023-08-15T16:53:17+01:00</lastmod>
@@ -1015,9 +1033,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/handwavingpredictions/</loc>
     <lastmod>2020-02-29T08:47:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/economics/</loc>
-    <lastmod>2020-02-25T21:09:02+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/life-as-the-measure/</loc>
     <lastmod>2020-02-25T21:09:02+00:00</lastmod>

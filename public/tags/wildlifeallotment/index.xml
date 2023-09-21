@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WildlifeAllotment on Nature Works</title>
+    <link>http://localhost:1313/tags/wildlifeallotment/</link>
+    <description>Recent content in WildlifeAllotment on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 21 Sep 2023 09:52:52 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/wildlifeallotment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuttery</title>
+      <link>http://localhost:1313/blog/230921-nuttery/</link>
+      <pubDate>Thu, 21 Sep 2023 09:52:52 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/230921-nuttery/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Nut trees are an integral part of any community garden but there are not many nutteries in the UK&lt;/p&gt;
+        My vision for a resilient community garden is a wildlife allotment, a covered social space, and a community orchard, which includes nut trees and edible shrubs.
+        <link>http://localhost:1313/blog/230921-nuttery/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,17 +6,82 @@
     <description>Recent content in Tags on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 13 Sep 2023 13:50:48 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 10:19:17 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Economics</title>
+      <link>http://localhost:1313/tags/economics/</link>
+      <pubDate>Thu, 21 Sep 2023 10:19:17 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/economics/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/economics/</link>
+      </description>
+    </item>
+    
     <item>
       <title>ForestGarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Wed, 13 Sep 2023 13:50:48 +0100</pubDate>
+      <pubDate>Thu, 21 Sep 2023 10:19:17 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description>
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/forestgarden/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>CommunityGarden</title>
+      <link>http://localhost:1313/tags/communitygarden/</link>
+      <pubDate>Thu, 21 Sep 2023 09:52:52 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/communitygarden/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/communitygarden/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Nuttery</title>
+      <link>http://localhost:1313/tags/nuttery/</link>
+      <pubDate>Thu, 21 Sep 2023 09:52:52 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/nuttery/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/nuttery/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>WildlifeAllotment</title>
+      <link>http://localhost:1313/tags/wildlifeallotment/</link>
+      <pubDate>Thu, 21 Sep 2023 09:52:52 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/wildlifeallotment/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/wildlifeallotment/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>RadicalHorticulture</title>
+      <link>http://localhost:1313/tags/radicalhorticulture/</link>
+      <pubDate>Sun, 17 Sep 2023 10:26:27 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/radicalhorticulture/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/radicalhorticulture/</link>
       </description>
     </item>
     
@@ -173,19 +238,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/selfbuild/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>RadicalHorticulture</title>
-      <link>http://localhost:1313/tags/radicalhorticulture/</link>
-      <pubDate>Tue, 15 Aug 2023 16:53:17 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/radicalhorticulture/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/radicalhorticulture/</link>
       </description>
     </item>
     
@@ -2279,19 +2331,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/handwavingpredictions/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>Economics</title>
-      <link>http://localhost:1313/tags/economics/</link>
-      <pubDate>Tue, 25 Feb 2020 21:09:02 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/economics/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/economics/</link>
       </description>
     </item>
     
