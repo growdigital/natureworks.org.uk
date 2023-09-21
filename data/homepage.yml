@@ -18,7 +18,8 @@ service:
   service_item:
     # Service item loop
     - name : "Design"
-      icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630869174/icon-landscape.png"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_60,w_450/v1694125564/clifftop/path-back-230907.jpg"
+      iconAlt : ""
       content : "By working with nature, a forest garden is sustainable &amp; low-maintenance. It emulates a woodland edge, with layers of edible perennials and a living ground cover."
       button:
         enable : true
@@ -27,7 +28,8 @@ service:
 
     # Service item loop
     - name : "Edible perennials"
-      icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630868761/icon-watering-plants.png"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_60,w_450/v1631113586/elephant-garlic-flower-169.jpg"
+      iconAlt : "Beautiful edible allium Elephant Garlic flower"
       content : "Trees provide. Plant fruit, nut and nitrogen fixing trees, underplant with edible shrubs, perennial vegetables, herbs and wild flowers. See my store for classes on creating a forest garden."
       button:
         enable : true
@@ -36,7 +38,8 @@ service:
 
     # Service item loop
     - name : "Ornamental wild flowers"
-      icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630869174/icon-growth.png"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_60,w_450/v1652344759/sweet-woodruff-220512.jpg"
+      iconAlt : "White Sweet Woodruff flowers"
       content : "Be a force for good by increasing the diversity of native plants species and habitat. Include structural complexity in garden infrastructure and use ornamental wild flowers."
       button:
         enable : true
@@ -60,7 +63,7 @@ testimonial:
     # Testimonial item loop
     - name: "YC"
       designation: "Small London garden"
-      image: "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1688922322/tennis-ball.jpg"
+      image: "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1688922322/yc.jpg"
       content: "Jake listened, worked quickly and came up with a design that is beautiful, practical and cost effective. Great communication and full engagement throughout, not to mention a wellspring of knowledge in forest gardening. Couldn't recommend more."
 
     # Testimonial item loop
@@ -103,7 +106,7 @@ testimonial:
 call_to_action:
   enable : true
   title : "FREE Forest Garden Primer"
-  content : "Interested in creating a forest garden? Then get your FREE copy of my Forest Garden Primer class (usually £2), a short 20 minute introduction, packed full of information. What is a forest garden? Why are so good in a Climate Emergency? How do you go about creating one?"
+  content : "Interested in creating a forest garden? Then get your FREE copy of my Forest&nbsp;Garden&nbsp;Primer class, a 20 minute introduction full of information.<br>What is a forest garden? Why are they so good in a Climate Emergency? How do you go about creating one?"
   button:
     enable : true
     label : "Grab your copy!"

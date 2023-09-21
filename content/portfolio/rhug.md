@@ -3,13 +3,13 @@ title: "Rhug"
 date: 2019-08-29T15:38:38+06:00
 draft: false
 images: 
-- "https://res.cloudinary.com/growdigital/image/upload/v1631308152/rhug/scabious.jpg"
+- "https://res.cloudinary.com/growdigital/image/upload/v1694851487/rhug/rose-generous-gardener-arch-230915.jpg"
 imageAlt:
 - "Pale blue flower against white wall"
 client: "Harry & Natalie"
 summary: "Ornamental & native garden for Welsh holiday cottage"
 location: "St Dogmaels, Wales"
-siteLink: "bit.ly/rhug-garden"
+siteLink: "grwd.uk/rhug"
 ---
 
 ### Low-maintenance holiday garden
