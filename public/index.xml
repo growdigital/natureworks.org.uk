@@ -8,6 +8,32 @@
     <language>en-gb</language>
     <lastBuildDate>Thu, 21 Sep 2023 10:19:17 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mastodon threads for gardening portfolio</title>
+      <link>http://localhost:1313/blog/230923-mastodon-threads/</link>
+      <pubDate>Sat, 23 Sep 2023 21:13:22 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/230923-mastodon-threads/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;I am putting portoflio photos on Mastodon using threads &amp; notification feature&lt;/p&gt;
+        I post a lot of photos on my Mastodon account @natureworks@mas.
+        <link>http://localhost:1313/blog/230923-mastodon-threads/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Radical Horticulture - The Book</title>
+      <link>http://localhost:1313/blog/230922-radical-horticulture-book/</link>
+      <pubDate>Fri, 22 Sep 2023 21:14:53 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/230922-radical-horticulture-book/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;I want to write a book, and Radical Horticulture might be that book&lt;/p&gt;
+        I am not sure why but I want to write a book.
+        <link>http://localhost:1313/blog/230922-radical-horticulture-book/</link>
+      </description>
+    </item>
+    
+    <item>
       <title>Crux question</title>
       <link>http://localhost:1313/blog/230921-crux-question/</link>
       <pubDate>Thu, 21 Sep 2023 10:19:17 +0100</pubDate>
