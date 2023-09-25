@@ -14,27 +14,24 @@ siteLink: "grwd.uk/rhug"
 
 ### Ornamental, edible, native
 
-Rhug is a holiday cottage with a couple of acres of woodland grounds, gloriously situated overlooking the River Teifi near Poppit Sands.
+Rhug is a holiday cottage and family retreat, surrounded by a couple of acres of woodland grounds, gloriously situated overlooking the River Teifi near Poppit Sands.
 
 I have worked extensively on the areas around the house mostly with perennial edibles, native wild flowers and some ornamental plants.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1695306518/rhug/gable-end-rose-230738.jpg" alt="Timber clad gable end of house with rose climbing" caption="The approach to Rhug is up a track, greeted by rose 'Blush Noisette' on the timber clad gable end" >}}
 
+There are three rose cultivars from David Austen: 'Blush Noisette' for the gable end, 'Generous Gardener' for the rose arch over the entrance and 'James Galway' for the corner of the patio wall.
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1695306515/rhug/gable-end-high-rose-230714.jpg" alt="Valley in distance, viewed along timber clad end of house and past glorious rose" caption="View of the valley and close-up of 'Blush Noisette'" >}}
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1694851487/rhug/rose-generous-gardener-arch-230915.jpg" alt="Pale pink double rose on rustic wooden rose arch" caption="'Generous Gardener' on the rose arch" >}}
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1694851516/rhug/rose-james-galway-hoverfly-230915.jpg" alt="Hoverfly on open pale rose" caption="'James Galway' providing nectar and pollen on the patio wall" >}}
+
+The woodland beds are to the west of the house, and contain Blueberry shrubs, Rhubarb 'Timperley Early' and native wild flowers.
+
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1694851488/rhug/woodland-garden-230915.jpg" alt="Small woodland garden with stone steps" caption="The small woodland beds and stone steps to the west of the house" >}}
 
- up small beds in front of the house with a mixture of roses, honeysuckle, everlasting peas and other native wild flowers, a small woodland garden with blueberries, rhubarb and native flowers, 
-
-royal fern https://res.cloudinary.com/growdigital/image/upload/v1694851474/rhug/royal-fern-230915.jpg
-
-rose arch https://res.cloudinary.com/growdigital/image/upload/v1694851487/rhug/rose-generous-gardener-arch-230915.jpg
-
-daffodil garlic https://res.cloudinary.com/growdigital/image/upload/v1694466625/rhug/daffodil-garlic-230908.jpg
-
-hosta https://res.cloudinary.com/growdigital/image/upload/v1683361889/rhug/hosta-solomons-seal-230505.jpg
-
-solomons seal https://res.cloudinary.com/growdigital/image/upload/v1683361889/rhug/solomons-seal-230505.jpg
-
-woodland garden 
 
 #### Original design
 
@@ -51,8 +48,6 @@ There is no water bowl alas, but I have taken the opportunity to plant up the av
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1632137506/everlasting-pea-flower-gesse.jpg" alt="Pink Everlasting Pea flowers" caption="UK native Everlasting Pea (Lathyrus latifolia), perennial climber" >}}
 
 In the gable end bed, there’s a beautiful ['James Galway'](https://www.davidaustinroses.co.uk/products/james-galway-climbing-rose) climbing rose, above [Iberian Comfrey](https://www.rhs.org.uk/Plants/75444/Symphytum-ibericum/Details), [Solomon's Seal](https://pfaf.org/USER/Plant.aspx?LatinName=Polygonatum+odoratum), [Hosta sieboldiana](https://pfaf.org/user/Plant.aspx?LatinName=Hosta+sieboldiana) and a smörgåsbord of other native and ornamental flowers.
-
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1631308259/rhug/rose-james-galway.jpg" alt="Pink rose" caption="Rose 'James Galway' in full swing" >}}
 
 At the foot of the patio wall, there is a curved bed by the track. There are three adjacent climbers leading from the sun into the shade: a Wisteria 'Issai Perfect', a [nativar](https://grownative.org/learn/natives-cultivars-and-nativars/) [honeysuckle 'Belgica'](https://www.rhs.org.uk/plants/52050/lonicera-periclymenum-belgica/details), and another nativar, [Ivy 'Buttercup'](https://www.rhs.org.uk/plants/50160/hedera-helix-buttercup/details).
 
