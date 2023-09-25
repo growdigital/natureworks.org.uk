@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/mastodon/</loc>
+    <lastmod>2023-09-23T21:13:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/230923-mastodon-threads/</loc>
+    <lastmod>2023-09-23T21:13:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/portfolio/</loc>
+    <lastmod>2023-09-23T21:13:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/book/</loc>
+    <lastmod>2023-09-22T21:14:53+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/230922-radical-horticulture-book/</loc>
+    <lastmod>2023-09-22T21:14:53+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230921-crux-question/</loc>
     <lastmod>2023-09-21T10:19:17+01:00</lastmod>
   </url><url>
