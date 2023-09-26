@@ -30,4 +30,4 @@ Gardening is fulfilling on a number of different levels:
 
 In permaculture design, this is called [stacking functions](https://redemptionpermaculture.com/integrate-dont-segregate-stacking-functions-in-permaculture/), where an element has more than one function.
 
-I’d like to explore different facets of creating a forest garden with small, 1 hour long, online classes. My best selling course, [The Backyard Forest](), is great but it is a bit on the dense and chunky side, about 3¾ hours in total. I think classes will be easier to complete, and also easier to keep up-to-date.
+I’d like to explore different facets of creating a forest garden with small, 1 hour long, online classes. My best selling course, [The Backyard Forest](https://store.natureworks.org.uk/l/BackyardForest), is great but it is a bit on the dense and chunky side, about 3¾ hours in total. I think classes will be easier to complete, and also easier to keep up-to-date.
