@@ -22,12 +22,16 @@ If somebody likes or boosts your Mastodon post, when you [edit that post](https:
 
 ### Portfolio
 
-So, as an example, here’s the head post for the Rhug garden photos. 
+So, as an example, here’s the head post for [my portfolio](https://www.natureworks.org.uk/portfolio/). 
 
-[mas.to/@natureworks/111107525074315446](https://mas.to/@natureworks/111107525074315446)
+[mas.to/@natureworks/111107512607853822](https://mas.to/@natureworks/111107512607853822)
 
 If you have a Mastodon account and boost that, every time I add a photo, you’ll get a notification.
 
-And here’s the portfolio page for the Rhug garden:
+And here’s the Mastodon sub-thread for the Rhug garden:
+
+[mas.to/@natureworks/111107525074315446](https://mas.to/@natureworks/111107525074315446)
+
+And the portfolio page for the Rhug garden
 
 [natureworks.org.uk/portfolio/rhug](https://www.natureworks.org.uk/portfolio/rhug/)
