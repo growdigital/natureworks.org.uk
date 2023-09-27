@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/business/</loc>
+    <lastmod>2023-09-26T16:20:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gardening/</loc>
+    <lastmod>2023-09-26T16:20:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/230926-i-am-op/</loc>
+    <lastmod>2023-09-26T16:20:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-09-26T16:20:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/skills/</loc>
+    <lastmod>2023-09-26T16:20:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-09-26T16:20:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2023-09-23T21:13:22+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/mastodon/</loc>
     <lastmod>2023-09-23T21:13:22+01:00</lastmod>
   </url><url>
@@ -14,22 +35,22 @@
     <loc>http://localhost:1313/tags/book/</loc>
     <lastmod>2023-09-22T21:14:53+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/nativeplants/</loc>
+    <lastmod>2023-09-22T21:14:53+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/230922-radical-horticulture-book/</loc>
+    <lastmod>2023-09-22T21:14:53+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/radicalhorticulture/</loc>
+    <lastmod>2023-09-22T21:14:53+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wildflowers/</loc>
     <lastmod>2023-09-22T21:14:53+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230921-crux-question/</loc>
     <lastmod>2023-09-21T10:19:17+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/economics/</loc>
-    <lastmod>2023-09-21T10:19:17+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2023-09-21T10:19:17+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-09-21T10:19:17+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-09-21T10:19:17+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/communitygarden/</loc>
@@ -45,9 +66,6 @@
     <lastmod>2023-09-21T09:52:52+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230917-radical-horticulture-manifesto/</loc>
-    <lastmod>2023-09-17T10:26:27+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/radicalhorticulture/</loc>
     <lastmod>2023-09-17T10:26:27+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/orchard/</loc>
@@ -71,13 +89,7 @@
     <loc>http://localhost:1313/tags/johnlittle/</loc>
     <lastmod>2023-09-13T13:50:26+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nativeplants/</loc>
-    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/230913-nature-rising-from-the-rubble/</loc>
-    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wildflowers/</loc>
     <lastmod>2023-09-13T13:50:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wildlife/</loc>
@@ -408,9 +420,6 @@
     <lastmod>2023-02-09T21:22:24+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ecology/</loc>
-    <lastmod>2023-02-09T21:22:24+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gardening/</loc>
     <lastmod>2023-02-09T21:22:24+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/gbif/</loc>
