@@ -1,7 +1,7 @@
 ---
 title: My Wildlife Allotment
 date: 2023-02-27T22:20:50Z
-description: Nadine Mitschunas has created the most amazing wildlife allotments, and writes a blog the Hardy Plant Society
+description: Nadine Mitschunas has created the most amazing wildlife allotments, and writes a blog for the Hardy Plant Society
 tags: 
 - ForestGarden
 - Allotment

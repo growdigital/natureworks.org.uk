@@ -8,6 +8,19 @@
     <language>en-gb</language>
     <lastBuildDate>Tue, 26 Sep 2023 16:20:24 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Allotment sizes</title>
+      <link>http://localhost:1313/blog/230927-allotment-sizes/</link>
+      <pubDate>Wed, 27 Sep 2023 20:47:14 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/230927-allotment-sizes/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A full allotment is 250m²&lt;/p&gt;
+        Just a quick note to myself, according to The National Allotment Society, a UK allotment is 10 poles, which is 250m².
+        <link>http://localhost:1313/blog/230927-allotment-sizes/</link>
+      </description>
+    </item>
+    
+    <item>
       <title>Energy bump</title>
       <link>http://localhost:1313/blog/230927-energy-bump/</link>
       <pubDate>Wed, 27 Sep 2023 09:23:51 +0100</pubDate>
@@ -574,7 +587,7 @@
       
       <guid>http://localhost:1313/blog/230227-wildlife-allotment/</guid>
       <description>
-        &lt;p class="p-summary"&gt;Nadine Mitschunas has created the most amazing wildlife allotments, and writes a blog the Hardy Plant Society&lt;/p&gt;
+        &lt;p class="p-summary"&gt;Nadine Mitschunas has created the most amazing wildlife allotments, and writes a blog for the Hardy Plant Society&lt;/p&gt;
         I first saw My Wildlife Allotment on BBC Gardeners World a couple of years ago, and was impressed then with the visual richness of the allotment.
         <link>http://localhost:1313/blog/230227-wildlife-allotment/</link>
       </description>
