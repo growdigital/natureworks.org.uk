@@ -22,6 +22,12 @@ The client wanted a wildlife woodland garden, with native wild flowers, edibles 
 
 The client responded magnificently, levelling the garden with hardcore, installing the paths, putting in the edging and bringing in topsoil. The garden has been absolutely transformed in a very short time. 
 
+This is the garden six months on, incredible the amount of growth already.
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1695909120/max/max-steps-230928.jpg" alt="Small garden with brick walls on each side, fence on the other, curved beds with establishing plants" caption="Within six months, many of the plants are getting established quickly" >}}
+
+And this is how the garden looked at the outset.
+
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1677759279/max/max-bare.jpg" alt="Bare fenced back yard with mud and weeds" caption="Lots of Dock, very damp soil">}}
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1684412687/max/paths-finished-230501-169.jpg" alt="Landscaped back yard with paths and beds" caption="Weeds removed, hardcore foundations, paths, espalier trees and flower beds planted!" >}}
