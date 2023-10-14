@@ -19,6 +19,7 @@ These are my most used & favourite tools:
 
 1. [Felco 2 secateurs](https://felco.com/en_gb/products/pruning-shears/felco-2) with [Housolution polyurethane sheath](https://www.amazon.co.uk/Housolution-Premium-Protective-Scabbard-Gardening/dp/B087JG433W)
 2. [Silky F180 folding saw](http://www.silkyfox.co.uk/f180.php), with [replaceable blade](https://www.benburgess.co.uk/shop/silky-f180-folding-saw/)
+3. [Niwaki hori-hori knife & canvas sheath](https://www.niwaki.com/hori-hori/#P00442-7)
 3. [Showa 350R 10/XL gloves](https://www.showagroup.com/eu-en/shop/350r)
 4. [Spear & Jackson solid socket tree spade](https://www.spear-and-jackson.com/products/hand-contractor-tools/contractors-tools/solid-socket-shovels/spear-jackson-solid-socket-7)
 
