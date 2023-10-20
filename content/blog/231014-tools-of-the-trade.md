@@ -15,7 +15,7 @@ gallery: false
 draft: false
 ---
 
-These are my most used & favourite tools:
+### Most used & favourite
 
 1. [Felco 2 secateurs](https://felco.com/en_gb/products/pruning-shears/felco-2) with [Housolution polyurethane sheath](https://www.amazon.co.uk/Housolution-Premium-Protective-Scabbard-Gardening/dp/B087JG433W)
 2. [Silky F180 folding saw](http://www.silkyfox.co.uk/f180.php), with [replaceable blade](https://www.benburgess.co.uk/shop/silky-f180-folding-saw/)
@@ -27,3 +27,7 @@ These are my most used & favourite tools:
 
 1. [Silky Zubat 330](http://www.silkyfox.co.uk/zubat.php) with [belt clip scabbard](https://www.benburgess.co.uk/shop/silky-belt-clip-scabbard/)
 2. [Niwaki GR Pro secateurs](https://www.niwaki.com/gr-pro-secateurs/#P00440-1)
+
+### Rudimentary
+
+1. Bamboo

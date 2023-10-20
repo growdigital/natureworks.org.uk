@@ -1,7 +1,7 @@
 ---
 title: Stone Birdbath
 date: 2023-10-14T19:24:12+01:00
-description: 
+description: A heavy birdbath that can be easily cleaned is great for birds & can be made from natural materials
 tags: 
 - ForestGarden
 - BirdBath
