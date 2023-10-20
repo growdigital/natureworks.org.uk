@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/231020-plastic-vs-wood/</loc>
+    <lastmod>2023-10-20T12:04:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/materials/</loc>
+    <lastmod>2023-10-20T12:04:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/natural/</loc>
+    <lastmod>2023-10-20T12:04:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/plastic/</loc>
+    <lastmod>2023-10-20T12:04:29+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
     <lastmod>2023-10-14T21:15:50+01:00</lastmod>
   </url>
