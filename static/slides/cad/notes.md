@@ -4,68 +4,34 @@
 
 ## Reference
 
-* All classes [natureworks.org.uk/classes](https://www.natureworks.org.uk/classes/) 
 * Slides [natureworks.org.uk/slides/cad](https://www.natureworks.org.uk/slides/cad/)
 * These notes [natureworks.org.uk/slides/cad/notes.pdf](https://www.natureworks.org.uk/slides/cad/notes.pdf)
-* Work licensed under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/), embedded work may have other licenses.
-* Contact
-  * [Jake Rayson](https://natureworks.org.uk/about) 
-  * Email <hello@natureworks.org.uk> 
-  * Mastodon [@natureworks@mas.to](https://mas.to/@natureworks)
+* Contact Jake Rayson <hello@natureworks.org.uk>
 
 ---
 
-class: middle
-
-# Class outline
+# Outline
 
 1. Why CAD?
+    * This world needs more wildlife forest gardens
+    * And more garden designers!
+    * All these gardens need designing
+    * CAD stands for [Computer Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)
+    * CAD fast 2D line design software
+    * Measure land, create map, circles for trees
 2. Setup QCAD
+    * QCAD is **free or cheap**
+      * [Free version](https://www.qcad.org/en/qcad-downloads-trial)
+      * [Paid version](https://www.qcad.org/en/online-shop?cur=GBP) £41
+      * [QCAD Book](https://qcad.org/en/qcad-book) £36
+    * QCAD is [Open Source](https://en.wikipedia.org/wiki/Open-source_software)
 3. Shapes, entities & mods
 4. Examples
 5. Exercises
 6. Tips
 
-<h6 class="breadcrumb">CAD — Setup — Shapes — Examples — Exercises — Tips</h6>
+The [QCAD manual](https://qcad.org/en/qcad-book), 
 
-???
-
-* Is CAD really for you?
-* Can you get by with paper plan?
-* There is a steep learning curve & you **will** need to practise
-* <abbr title="Read The Manual!">RTFM</abbr> if you can: [QCAD manual](https://qcad.org/en/qcad-book)
-* [Refunds available](https://help.gumroad.com/article/47-how-to-refund-a-customer) from [my Gumroad shop](https://natureworksgarden.gumroad.com/)!
-* Put the time in to survey accurately! An accurate survey gives an accurate plan! TODO
-
----
-
-class: middle, center
-
-# 1. Why CAD?
-
-<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
-
----
-
-class: middle, center
-
-# 🌍🌐<br><br>This world needs<br>more gardeners<br><br>🌱🐛<br>
-
-<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
-
-???
-
-* Nature & Climate Emergency
-* Gardens need to be a wildlife haven with crops
-* A forest garden!
-  * Edible - get a crop
-  * Wildlife - work with nature
-  * Ornamental - a pleasure to be in
-* Native plants where possible
-* Diversity of wildlife habitat
-* This stuff needs planning
-
----
 
 # Forest garden
 
@@ -91,7 +57,7 @@ edible plants could lead to a sustainable future](https://www.youtube.com/watch?
 
 
 * 
-* Create precise line diagrams
+* 
 * Used in architecture & manufacturing
 * 2D CAD
 
@@ -138,7 +104,7 @@ edible plants could lead to a sustainable future](https://www.youtube.com/watch?
 
 ![CAD plan of circular beds](https://res.cloudinary.com/growdigital/image/upload/w_516,bo_1px_solid_gray/v1587997700/rhug/cad-patio-aswas.png)
 
-* [Computer Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)
+* 
 * Create precise line diagrams
 * Used in architecture & manufacturing
 * 2D CAD
@@ -159,9 +125,6 @@ edible plants could lead to a sustainable future](https://www.youtube.com/watch?
 ![Screenshot of CAD garden design including menus](https://res.cloudinary.com/growdigital/image/upload/w_520/v1570785794/greenroom-cad-screenshots-nophoto.png)
 
 * I use [QCAD](https://qcad.org/en/) 🌈🦄
-* [Free version](https://www.qcad.org/en/qcad-downloads-trial)
-* [Paid version](https://www.qcad.org/en/online-shop?cur=GBP) £41
-* [QCAD Book](https://qcad.org/en/qcad-book) £36
 
 <h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
 
