@@ -12,19 +12,23 @@
 
 # Outline
 
-1. Why CAD?
+1.  Why CAD?
+
 2. Setup QCAD
-3. Shapes, entities & mods
-4. Examples
-5. Exercises
-6. Tips
+   
+   
+   
+   3. Shapes, entities & mods
+   - Examples
+   - Exercises
+   - Tips
 
 ## 1. Why CAD?
 
 * This world needs more wildlife forest gardens & more garden designers to design them!
 * CAD stands for [Computer Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)
 * CAD is fast, 2D (plan view), line design software
-* Do you even need CAD? Paper plan if only 1 design &/or don’t want to learn more software.
+* Do you even need CAD? Paper plan if only 1 design &/or don’t want to learn more software?
 * CAD pros:
   * 1:1
   * Fast & accurate (old PCs)
@@ -35,30 +39,109 @@
   * Ugly
   * Steep learning curve
 * Reasons to plan
-  1. [Plant spacing](https://www.natureworks.org.uk/spacing/)
-  2. Position of plants
-  3. Calculate quantity of plants
-  4. Communicate with others
-  5. Document what is where
+  1. Spacing
+  2. Position
+  3. Quantity
+  4. Communicate
+  5. Document
 
 ## 2. Setup QCAD
    
-* QCAD is **free** or **cheap**
-  * [Free version](https://www.qcad.org/en/qcad-downloads-trial) £0
-  * [Paid version](https://www.qcad.org/en/online-shop?cur=GBP) £41
-  * [QCAD Book](https://qcad.org/en/qcad-book) £36
-  * QCAD is [Open Source](https://en.wikipedia.org/wiki/Open-source_software)
-* [Download QCAD Trial](https://qcad.org/en/download)
-* [Install QCAD](https://qcad.org/en/documentation/installation), depends on Operating System
-* Set units on first start, I use metres 
-* Remove all trial plugins **except** these:
-  * `libqcaddarkstyle.so`
-  * `libqcaddxf.so`
-  * `libqcadscripts.so`<br>![Screenshot of file list of 3 lonely plugins](https://res.cloudinary.com/growdigital/image/upload/v1672257002/class/plugins-remaining.png)
-* Location of plugins folder:
-  * MacOS: `Applications/QCAD.app/Contents/PlugIns` (Right-click on `QCAD.app` and click `Show Package Contents`)
-  * Windows: `[QCAD installation folder]\plugins`
-  * Linux: `[QCAD installation directory]/plugins` - I have mine in `~/opt/qcad-3…/plugins`
+   * QCAD is **free** or **cheap**
+     * [Free version](https://www.qcad.org/en/qcad-downloads-trial) £0
+     * [Paid version](https://www.qcad.org/en/online-shop?cur=GBP) £41
+     * [QCAD Book](https://qcad.org/en/qcad-book) £36
+   * QCAD is [Open Source](https://en.wikipedia.org/wiki/Open-source_software)
+2. 
+
+---
+
+# 1. Tree spacing
+
+![Plan view of tree outlines with spacing guidance](https://res.cloudinary.com/growdigital/image/upload/w_520/v1573738171/tree-spacing-169.png)
+
+1. Forest gardens emulate **woodland edge**
+2. Enough light for crops below canopy
+3. About ¼ to ½ average canopy diameter
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* Tree spacing most critical, as trees hard to move
+* Same principle for other plants - not too crowded or sparse
+
+---
+
+# 2. Position
+
+![Outlines of paths in garden, blue house below & beyond](https://res.cloudinary.com/growdigital/image/upload/w_520/v1573738171/clifftop/220209-clifftop-wiggly-paths-169-saturated.jpg)
+
+* Plan enables **play**
+* Try different positions quickly
+* Overview of different conditions
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+---
+
+# 3. Quantity
+
+![CAD drawing showing area of a section, and ruler, side-by-side with plant spreadsheet](https://res.cloudinary.com/growdigital/image/upload/w_520/v1573738171/undergrove/cad-area-quantity-spreadsheet.jpg)
+
+* CAD brilliant at estimates
+* Distance tool for lengths
+* Easy to calculate areas
+* Use with spreadsheet
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* My plant spreadsheet template [bit.ly/template-plants](https://bit.ly/template-plants)
+
+---
+
+# 4. Communicate
+
+![Screenshot of online client notes](https://res.cloudinary.com/growdigital/image/upload/w_518,bo_1px_solid_gray/v1573738171/undergrove/client-notes-undergrove.jpg)
+
+* Share ideas with partners 
+* Landscaping & planting guide
+* Your future self
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* Easy to print out CAD as a PDF
+
+---
+
+# 5. Document
+
+![Montage of photos of new garden taken from above](https://res.cloudinary.com/growdigital/image/upload/w_520/v1656154985/hedgerows/hedgerows-from-east-beds-mar21-lines.jpg)
+
+* Where _are_ the plants?!
+* Seasonal differences
+* **Educate** partners
+* Management top priority
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+Spreadsheet another good tool for reference
+
+---
+
+class: middle, center
+
+# 2. Setup QCAD
+
+<h6 class="breadcrumb">CAD — <span class="u-underline">Setup</span> — Shapes — Examples — Exercises — Tips</h6>
+
+---
 
 # QCAD setup steps
 
@@ -74,7 +157,58 @@
    `View > Command Line`&nbsp;&nbsp;&nbsp;`View > Block List`
 7. Stack Layer, Property & Block widgets¶
 
+<h6 class="breadcrumb">CAD — <span class="u-underline">Setup</span> — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* [Download QCAD Trial](https://qcad.org/en/download)
+* *&nbsp;[Install QCAD](https://qcad.org/en/documentation/installation), depends on Operating System
+* † You can set units on first start. I use metres: 
+  * Approximate enough for gardening
+  * All my [CAD blocks](https://github.com/growdigital?tab=repositories&q=cad+blocks&type=&language=&sort=) use metres 
+  * Millimetres normally used in architecture
+* ‡ Remove these plugins from the `plugins` folder:
+  * `libqcaddwg.so`
+  * `libqcadpdf.so`
+  * `libqcadpolygon.so`
+  * `libqcadproj.so`
+  * `libqcadproscripts.so`
+  * `libqcadshp.so`
+  * `libqcadspatialindexpro.so`
+  * `libqcadtrace.so`
+  * `libqcadtriangulation.so`
+* ‡ So that only these plugins remain:
+  * `libqcaddarkstyle.so`
+  * `libqcaddxf.so`
+  * `libqcadscripts.so`<br>![Screenshot of file list of 3 lonely plugins](https://res.cloudinary.com/growdigital/image/upload/v1672257002/class/plugins-remaining.png)
+* Location of plugins folder:
+  * MacOS: `Applications/QCAD.app/Contents/PlugIns` (Right-click on `QCAD.app` and click `Show Package Contents`)
+  * Windows: `[QCAD installation folder]\plugins`
+  * Linux: `[QCAD installation directory]/plugins` - I have mine in `~/opt/qcad-3…/plugins`
+* ‖ The reason to use a dark background is that the default CAD colours are more visible than on a white background.
+* ¶ I “lock” these to the right hand side of the screen, as they are the widgets I use the most and I like to have them visible all the time.
+
+<h6 class="breadcrumb">CAD — <span class="u-underline">Setup</span> — Shapes — Examples — Exercises — Tips</h6>
+
+---
+
+class: middle, center
+
 # 3. Shapes, entities & mods
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+???
+
+* Download the working CAD files from the [CAD for Gardeners project ](https://github.com/growdigital/cad-gardeners) or [direct from here](https://github.com/growdigital/cad-gardeners/archive/refs/heads/main.zip)
+
+---
+
+class: middle, center
+
+# But first…
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
 
 ---
 
