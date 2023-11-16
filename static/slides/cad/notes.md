@@ -10,7 +10,7 @@
 
 ---
 
-# Outline
+## Outline
 
 1. Why CAD?
 2. Setup QCAD
@@ -60,27 +60,31 @@
   * Windows: `[QCAD installation folder]\plugins`
   * Linux: `[QCAD installation directory]/plugins` - I have mine in `~/opt/qcad-3…/plugins`
 
-# QCAD setup steps
+## 3. Shapes, entities & mods
 
-1. Install QCAD*
-2. Set units to metres†<br>
-   `Defaults for New Drawings > Drawing Unit`
-3. Remove trial plugins‡
-4. Set theme to Dark (restart app)§<br>
-   `Application Preferences > General > Theme`
-5. Set background to dark grey‖<br>
-   `Application Preferences > Graphics View > Colors > Background > Others > #3e3e3e`
-6. Hide Command Line & show Block widgets<br>
-   `View > Command Line`&nbsp;&nbsp;&nbsp;`View > Block List`
-7. Stack Layer, Property & Block widgets¶
+* **4** shapes
+  1. Rectangle
+  2. Line tool
+  3. Circles for trees
+  4. <a href="https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline" title="Non-uniform rational B-spline">NURBS</a> for curves! I use `Spline (Control Points)`
+* **3** entities
+  1. **Block** - a symbol that can be re-used & edited just once
+    * Useful for creating shape, **then** applying angle
+    * Also, where there are many instances of an element
+  2. **Polyline** - a *connected* line, can calculate area. Use command `Draw > Polyline > Polyline from Selection`, shortcut `OC`
+    * Useful for grouping lines together
+    * Also gives you **area** (can also use measurement tools)
+  3. **Text**
+* **4** modifications
+  1. Offset
+  2. Mirror
+  3. Divide
+  4. Rotate
 
-# 3. Shapes, entities & mods
+* Download files from [https://github.com/growdigital/cad-gardeners](github.com/growdigital/cad-gardeners)
+* See [Survey Class](https://natureworks.org.uk/classes/) on how to measure up & survey your site.
 
----
-
-# Finding your way
-
-<img class="right-img" src="https://res.cloudinary.com/growdigital/image/upload/w_320/v1580908407/mouse-scroll.jpg" alt="Wooden mouse sculpture holding scroll in mouth">
+### Finding your way
 
 * Zoom in/out
   * Mouse scroll
@@ -89,149 +93,27 @@
 * Panning 
   * Mouse scroll **click**
   * `View > Zoom > Pan Zoom`
-
-<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
-
-???
-
-* Apologies for the terrible pun
-* Netsuke of Mouse with Scroll in Mouth
-
----
-
-# Don’t Panic!
-
-![Close-up of shiny red escape key on keyboard](https://res.cloudinary.com/growdigital/image/upload/w_480/v1672747890/shiny-red-esc-key.jpg)
-
 * Hit `Escape` to return to arrow tool
 * `View > Zoom > Auto Zoom` 
 
-<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+### Snap
 
-???
+1. Snap Auto `SA` - automatically snaps to grid or another point
+2. Snap Free `SF` - no snapping
+3. Snap on Entity `ST` - snaps on to a line or shape
+4. Snap to End `SE` - snaps to the end of a line
 
-* Photo by Wander Boessenkool <https://commons.wikimedia.org/wiki/File:Shiny_red_Esc_(7160723193).jpg>
-
----
-
-class: middle
-
-# 3. Shapes, entities & mods
-
-* **4** shapes
-* **3** entities
-* **4** mods
-
-<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
-
-???
-
-* Download files from [https://github.com/growdigital/cad-gardeners](github.com/growdigital/cad-gardeners)
-
----
-
-# **4** shapes
-
-![CAD shapes screenshot: rectangle, line & circle](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672749716/class/cad-rectangle-line-circle.png)
-
-1. Rectangle
-2. Line tool
-3. Circles for trees
-4. NURBS for curves!
-
-<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
-
-???
-
-* <a href="https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline" title="Non-uniform rational B-spline">NURBS</a> tool for creating curves!
-* See [Survey Class](https://natureworks.org.uk/classes/) on how to measure up & survey your site.
-
----
-
-# Snap!
-
-![QCAD snap menu](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672749716/class/qcad-snap-menu.png)
-
-1. Snap Auto `SA`
-2. Snap Free `SF`
-3. Snap on Entity `ST` 
-4. Snap to End `SE`
-
-<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
-
----
-
-# **3** entities
-
-![CAD entities screenshot: block, polyline & text](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672751964/class/cad-block-polyline-text.png)
-
-1. Block
-2. Polyline
-3. Text
-
-<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
-
-???
-
-* Block is a symbol that can be re-used & edited just once
-  * Useful for creating shape, **then** applying angle
-  * Also, where there are many instances of an element
-* Polyline is a *connected* line, can calculate area. Use command `Draw > Polyline > Polyline from Selection`, shortcut `OC`
-  * Useful for grouping lines together
-  * Also gives you **area** (can also use measurement tools)
-* NURBS give you curved lines, I use `Spline (Control Points)`. Stands for Non-Uniform Rational B-Splines.
-
----
-
-# Layers!
-
-![Screenshot of Jake's Delicious CAD template on GitHub page](https://res.cloudinary.com/growdigital/image/upload/w_430/v1673340128/class/delicious-cad-template.png)
+### Layers
 
 * Organise different elements
 * Shape takes layer colour
-* My delicious [template](https://github.com/growdigital/template)
+* My [template](https://github.com/growdigital/template)
 
-<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
-
-???
-
-* QCAD templates stored in `[QCAD folder]/libraries/templates/`
-* GitHub is a **code repository**
-* An online place to store and share text-based files and small images
-* Also for keeping track of old versions
-
----
-
-# **4** mods
-
-![CAD modifications screenshot: offset, mirror, divide & rotate](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672751964/class/cad-offset-mirror-divide-rotate.png)
-
-1. Offset
-2. Mirror
-3. Divide
-4. Rotate
-
-<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
-
-???
-
-* Mods is short for modifications!
-* I’m using a real world example, creating a curved [gabion](https://en.wikipedia.org/wiki/Gabion) wall for my [primary school wildlife garden project](https://grwd.uk/primary).
-* Offset
-  * Example with path
-  * Example of curved gabion wall
-
----
-
-# Blocks!
-
-![Screenshot of forest garden blocks CAD file](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672751964/class/blocks-forest-garden-cad.png)
+### Pre-made blocks
 
 * [Forest garden plants](https://github.com/growdigital/blocks-forestgarden)
 * [Native wild plants](https://github.com/growdigital/blocks-gardenwild)
 * [Garden furniture](https://github.com/growdigital/blocks-furniture)
-
-<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
 
 ---
 
