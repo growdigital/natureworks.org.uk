@@ -37,7 +37,7 @@ draft: false
 3. **Hedge spacing** — for the line of the hedge, use bamboo cane to measure from a fixed point, eg the edge of a path, allowing for the final diameter of the hedging plant. It’s good to plant about 0.5m apart, depending on species, budget etc. Mark 0.5m on the bamboo cane.
 4. **Tree marking** — bamboo cane & [dead hedge](/dead-hedge/). If you can see your trees easily, you can make your way to look after them more easily too.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1573473726/measure-4F364CF2.jpg" alt="1m mark on bamboo cane" caption="A simple 2m length of bamboo is very useful" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1573473726/measure-4F364CF2.jpg" alt="1m mark on bamboo cane" caption="A simple 2m length of bamboo is very useful to quickly measure tree diameter" >}}
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1697663759/syra/231018-stick-path.jpg" alt="Stick on a new path" caption="Measuring a fixed width from the fixed edge of the path, then measure 0.5m gap between hedging plants" >}}
 
