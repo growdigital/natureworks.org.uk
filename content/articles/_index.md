@@ -43,6 +43,7 @@ Also see slideshow definition: [natureworks.org.uk/talks/definition](/talks/defi
 * **Spreadsheets**: sortable spreadsheets to find plants easily [natureworks.org.uk/spreadhseets](/spreadsheets/)
 * **Stacking Functions**: design garden elements to have multiple functions [natureworks.org.uk/stacking-functions](/stacking-functions/) 
 * **Survey**: checklist for survey observations [natureworks.org.uk/survey/](/survey/)
+* **Tools**: my favourite gardening tools [natureworks.org.uk/tools/](/tools/)
 * **Top 10 Perennial Veg**: [natureworks.org.uk/top-10-perennial-veg](/top-10-perennial-veg/)
 * **Walkthroughs**: practical videos for The Backyard Forest course [natureworks.org.uk/walkthroughs](/walkthroughs/)
 * **Wildflower**: useful wildflower links [natureworks.org.uk/wildflower](/wildflower/)
