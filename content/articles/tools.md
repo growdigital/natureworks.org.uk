@@ -35,9 +35,9 @@ draft: false
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1697807996/syra/231018-bamboo-169.jpg" alt="Clump of bamboo" caption="Local bamboo for local bamboo canes" >}}
 
 1. **Path marking** — 50cm bamboo canes combined with [cotton butcher’s twine](https://www.thespruceeats.com/what-is-butchers-twine-4172495) are ideal, because they’re easy to adjust and tighten, and they’re compostable. If you have access to make your own bamboo canes from a local clump, even better, because they are local, free and also will compost down even quicker.
-2. **Tree diameter** — to quickly calculate the diameter of trees, I use a 2 metre bamboo cane, marked at half metre intervals with black gaffa tape. You can see how far an 8m diameter tree extends very easily.
+2. **Tree diameter** — to quickly calculate the projected diameter of trees, I use a 2 metre bamboo cane, marked at half metre intervals with black gaffa tape. You can see how far an 8m diameter tree extends very easily.
 3. **Hedge spacing** — for the line of the hedge, use bamboo cane to measure from a fixed point, eg the edge of a path, allowing for the final diameter of the hedging plant. It’s good to plant about 0.5m apart, depending on species, budget etc. Mark 0.5m on the bamboo cane.
-4. **Tree marking** — bamboo cane & [dead hedge](/dead-hedge/). If you can see your trees easily, you can make your way to look after them more easily too.
+4. **Tree marking** — bamboo cane & [dead hedge](/dead-hedge/). If you can see your trees easily because they have a dead hedge in front of them, you can make your way to look after them more easily too.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1573473726/measure-4F364CF2.jpg" alt="1m mark on bamboo cane" caption="A simple 2m length of bamboo is very useful to quickly measure tree diameter" >}}
 
