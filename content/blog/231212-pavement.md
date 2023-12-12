@@ -8,7 +8,7 @@ tags:
 - Design
 - Cycling
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1702378462/curb-publicdomainpictures.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1702378462/kerb-publicdomainpictures.jpg
 imageAlt:
 - View of pavement, kerbstone and road from above
 imageCap:
