@@ -1,7 +1,7 @@
 ---
 title: Pavement
 date: 2023-12-12T10:41:20Z
-description: How much does a pavement (sidewalk) cost? About £300 per metre.
+description: How much does a pavement (sidewalk) cost? About £360 per metre.
 tags: 
 - ForestGarden
 - Accessibility
