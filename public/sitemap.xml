@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2023-12-19T09:54:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-12-19T09:54:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/syra/</loc>
+    <lastmod>2023-12-19T09:54:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/231215-syra/</loc>
+    <lastmod>2023-12-19T09:54:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-12-19T09:54:12+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/accessibility/</loc>
     <lastmod>2023-12-12T10:41:20+00:00</lastmod>
   </url><url>
@@ -11,16 +26,7 @@
     <loc>http://localhost:1313/tags/design/</loc>
     <lastmod>2023-12-12T10:41:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2023-12-12T10:41:20+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-12-12T10:41:20+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/231212-pavement/</loc>
-    <lastmod>2023-12-12T10:41:20+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-12-12T10:41:20+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/communityassembly/</loc>
