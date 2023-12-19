@@ -26,13 +26,13 @@ Membership https://natureworksgarden.gumroad.com/l/membership
 
 Newsletter https://store.natureworks.org.uk/posts
 YouTube https://youtube.com/NatureWorksGarden
-YouTube subscribe https://bit.ly/subscribe-natureworksgarden
+YouTube subscribe https://grwd.cc/subscribe-natureworksgarden
 Mastodon https://mas.to/natureworks
 
 ## My resources
 
-Garden Wild Spreadsheet https://bit.ly/garden-wild-spreadsheet
-Forest Garden Spreadsheet https://bit.ly/forest-garden-spreadsheet
+Garden Wild Spreadsheet https://grwd.cc/garden-wild-spreadsheet
+Forest Garden Spreadsheet https://grwd.cc/forest-garden-spreadsheet
 Articles https://natureworks.org.uk/articles
 Design https://natureworks.org.uk/design
 Resources https://natureworks.org.uk/resources
@@ -41,7 +41,7 @@ Resources https://natureworks.org.uk/resources
 
 Database of Insects & their Food Plants (DBIF) http://dbif.brc.ac.uk/hosts.aspx
 The Database of Pollinator Interactions (DoPI) https://www.sussex.ac.uk/lifesci/ebe/dopi
-RHS Plant Finder UK #NativePlants filter https://bit.ly/rhs-native-plant
+RHS Plant Finder UK #NativePlants filter https://grwd.cc/rhs-native-plant
 Plants For A Future https://pfaf.org
 Plant Atlas UK #NativePlants #WildFlowers https://plantatlas2020.org
 NBN Atlas UK #ecology https://nbnatlas.org

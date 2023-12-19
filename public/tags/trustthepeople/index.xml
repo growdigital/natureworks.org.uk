@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TrustThePeople on Nature Works</title>
+    <link>http://localhost:1313/tags/trustthepeople/</link>
+    <description>Recent content in TrustThePeople on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 15 Nov 2023 09:18:29 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/trustthepeople/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trust The People - Engaging Communities</title>
+      <link>http://localhost:1313/blog/231115-ttp-engaging-communities/</link>
+      <pubDate>Wed, 15 Nov 2023 09:18:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/231115-ttp-engaging-communities/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Workshop 2 in the Community Assembly training was engaging communities&lt;/p&gt;
+        I have started the Trust The People free Community Assembly course.
+        <link>http://localhost:1313/blog/231115-ttp-engaging-communities/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natural on Nature Works</title>
+    <link>http://localhost:1313/tags/natural/</link>
+    <description>Recent content in natural on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 20 Oct 2023 12:04:29 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/natural/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Factory plastic bench vs artisan wood</title>
+      <link>http://localhost:1313/blog/231020-plastic-vs-wood/</link>
+      <pubDate>Fri, 20 Oct 2023 12:04:29 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/231020-plastic-vs-wood/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;What we ask for makes a differnce&lt;/p&gt;
+        I’m working on an RHS show garden with a Community Assembly in the heart of a wildlife forest garden.
+        <link>http://localhost:1313/blog/231020-plastic-vs-wood/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
