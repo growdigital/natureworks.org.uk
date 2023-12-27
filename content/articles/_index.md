@@ -20,6 +20,7 @@ Articles for reference. Short URLs, concise info 🙂 💚 🌳
 * **Clay lined pond**: tips on making [natureworks.org.uk/clay-lined-pond](/clay-lined-pond)
 * **Comfrey**: 4 ways to use comfrey as fertiliser [natureworks.org.uk/comfrey](/comfrey/)
 * **Conduct**: Forest Garden Wales’ Code of Conduct [natureworks.org.uk/conduct](/conduct/)
+* **Daylillies**: [Alan Carter’s](https://www.foodforest.garden/product/book/) favourites [natureworks.org.uk/daylillies](/daylillies/)
 * **Dead hedge**: for protection & habitat [natureworks.org.uk/dead-hedge](/dead-hedge/)
 * **Definition**: forest garden definition [natureworks.org.uk/definition](/definition/)  
 Also see slideshow definition: [natureworks.org.uk/talks/definition](/talks/definition)
