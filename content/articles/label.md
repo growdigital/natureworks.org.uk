@@ -11,9 +11,10 @@ imageAlt:
 - Hand holding plant label curled around small branch
 imageCap:
 - This label has been in place on the Victoria Plum for two years now.
-draft: true
+draft: false
 aliases:
 - /blog/recycled-ever-expanding-plant-labels/
+- /labels/
 ---
 
 I used to tie ordinary plant labels to tree branches with bits of baling twine. But they’re ugly, flap about and don’t expand with the thickening branch.

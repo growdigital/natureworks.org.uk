@@ -12,6 +12,8 @@ imageCap:
 - Hosta shoots, eat them before the slugs do
 gallery: false
 draft: false
+aliases:
+- /hosta/
 ---
 
 * [Hosta crispula](https://pfaf.org/user/plant.aspx?latinname=Hosta+crispula) 0.6m x 1m  
