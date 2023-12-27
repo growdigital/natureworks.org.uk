@@ -1,7 +1,7 @@
 ---
 title: Daylillies
 date: 2022-03-12T13:29:51Z
-description: Thick, clumping boundary plants prevent grass paths creeping in to borders
+description: Edible flower heads that last a day, true edimentals
 tags: 
 - ForestGarden
 - PerennialVeg
