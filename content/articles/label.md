@@ -1,28 +1,30 @@
 ---
 title: Label
-date: 2019-05-12T22:28:17+01:00
+date: 2023-12-28T21:21:20+00:00
 description: These nifty plant labels keep on expanding with a growing branch, and are easy to make from old plastic milk bottles.
 tags: 
 - ForestGarden
 - Tip
+- Labels
+- Label
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1557599027/label-F892524B.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1703756900/metal-aluminium-tree-label-231228.jpg
 imageAlt: 
-- Hand holding plant label curled around small branch
+- Rolled up metal label
 imageCap:
-- This label has been in place on the Victoria Plum for two years now.
+- Aluminium tape labels with embossed lettering
 draft: false
 aliases:
 - /blog/recycled-ever-expanding-plant-labels/
 - /labels/
 ---
 
-I used to tie ordinary plant labels to tree branches with bits of baling twine. But they’re ugly, flap about and don’t expand with the thickening branch.
+In my search for the everlasting, environmentally friendly label for trees, I’ve found the [Dymo Rhino M1011](https://www.dymo.co.uk/label-makers-printers/embossing-label-makers/dymo-rhino-m1011/SP_1364227.html) which embosses aluminium tape.
 
-So, I cut up long strips of old plastic milk bottles, stuck a label printed out from my [labelling machine](https://www.amazon.co.uk/Brother-PT-H110-Labeller-Keyboard-Handheld/dp/B01N5ID8FR/) and then curled the plastic like you would a [present ribbon with scissors](https://www.wikihow.com/Curl-Ribbon).
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1703756900/metal-aluminium-tree-label-231228.jpg" alt="Curled aluminium tape with SPINDLE embossed" caption="The curl allows the label to fit" >}}
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1557599019/labels-9BECA254.jpg" alt="Scissors and homemade labels on wooden worktop" caption="Creating recycled ever-expanding plant labels is pretty simple." >}}
+About 15cm of the aluminium tape is curled, so that as the branch expands, the label always fits.
 
-Members of my family poke fun at me for having a dedicated plant labeller but the labels last indefinitely, unlike permanent (sic) ink or pencil. 
+The downside is that, as of December 2023, the labeller [retails new for about £500](https://www.amazon.co.uk/Dymo-S0720090-Rhino-M1011-Embossing/dp/B000MN95KQ/), and the [4.8m aluminium tape is about £14](https://www.amazon.co.uk/Dymo-Rhino-Embosser-Labels-Non-Adhesive/dp/B001R23RCI/).
 
-I’ve tried this method out on a Victoria Plum, and the label has kept its shape for a good couple of years now 🙂.
+I bought my labeller secondhand on eBay for £120, and found a supplier on eBay [selling the tape for about £6](https://www.ebay.co.uk/itm/255682879301).
