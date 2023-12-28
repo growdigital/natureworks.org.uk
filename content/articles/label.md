@@ -1,7 +1,7 @@
 ---
 title: Label
 date: 2023-12-28T21:21:20+00:00
-description: These nifty plant labels keep on expanding with a growing branch, and are easy to make from old plastic milk bottles.
+description: These plant labels keep on expanding with a growing branch, and are easy to make from old plastic milk bottles.
 tags: 
 - ForestGarden
 - Tip
@@ -25,6 +25,7 @@ In my search for the everlasting, environmentally friendly label for trees, I’
 
 About 15cm of the aluminium tape is curled, so that as the branch expands, the label always fits.
 
-The downside is that, as of December 2023, the labeller [retails new for about £500](https://www.amazon.co.uk/Dymo-S0720090-Rhino-M1011-Embossing/dp/B000MN95KQ/), and the [4.8m aluminium tape is about £14](https://www.amazon.co.uk/Dymo-Rhino-Embosser-Labels-Non-Adhesive/dp/B001R23RCI/).
+The downside is that, as of December 2023, the labeller [retails new for about £500](https://www.amazon.co.uk/Dymo-S0720090-Rhino-M1011-Embossing/dp/B000MN95KQ/), and the [4.8m aluminium tape is about £14](https://www.amazon.co.uk/Dymo-Rhino-Embosser-Labels-Non-Adhesive/dp/B001R23RCI/). I bought my labeller secondhand on eBay for £120, and found a supplier on eBay [selling the tape for about £6](https://www.ebay.co.uk/itm/255682879301).
 
-I bought my labeller secondhand on eBay for £120, and found a supplier on eBay [selling the tape for about £6](https://www.ebay.co.uk/itm/255682879301).
+I have a lot of labels to make, but if you don’t have many, an alternative is to use recycled aluminium cans and a [manual alphabet punch set](https://www.etsy.com/uk/market/alphabet_punch_set).
+
