@@ -21,7 +21,7 @@ aliases:
 
 In my search for the everlasting, environmentally friendly label for trees, I’ve found the [Dymo Rhino M1011](https://www.dymo.co.uk/label-makers-printers/embossing-label-makers/dymo-rhino-m1011/SP_1364227.html) which embosses aluminium tape.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1703756900/metal-aluminium-tree-label-231228.jpg" alt="Curled aluminium tape with SPINDLE embossed" caption="The curl allows the label to fit" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1703798088/dymo-rhino-m1011-factory.jpg" alt="Black plastic box and black hand operated labeller, plus tape" caption="Professional labeller for professional labels, with a professional price tag" >}}
 
 About 15cm of the aluminium tape is curled, so that as the branch expands, the label always fits.
 
