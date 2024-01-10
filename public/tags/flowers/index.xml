@@ -20,5 +20,18 @@
       </description>
     </item>
     
+    <item>
+      <title>Daylillies</title>
+      <link>http://localhost:1313/daylillies/</link>
+      <pubDate>Sat, 12 Mar 2022 13:29:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/daylillies/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Edible flower heads that last a day, true edimentals&lt;/p&gt;
+        As grown by Alan Carter, A Food Forest in Your Garden pp202
+        <link>http://localhost:1313/daylillies/</link>
+      </description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Nature Works</title>
+    <link>http://localhost:1313/tags/education/</link>
+    <description>Recent content in Education on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 10 Jan 2024 09:35:22 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning chunks</title>
+      <link>http://localhost:1313/blog/240110-learning-chunks/</link>
+      <pubDate>Wed, 10 Jan 2024 09:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/240110-learning-chunks/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;How about small chunks of iterative learning material for creating a wildlife forest garden?&lt;/p&gt;
+        I had been learning Welsh using SaySomethingIn.com, the language learning system was a small amount of spoken Welsh every day, so that you eventually start speaking without thinking, and you learn the writing later.
+        <link>http://localhost:1313/blog/240110-learning-chunks/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

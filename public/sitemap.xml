@@ -2,11 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/classes/</loc>
+    <lastmod>2024-01-10T09:35:22+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/education/</loc>
+    <lastmod>2024-01-10T09:35:22+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2023-12-19T09:54:12+00:00</lastmod>
+    <lastmod>2024-01-10T09:35:22+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240110-learning-chunks/</loc>
+    <lastmod>2024-01-10T09:35:22+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2023-12-19T09:54:12+00:00</lastmod>
+    <lastmod>2024-01-10T09:35:22+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-01-10T09:35:22+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/syra/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/label/</loc>
+    <lastmod>2023-12-28T21:21:20+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/label/</loc>
+    <lastmod>2023-12-28T21:21:20+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/labels/</loc>
+    <lastmod>2023-12-28T21:21:20+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tip/</loc>
+    <lastmod>2023-12-28T21:21:20+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/buzzclub/</loc>
+    <lastmod>2023-12-25T16:05:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/231225-what-wild-things/</loc>
+    <lastmod>2023-12-25T16:05:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wildlife/</loc>
+    <lastmod>2023-12-25T16:05:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wildlifegarden/</loc>
+    <lastmod>2023-12-25T16:05:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2023-12-20T14:19:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gardendesign/</loc>
+    <lastmod>2023-12-20T14:19:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/231220-cow-paths/</loc>
+    <lastmod>2023-12-20T14:19:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/paths/</loc>
+    <lastmod>2023-12-20T14:19:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/syra/</loc>
     <lastmod>2023-12-19T09:54:12+00:00</lastmod>
@@ -14,16 +65,10 @@
     <loc>http://localhost:1313/blog/231215-syra/</loc>
     <lastmod>2023-12-19T09:54:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-12-19T09:54:12+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/accessibility/</loc>
     <lastmod>2023-12-12T10:41:20+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cycling/</loc>
-    <lastmod>2023-12-12T10:41:20+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/design/</loc>
     <lastmod>2023-12-12T10:41:20+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/231212-pavement/</loc>
@@ -72,9 +117,6 @@
     <lastmod>2023-10-14T19:24:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/231014-stone-birdbath/</loc>
-    <lastmod>2023-10-14T19:24:12+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wildlifegarden/</loc>
     <lastmod>2023-10-14T19:24:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/landscaping/</loc>
@@ -174,9 +216,6 @@
     <lastmod>2023-09-13T13:50:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230913-nature-rising-from-the-rubble/</loc>
-    <lastmod>2023-09-13T13:50:26+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wildlife/</loc>
     <lastmod>2023-09-13T13:50:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230912-low-fertility-recycled-substrates-native-wild-flowers/</loc>
@@ -293,14 +332,11 @@
     <loc>http://localhost:1313/blog/230509-doubt/</loc>
     <lastmod>2023-05-09T22:16:27+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/230502-silvopasture/</loc>
-    <lastmod>2023-05-02T14:58:04+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/silvopasture/</loc>
     <lastmod>2023-05-02T14:58:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/classes/</loc>
-    <lastmod>2023-05-01T17:46:16+01:00</lastmod>
+    <loc>http://localhost:1313/blog/230502-silvopasture/</loc>
+    <lastmod>2023-05-02T14:58:04+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230501-classes/</loc>
     <lastmod>2023-05-01T17:46:16+01:00</lastmod>
@@ -340,9 +376,6 @@
   </url><url>
     <loc>http://localhost:1313/habitat/</loc>
     <lastmod>2023-04-13T22:26:02+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gardendesign/</loc>
-    <lastmod>2023-04-03T22:04:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230403-rejection/</loc>
     <lastmod>2023-04-03T22:04:09+01:00</lastmod>
@@ -804,6 +837,18 @@
     <lastmod>2022-03-12T13:29:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/clumping/</loc>
+    <lastmod>2022-03-12T13:29:51+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/daylillies/</loc>
+    <lastmod>2022-03-12T13:29:51+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/daylillies/</loc>
+    <lastmod>2022-03-12T13:29:51+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/daylilly/</loc>
+    <lastmod>2022-03-12T13:29:51+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/edimental/</loc>
     <lastmod>2022-03-12T13:29:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/functions/</loc>
@@ -1733,10 +1778,10 @@
     <loc>http://localhost:1313/blog/vegan-banana-cake/</loc>
     <lastmod>2018-07-12T11:51:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/definition/</loc>
+    <loc>http://localhost:1313/tags/definition/</loc>
     <lastmod>2018-07-08T09:36:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/definition/</loc>
+    <loc>http://localhost:1313/definition/</loc>
     <lastmod>2018-07-08T09:36:44+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/what-is-a-forest-garden/</loc>
