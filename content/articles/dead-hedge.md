@@ -17,6 +17,8 @@ draft: false
 aliases: 
 - /blog/dead-hedging-forest-garden/
 - /deadhedge/
+- /deadhedges/
+- /dead-hedges/
 ---
 
 The [benefits of a dead hedge](https://www.woodlands.co.uk/blog/woodland-activities/dead-hedging-wildlife-friendly-and-people-guiding/), [made from cut branches and foliage](https://en.wikipedia.org/wiki/Dead_hedge) are:
