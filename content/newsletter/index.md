@@ -22,7 +22,7 @@ links:
   url: https://bit.ly/forest-garden-spreadsheet
 ---
 
-Sign up to my Nature Works weekly-ish [Gumroad newsletter](https://natureworksgarden.gumroad.com/posts):
+Sign up to my Nature Works weekly-ish [newsletter](https://natureworks.beehiiv.com/):
 
 * Get a heads-up on upcoming [classes](https://www.natureworks.org.uk/classes)
 * News from my [forest garden YouTube channel](https://youtube.com/NatureWorksGarden)
@@ -36,4 +36,5 @@ No name required, just pop your email in the box and click **Subscribe**.
 
 Wildlife & food forest gardening newsletter
 
-<form style="width:100%;" action="https://app.gumroad.com/follow_from_embed_form" method="post" style="--accent:var(--accent);--contrast-accent:var(--contrast-accent);" id="gumroad-follow-form-embed"><input type="hidden" name="seller_id" value="7670563699179"/><input style="padding:16px; width:50%" id="gumroad-follow-form-embed-input" type="email" placeholder="Type your email…" name="email" value=""/><button id="gumroad-follow-form-embed-button" class="btn btn-primary" type="submit">Subscribe</button></form>
+<iframe src="https://embeds.beehiiv.com/4674795c-506c-41ee-99df-6c6ee573fa0f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
