@@ -40,7 +40,7 @@ params:
       link: 'https://mas.to/@natureworks'
     - name: Newsletter
       icon: fa-newspaper-o
-      link: 'https://store.natureworks.org.uk/posts'
+      link: 'https://natureworks.beehiiv.com/'
     - name: Ko-fi
       icon: fa-coffee
       link: 'https://ko-fi.com/natureworks'

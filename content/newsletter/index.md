@@ -1,14 +1,11 @@
 ---
 title: "Newsletter"
-subhead: "Wildlife & food forest newsletter signup"
+subhead: "Newsletter signup"
 date: 2021-09-17T09:00:00+06:00
 draft: false
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1631113586/elephant-garlic-flower-crop.jpg
 imageAlt:
-- Purple circular flower against blurry fields & sky background
 imageCap: 
-- Signup to my fortnightly forest garden newsletter 🙂
 links:
 - title: Plants For A Future
   url: https://pfaf.org/user/Default.aspx
@@ -22,6 +19,8 @@ links:
   url: https://bit.ly/forest-garden-spreadsheet
 ---
 
+<iframe src="https://embeds.beehiiv.com/4674795c-506c-41ee-99df-6c6ee573fa0f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 Sign up to my Nature Works weekly-ish [newsletter](https://natureworks.beehiiv.com/):
 
 * Get a heads-up on upcoming [classes](https://www.natureworks.org.uk/classes)
@@ -30,11 +29,5 @@ Sign up to my Nature Works weekly-ish [newsletter](https://natureworks.beehiiv.c
 
 No name required, just pop your email in the box and click **Subscribe**.
 
-![Nature Works logo](https://res.cloudinary.com/growdigital/image/upload/w_50,r_10/v1592425148/fgw-logo-transparent.png)
-
-##### Nature Works
-
-Wildlife & food forest gardening newsletter
-
-<iframe src="https://embeds.beehiiv.com/4674795c-506c-41ee-99df-6c6ee573fa0f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+You can view all the past newsletters here: [natureworks.beehiiv.com](https://natureworks.beehiiv.com/)
 
