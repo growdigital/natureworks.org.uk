@@ -5,11 +5,8 @@ description:
 tags: 
 - ForestGarden
 images: 
-- 
 imageAlt:
-- 
 imageCap:
-- 
 gallery: false
 draft: false
 ---
