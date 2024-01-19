@@ -1,7 +1,7 @@
 ---
 title: Label
 date: 2023-12-28T21:21:20+00:00
-description: These plant labels keep on expanding with a growing branch, and are easy to make from old plastic milk bottles.
+description: These plant labels keep on expanding with a growing branch
 tags: 
 - ForestGarden
 - Tip
