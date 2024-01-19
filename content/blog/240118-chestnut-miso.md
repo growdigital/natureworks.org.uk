@@ -1,7 +1,7 @@
 ---
 title: Chestnut miso
 date: 2024-01-18T11:45:45Z
-description: https://res.cloudinary.com/growdigital/image/upload/v1705584491/130806-miso.jpg
+description: How feasible is Chestnut miso? Fermented European food.
 tags: 
 - ForestGarden
 - Cooking
