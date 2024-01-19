@@ -48,25 +48,25 @@ menu:
   main:
     - name: Portfolio
       URL: portfolio
-      weight: 2
+      weight: 1
     - name: Design
       URL: design
-      weight: 4
-    - name: Classes
-      URL: classes
-      weight: 5
+      weight: 2
+    - name: Blog
+      URL: blog
+      weight: 3
     - name: Store↗
       URL: https://store.natureworks.org.uk/
-      weight: 6
+      weight: 4
   secondary:
     - name: About
       URL: about
-      weight: 2
+      weight: 1
     - name: Articles
       URL: articles
-      weight: 4
-    - name: Blog
-      URL: blog
-      weight: 6
+      weight: 2
+    - name: Classes
+      URL: classes
+      weight: 3
 permalinks:
   articles: '/:title'

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drone on Nature Works</title>
+    <link>http://localhost:1313/tags/drone/</link>
+    <description>Recent content in Drone on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 18 Jan 2024 21:15:39 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/drone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone</title>
+      <link>http://localhost:1313/blog/240118-drone/</link>
+      <pubDate>Thu, 18 Jan 2024 21:15:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/240118-drone/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;The first test flight of the new drone! It didn’t crash.&lt;/p&gt;
+        I bought a drone for photos of garden plans. Originally I thought a drone would only be useful for large gardens but I really think it’ll be an invaluable way of documenting planting plans.
+        <link>http://localhost:1313/blog/240118-drone/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
