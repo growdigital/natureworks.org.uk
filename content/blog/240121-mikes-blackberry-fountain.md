@@ -18,4 +18,6 @@ draft: false
 
 I was chatting with a forest garden friend of mine about why his neighbour is tying his Hazel poles together. He rolled with the idea, and said maybe you could do the same thing with (thornless!) Blackberry but with the addition of a central supporting cane, and then let the Blackberry canes cascade down, like a fountain. Gifted.
 
+I have named it **‘Mike’s Blackberry Fountain™’**.
+
 Also, he also mentioned this post from Deep Green on [How to Prune and Train Blackberries](https://deepgreenpermaculture.com/2021/07/31/how-to-prune-and-train-blackberries-and-their-hybrids/), using fan-trained techniques.
