@@ -3,7 +3,7 @@ title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 description: 
 tags: 
-- ForestGarden
+  - ForestGarden
 images: 
 imageAlt:
 imageCap:
