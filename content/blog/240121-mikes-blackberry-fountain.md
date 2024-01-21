@@ -1,7 +1,7 @@
 ---
 title: Mike’s Blackberry Fountain™
 date: 2024-01-21T20:15:04Z
-description: 
+description: A friend’s idea about training a Blackberry
 tags: 
 - ForestGarden
 - SoftFruit
