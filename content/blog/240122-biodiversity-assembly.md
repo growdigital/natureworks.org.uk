@@ -1,7 +1,7 @@
 ---
 title: Biodiversity Assembly
 date: 2024-01-22T11:51:26Z
-description: Climate Assemblies are quite well known, with examples in Scotland and Ireland. How about a Biodversity Assembly?
+description: Climate Assemblies are a thing, isn’t it time for a companion Biodversity Assembly? ?
 tags: 
   - ForestGarden
   - CommunityAssembly
