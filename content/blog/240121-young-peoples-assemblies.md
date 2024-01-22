@@ -1,5 +1,5 @@
 ---
-title: Young Peoples Assemblies
+title: Young People’s Assemblies
 date: 2024-01-21T21:47:00Z
 description: Reference links for Community Assemblies for young people, via Katie Reid
 tags: 
@@ -8,8 +8,11 @@ tags:
 - KNOCA
 - Reference
 images: 
+  - https://res.cloudinary.com/growdigital/image/upload/v1705924492/240122-childrens-parliament-climate-change-assembly.jpg
 imageAlt:
+  - Screenshot of Childrens Parliament investigation of Scotland's Climate Assembly
 imageCap:
+  - Scotland and Ireland have had Climate Assemblies for young people, so can Wales
 gallery: false
 draft: false
 ---
