@@ -16,11 +16,11 @@ siteLink: grwd.uk/syra
 
 The clients wanted to transform the 2 acre site on a fairly steep hillside into a wildlife forest garden. Clearance of Bramble and Bracken had already started, I sketched up the paths and possible tree locations in the garden in situ, using cotton twine and green bamboo from the clients’ existing garden.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1704909970/syra/track-back-house-169.jpg" alt="Cotton twine leading up woodland track" caption="Cotton twine & bamboo are the ultimate ecologically minded marking out tools" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1691764565/syra/matt-sketch-230811.jpg" alt="Pen sketch of paths in garden on printed out map" caption="Sketch indicating main footpaths" >}}
 
 I then called in Matt Broome from bike track and footpath specialists [West Wales Trials](www.westwalestrails.co.uk). He used a mini-digger to bench cut the footpaths.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1691764565/syra/matt-sketch-230811.jpg" alt="Pen sketch of paths in garden on printed out map" caption="Sketch indicating main footpaths" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1704909970/syra/track-back-house-169.jpg" alt="Cotton twine leading up woodland track" caption="Cotton twine & bamboo are the ultimate ecologically minded marking out tools" >}}
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1704909859/syra/231012-entrance-looking-back-169.jpg" alt="Newly revealed stones leading up woodland track" caption="Freshly cut footpath from main entrance" >}}
 
@@ -46,6 +46,4 @@ For longevity, and also to cut down on plastic pollution, I used spiral aluminiu
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1704805156/syra/2401109-metal-labels.jpg" alt="Two spiralled metal plant labels" caption="These plant labels will grow with the tree" >}}
 
-metal labels
-https://res.cloudinary.com/growdigital/image/upload/v1704805156/syra/2401109-metal-labels.jpg
-
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1704910106/syra/steps-from-lower-track.jpg" alt="Newly landscaped paths and steps on hillside" caption="Steps put into steeper sections" >}}
