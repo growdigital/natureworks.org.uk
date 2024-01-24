@@ -3,7 +3,7 @@ title: Syra
 date: 2024-01-10
 draft: false
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1706125638/syra/dji_fly_20240124_133002_26_1706103150097_photo_optimized.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1706125638/syra/240124-aerial.jpg
 imageAlt: 
 - Aerial view of newly landscaped hillside woodland garden in winter
 client: Older professional couple
