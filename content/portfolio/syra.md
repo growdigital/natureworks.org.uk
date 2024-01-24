@@ -3,9 +3,9 @@ title: Syra
 date: 2024-01-10
 draft: false
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1704910106/syra/steps-from-lower-track.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1706125638/syra/dji_fly_20240124_133002_26_1706103150097_photo_optimized.jpg
 imageAlt: 
-- Newly landscaped paths and steps on hillside
+- Aerial view of newly landscaped hillside woodland garden in winter
 client: Older professional couple
 summary: Two acre hillside woodland garden
 location: Carmarthenshire, Wales
