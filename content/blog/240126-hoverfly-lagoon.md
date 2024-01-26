@@ -24,7 +24,10 @@ One of their projects is [hoverfly lagoons](https://www.thebuzzclub.uk/hoverfly-
 
 However, plastic milk bottles are, obviously, **plastic**. And plastic is **bad**. But how to replace them with a cheap alternative? 
 
-A circle of stainless steel fine wire mesh, inserted into a superlarge ceramic mug. No drilling required. Mugs available from charity shops, mesh from hardware shops (or [Amazon](https://www.amazon.co.uk/s?k=fine+stainless+steel+mesh) if you must).
+A circle of stainless steel fine wire mesh, inserted into a superlarge ceramic or toughened glass mug. No drilling required. Mugs available from charity shops, mesh from hardware shops (or [Amazon](https://www.amazon.co.uk/s?k=fine+stainless+steel+mesh) if you must).
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1706302402/240126-wire-mesh.jpg" alt="Close-up of fine steel mesh" caption="Fine steel mesh, photo by tammcd on Pixabay" >}} 
 
+Other ideas that were discussed were **secondhand wooden dolls houses** to repurpose as habitat. 
+
+And my favourite (along the lines of John Little’s badly pruned trees) is a badly pruned/pollarded willow or dogwood, as a perch for birds for the feeding station.
