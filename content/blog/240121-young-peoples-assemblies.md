@@ -23,6 +23,8 @@ I went to KNOCA (knowledge network on climate assemblies) workshop [Unheard Voic
   * Final report <https://www.gov.scot/publications/scottish-government-response-scotlands-climate-assembly-recommendations-action/documents/>
   * Explanatory film <https://www.youtube.com/watch?v=Bd0IlvEzuVM>
   * Toolkit <https://climatechangemakers.childrensparliament.org.uk/>
+  * Children's report <https://www.childrensparliament.org.uk/wp-content/uploads/Childrens-Parliament_Climate_Assembly_2021.pdf>
+  * Impact report <https://www.childrensparliament.org.uk/wp-content/uploads/Climate_Changemakers_Childrens_Parliament_2022.pdf>
 * Ireland Children and Young People’s Assembly on Biodiversity Loss
   * Website <https://cyp-biodiversity.ie/>
   * Film <https://www.youtube.com/watch?v=gZAZnJ10vVY>
