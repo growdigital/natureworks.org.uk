@@ -14,6 +14,8 @@ siteLink: grwd.uk/syra
 
 ### Accessible hillside woodland garden
 
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1706125553/syra/240124-witchhazel-diane.jpg.jpg" alt="Close-up of paper brown Witchhazel petals" caption="Witchhazel 'Diane' is a gorgeous, relatively small cultivar (Hamamelis x intermedia). It flowers in late winter with a medicinal scent and it’s used as a herbal remedy" >}}
+
 The clients wanted to transform the 2 acre site on a fairly steep hillside into a wildlife forest garden. Clearance of Bramble and Bracken had already started, I sketched up the paths and possible tree locations in the garden in situ, using cotton twine and green bamboo from the clients’ existing garden.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1691764565/syra/matt-sketch-230811.jpg" alt="Pen sketch of paths in garden on printed out map" caption="Sketch indicating main footpaths" >}}
@@ -24,7 +26,7 @@ I then called in Matt Broome from bike track and footpath specialists [West Wale
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1704909859/syra/231012-entrance-looking-back-169.jpg" alt="Newly revealed stones leading up woodland track" caption="Freshly cut footpath from main entrance" >}}
 
-Matt and Marley were fantastic, really attuned to what was needed, and the freshly landscaped paths and steps have withstood a very wet winter. The aftermath of the bench cutting was very dramatic, as the topsoil was distributed over the existing ground cover. However, the spring growth will soon grow this layer of soil.
+Matt and Marley were attuned to what was needed, and the freshly landscaped paths and steps have withstood a very wet winter. The aftermath of the bench cutting was very dramatic, as the topsoil was distributed over the existing ground cover. However, the spring growth will soon grow this layer of soil.
 
 [The plants](https://grwd.cc/syra-plants) are a range of natives—[Dogwood](https://pfaf.org/user/Plant.aspx?LatinName=Cornus+sanguinea), [Privet](https://pfaf.org/user/Plant.aspx?LatinName=Ligustrum+vulgare) and [Alder Buckthorn](https://pfaf.org/user/Plant.aspx?LatinName=Frangula+alnus) for hedging, [Silver Birch](https://pfaf.org/user/Plant.aspx?LatinName=Betula+pendula) as the main stand of trees—and edible/medicinal ornamentals, including [English Walnut](https://pfaf.org/user/Plant.aspx?LatinName=Juglans+regia), [Aronia 'Nero'](https://pfaf.org/user/Plant.aspx?LatinName=Aronia+prunifolia), [Apple Serviceberry](https://pfaf.org/user/Plant.aspx?LatinName=Amelanchier+lamarckii), [Scarlet Hawthorn](https://pfaf.org/user/plant.aspx?LatinName=Crataegus+ellwangeriana) and [Witchhazel](https://www.rhs.org.uk/plants/99236/hamamelis-intermedia-diane-/details). The existing trees include [Hazel](https://pfaf.org/user/Plant.aspx?LatinName=Corylus+avellana), [Hawthorn](https://pfaf.org/user/Plant.aspx?LatinName=Crataegus+monogyna), [Blackthorn](https://pfaf.org/user/Plant.aspx?LatinName=Prunus+spinosa), [Beech](https://pfaf.org/user/Plant.aspx?LatinName=Fagus+sylvatica) and [Horse Chestnut](https://pfaf.org/user/plant.aspx?LatinName=Aesculus+hippocastanum).
 

@@ -2,26 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-02-01T11:20:54+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2024-02-01T11:20:54+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-01T11:20:54+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/newsletter/</loc>
+    <lastmod>2024-02-01T11:20:54+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-02-01T11:20:54+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240201-newsletter/</loc>
+    <lastmod>2024-02-01T11:20:54+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/greenwall/</loc>
+    <lastmod>2024-01-29T21:03:49+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240129-ivy-wall/</loc>
+    <lastmod>2024-01-29T21:03:49+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wildlifegarden/</loc>
+    <lastmod>2024-01-29T21:03:49+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240126-hoverfly-lagoon/</loc>
+    <lastmod>2024-01-26T20:43:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ideas/</loc>
+    <lastmod>2024-01-26T20:43:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/primary/</loc>
+    <lastmod>2024-01-26T20:43:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/primaryschool/</loc>
+    <lastmod>2024-01-26T20:43:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wildlifegardening/</loc>
+    <lastmod>2024-01-26T20:43:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/musings/</loc>
+    <lastmod>2024-01-24T21:00:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240124-political-ideology/</loc>
+    <lastmod>2024-01-24T21:00:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240122-biodiversity-assembly/</loc>
+    <lastmod>2024-01-22T11:51:26+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/biodiversityassembly/</loc>
+    <lastmod>2024-01-22T11:51:26+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/citizensassembly/</loc>
+    <lastmod>2024-01-22T11:51:26+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/climateassembly/</loc>
+    <lastmod>2024-01-22T11:51:26+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/communityassembly/</loc>
+    <lastmod>2024-01-22T11:51:26+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ceredigionnaturepartnership/</loc>
+    <lastmod>2024-01-21T23:24:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240121-katy-peat-state-nature/</loc>
+    <lastmod>2024-01-21T23:24:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/katypeat/</loc>
+    <lastmod>2024-01-21T23:24:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stateofnature/</loc>
+    <lastmod>2024-01-21T23:24:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/knoca/</loc>
+    <lastmod>2024-01-21T21:47:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reference/</loc>
+    <lastmod>2024-01-21T21:47:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240121-young-peoples-assemblies/</loc>
+    <lastmod>2024-01-21T21:47:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240121-mikes-blackberry-fountain/</loc>
+    <lastmod>2024-01-21T20:15:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/softfruit/</loc>
+    <lastmod>2024-01-21T20:15:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240121-same/</loc>
+    <lastmod>2024-01-21T11:52:19+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/drone/</loc>
     <lastmod>2024-01-18T21:15:39+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/240118-drone/</loc>
     <lastmod>2024-01-18T21:15:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2024-01-18T21:15:39+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/gardendesign/</loc>
     <lastmod>2024-01-18T21:15:39+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-01-18T21:15:39+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-01-18T21:15:39+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/communityassembly/</loc>
-    <lastmod>2024-01-18T13:48:48+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/deliberativedemocracy/</loc>
     <lastmod>2024-01-18T13:48:48+00:00</lastmod>
@@ -72,9 +153,6 @@
     <lastmod>2023-12-25T16:05:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wildlife/</loc>
-    <lastmod>2023-12-25T16:05:30+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wildlifegarden/</loc>
     <lastmod>2023-12-25T16:05:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/design/</loc>
@@ -338,9 +416,6 @@
     <loc>http://localhost:1313/tags/courses/</loc>
     <lastmod>2023-05-16T21:44:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/reference/</loc>
-    <lastmod>2023-05-16T21:44:51+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/resources/</loc>
     <lastmod>2023-05-16T21:44:51+01:00</lastmod>
   </url><url>
@@ -431,9 +506,6 @@
     <loc>http://localhost:1313/blog/230323-apple-pots/</loc>
     <lastmod>2023-03-23T22:54:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/primaryschool/</loc>
-    <lastmod>2023-03-23T22:54:18+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/230322-real-intersectional-garden/</loc>
     <lastmod>2023-03-22T21:37:06+00:00</lastmod>
   </url><url>
@@ -456,9 +528,6 @@
     <lastmod>2023-03-10T10:54:35+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230309-uk-safari/</loc>
-    <lastmod>2023-03-09T14:32:25+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wildlifegardening/</loc>
     <lastmod>2023-03-09T14:32:25+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/max/</loc>
@@ -627,9 +696,6 @@
     <lastmod>2023-01-19T21:30:04+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/balance/</loc>
-    <lastmod>2023-01-18T22:48:34+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/citizensassembly/</loc>
     <lastmod>2023-01-18T22:48:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/democracy/</loc>
@@ -1322,9 +1388,6 @@
     <loc>http://localhost:1313/blog/state-nature-report-2019/</loc>
     <lastmod>2019-11-10T19:09:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/stateofnature/</loc>
-    <lastmod>2019-11-10T19:09:23+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/inter-disciplinary-forest-garden/</loc>
     <lastmod>2019-11-09T10:47:22+00:00</lastmod>
   </url><url>
@@ -1945,8 +2008,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/welcome-to-forest-garden-wales-website/</loc>
     <lastmod>2017-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/footpath/</loc>
   </url><url>

@@ -5,6 +5,20 @@
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 01 Feb 2024 11:20:54 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newsletter</title>
+      <link>http://localhost:1313/categories/newsletter/</link>
+      <pubDate>Thu, 01 Feb 2024 11:20:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/newsletter/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/categories/newsletter/</link>
+      </description>
+    </item>
+    
   </channel>
 </rss>

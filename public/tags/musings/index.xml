@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musings on Nature Works</title>
+    <link>http://localhost:1313/tags/musings/</link>
+    <description>Recent content in Musings on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 24 Jan 2024 21:00:17 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/musings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The political vs the ideological garden</title>
+      <link>http://localhost:1313/blog/240124-political-ideology/</link>
+      <pubDate>Wed, 24 Jan 2024 21:00:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/240124-political-ideology/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;What does politics and ideology have to do with gardens?&lt;/p&gt;
+        politics with a lowercase ‘p’—as opposed to Party Politics—is everywhere. The shifting sands of power and network of relationships in every society.
+        <link>http://localhost:1313/blog/240124-political-ideology/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>It looks like the same work from the outside</title>
+      <link>http://localhost:1313/blog/240121-same/</link>
+      <pubDate>Sun, 21 Jan 2024 11:52:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/240121-same/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Busy building a website for the Hope Garden and thinking that although it looks like the same work as for any other ‘business’, the end goal is different&lt;/p&gt;
+        I am building a website for the Hope Garden project, “A Climate Assembly at the heart of a wildlife forest garden 💚”.
+        <link>http://localhost:1313/blog/240121-same/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
