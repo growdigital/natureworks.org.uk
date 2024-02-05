@@ -24,7 +24,7 @@ I create and landscape wildlife food [forest garden](#what-is-a-forest-garden) d
 
 ### Philosophy
 
-> A food forest garden can be an ornamental garden, a beautiful wildlife haven producing edible crops 
+> A forest garden can be an ornamental garden, a beautiful wildlife haven producing edible crops 
 
 Central to the design is **working with nature**, working with what is already on-site and figuring what plants will thrive in the specific conditions. I prefer to use locally sourced materials and avoid costly groundworks where possible.
 
