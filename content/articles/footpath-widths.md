@@ -15,7 +15,9 @@ gallery: false
 draft: false
 aliases: 
 - /path/
+- /paths/
 - /footpath/
+- /footpaths/
 ---
 
 * 0.6m — 1 adult only
