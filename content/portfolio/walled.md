@@ -41,7 +41,7 @@ The key to the garden is the use of paths, to define and access the different ar
 
 In November 2022, we marked up the garden with mown paths and tagged bamboo canes. It was quite the moment to see the garden take shape, particularly when viewed from the top of a wall!
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1667664067/walled/crop-circles-alien-landing.jpg" alt="Circular paths in walled garden visible from top of a wall" caption="The paths are regular around the edges and in the centre, more organic elsewhere" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1667664067/walled/crop-circles-alien-landing-169.jpg" alt="Circular paths in walled garden visible from top of a wall" caption="The paths are regular around the edges and in the centre, more organic elsewhere" >}}
 
 A great deal of work from all sides has gone into the project so far. At the beginning, my 11 year old helped me create a 3D fly-by using Minecraft. It was a fun and useful exercise to get a sense of the space and the changing light.
 
