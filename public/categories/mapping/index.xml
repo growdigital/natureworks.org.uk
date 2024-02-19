@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mapping on Nature Works</title>
+    <link>http://localhost:1313/categories/mapping/</link>
+    <description>Recent content in Mapping on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 13 Feb 2024 21:46:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/mapping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping</title>
+      <link>http://localhost:1313/blog/240213-mapping/</link>
+      <pubDate>Tue, 13 Feb 2024 21:46:59 +0000</pubDate>
+      <guid>http://localhost:1313/blog/240213-mapping/</guid>
+      <description>&lt;p&gt;I bought a &lt;a href=&#34;https://www.dji.com/uk/mini-2-se&#34;&gt;DJI Mini 2 SE&lt;/a&gt; drone to take photos of gardens, so that I can more easily create garden designs and planting plans.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://grwd.uk/tir/&#34;&gt;Tir&lt;/a&gt; Garden project is the drone’s first big outing, and I really noticed the distortion from the point-of-view and the lens, when compared to the satellite photo. I kind of expected this but it is marked.&lt;/p&gt;&#xA;&lt;p&gt;The way round it is to create an &lt;a href=&#34;https://en.wikipedia.org/wiki/Aerial_survey&#34;&gt;orthomosaic map&lt;/a&gt;: lots of photos stitched together. This droneblog post discusses &lt;a href=&#34;https://www.droneblog.com/dji-mini-2-mapping/&#34;&gt;Can the DJI Mini 2 Be Used for Mapping?&lt;/a&gt;. There is open source software to create such a map, called &lt;a href=&#34;https://www.opendronemap.org/webodm/&#34;&gt;WebODM&lt;/a&gt; and here are the &lt;a href=&#34;https://docs.opendronemap.org/installation/#linux&#34;&gt;Linux installation instructions&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To take the photos on a pre-planned route, there is Android/iOS software called &lt;a href=&#34;https://flylitchi.com/&#34;&gt;Litchi&lt;/a&gt;.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

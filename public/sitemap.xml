@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-02-13T21:46:59+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/drone/</loc>
+    <lastmod>2024-02-13T21:46:59+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2024-01-29T21:03:49+00:00</lastmod>
+    <lastmod>2024-02-13T21:46:59+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mapping/</loc>
+    <lastmod>2024-02-13T21:46:59+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/mapping/</loc>
+    <lastmod>2024-02-13T21:46:59+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240213-mapping/</loc>
+    <lastmod>2024-02-13T21:46:59+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-13T21:46:59+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plans/</loc>
+    <lastmod>2024-02-13T21:46:59+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-02-13T21:46:59+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/greenwall/</loc>
     <lastmod>2024-01-29T21:03:49+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/240129-ivy-wall/</loc>
-    <lastmod>2024-01-29T21:03:49+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-01-29T21:03:49+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-01-29T21:03:49+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wildlifegarden/</loc>
@@ -85,9 +103,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/240121-same/</loc>
     <lastmod>2024-01-21T11:52:19+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/drone/</loc>
-    <lastmod>2024-01-18T21:15:39+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/240118-drone/</loc>
     <lastmod>2024-01-18T21:15:39+00:00</lastmod>
@@ -1999,8 +2014,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/welcome-to-forest-garden-wales-website/</loc>
     <lastmod>2017-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/footpath/</loc>
   </url><url>

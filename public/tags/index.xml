@@ -6,17 +6,56 @@
     <description>Recent content in Tags on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 29 Jan 2024 21:03:49 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2024 21:46:59 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone</title>
+      <link>http://localhost:1313/tags/drone/</link>
+      <pubDate>Tue, 13 Feb 2024 21:46:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/drone/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/drone/</link>
+      </description>
+    </item>
+    
     <item>
       <title>ForestGarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Mon, 29 Jan 2024 21:03:49 +0000</pubDate>
+      <pubDate>Tue, 13 Feb 2024 21:46:59 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description>
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/forestgarden/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Mapping</title>
+      <link>http://localhost:1313/tags/mapping/</link>
+      <pubDate>Tue, 13 Feb 2024 21:46:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mapping/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/mapping/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Plans</title>
+      <link>http://localhost:1313/tags/plans/</link>
+      <pubDate>Tue, 13 Feb 2024 21:46:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/plans/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/plans/</link>
       </description>
     </item>
     
@@ -238,19 +277,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/softfruit/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>Drone</title>
-      <link>http://localhost:1313/tags/drone/</link>
-      <pubDate>Thu, 18 Jan 2024 21:15:39 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/drone/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/drone/</link>
       </description>
     </item>
     
