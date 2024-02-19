@@ -40,7 +40,7 @@ params:
       link: 'https://mas.to/@natureworks'
     - name: Newsletter
       icon: fa-newspaper-o
-      link: 'https://natureworks.beehiiv.com/'
+      link: 'https://buttondown.email/natureworks'
     - name: Ko-fi
       icon: fa-coffee
       link: 'https://ko-fi.com/natureworks'
