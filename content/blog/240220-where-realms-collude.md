@@ -7,7 +7,7 @@ categories:
 tags: 
   - ForestGarden
 images: 
-  - https://res.cloudinary.com/growdigital/image/upload/v1708427978/17084279599090.jpg
+  - https://res.cloudinary.com/growdigital/image/upload/v1708427978/240220-daffodil.jpg
 imageAlt:
   - Small daffodil in slate bed
 imageCap:
