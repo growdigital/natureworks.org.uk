@@ -34,7 +34,7 @@ I asked some questions on the [Forest Garden UK](https://www.facebook.com/groups
 Look up "Puddle Clay" and or "Dew Ponds" in Google Books and you will find quite a bit of literature about lining ponds with clay. The ones written for farmers will be better for your purposes, that those written for Civil Engineers which will mainly cover clay cores in dams.
 
 Basically, you need a good clay with very few, if any stones in it. Brick Earth or Lias Clays work well.
-In most cases you will need to add water to the clay and the "puddle it" which means working the water into it, so that you have a stiff but "plastic" type of clay. You should be able to roll it into sausage like rolls in your hands. If the roll breaks in your hands, it is too dry. If it sticks to your hands it is too wet.
+In most cases you will need to add water to the clay and then "puddle it" which means working the water into it, so that you have a stiff but "plastic" type of clay. You should be able to roll it into sausage like rolls in your hands. If the roll breaks in your hands, it is too dry. If it sticks to your hands it is too wet.
 
 It takes a bit of practise and trial and error to get the moisture content right. There needs to be a lot of work done to break the clay down into a fine enough condition to mix the water into it, to get a material suitable for waterproofing.
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>food on Nature Works</title>
-    <link>http://localhost:1313/tags/food/</link>
-    <description>Recent content in food on Nature Works</description>
+    <title>Agriculture on Nature Works</title>
+    <link>http://localhost:1313/tags/agriculture/</link>
+    <description>Recent content in Agriculture on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 24 Feb 2024 16:18:49 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Feb 2024 16:18:49 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/agriculture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to transform school meals? Beans is how!</title>
       <link>http://localhost:1313/blog/240224-school-meals-beans/</link>
@@ -17,19 +17,6 @@
         &lt;p class="p-summary"&gt;Very inspirational blog post about improving UK school meals. It is a lot of work but worth it&lt;/p&gt;
         Hodmedod’s grow UK grain and pulses, and they are doing a lot of what I consider essential work in food security &amp;amp; sovereignty, soil preservation, education and health.
         <link>http://localhost:1313/blog/240224-school-meals-beans/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>Robin Harford’s Eatweeds podcast</title>
-      <link>http://localhost:1313/blog/230111-eatweeds/</link>
-      <pubDate>Wed, 11 Jan 2023 22:54:22 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/230111-eatweeds/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;His podcast is rather good&lt;/p&gt;
-        I actually managed to get some gardening done after days of writing and filming.
-        <link>http://localhost:1313/blog/230111-eatweeds/</link>
       </description>
     </item>
     

@@ -6,7 +6,20 @@
     <description>Recent content in Categories on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 24 Feb 2024 16:12:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Feb 2024 16:18:49 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/categories/education/</link>
+      <pubDate>Sat, 24 Feb 2024 16:18:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/education/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/categories/education/</link>
+      </description>
+    </item>
+    
     <item>
       <title>Agriculture</title>
       <link>http://localhost:1313/categories/agriculture/</link>
