@@ -1,7 +1,6 @@
 ---
 title: Wildlife features
 date: 2019-06-26T09:37:02+01:00
-discussionId: wildlife-garden-checklist
 description: Checklist of invaluable features for your wildlife friendly garden
 tags: 
 - ForestGarden
@@ -10,11 +9,11 @@ tags:
 - Pond
 - Meadow
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1561538356/pond-7531DF77.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1686651005/undergrove/gabion-pillar-fence-230522.jpg
 imageAlt: 
-- Scruffy, muddy, wildlife pond
+- Gabion filled with stones and bee logs, topped with slate roof held in place by old bricks
 imageCap:
-- Wildlife pond at Wyndrush Meadows, from a hole dug for clay used in building work
+- Gabions are “units of wildlife habitat”
 draft: false
 aliases: 
 - /blog/wildlife-garden-checklist/
