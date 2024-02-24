@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agriculture on Nature Works</title>
+    <link>http://localhost:1313/categories/agriculture/</link>
+    <description>Recent content in Agriculture on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 24 Feb 2024 16:12:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Six Inches of Soil</title>
+      <link>http://localhost:1313/blog/240224-six-inches-soil/</link>
+      <pubDate>Sat, 24 Feb 2024 16:12:57 +0000</pubDate>
+      <guid>http://localhost:1313/blog/240224-six-inches-soil/</guid>
+      <description>&lt;p&gt;Just seen this film advertised, &lt;a href=&#34;https://www.sixinchesofsoil.org/&#34;&gt;Six Inches of Soil&lt;/a&gt; (I misttyped that as Oil, oh, the irony). I’ve asked my local cinema for a screening, looks very interesting.&lt;/p&gt;&#xA;&lt;div class=&#34;embed video-player mb-3&#34;&gt;&#xA;  &lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34;&#xA;    src=&#34;https://www.youtube.com/embed/OaJl0yQ7ufQ&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&#xA;  &lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;</description>
+    </item>
+  </channel>
+</rss>

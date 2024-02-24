@@ -8,7 +8,6 @@ tags:
 images: 
 imageAlt:
 imageCap:
-gallery: false
 draft: false
 ---
 

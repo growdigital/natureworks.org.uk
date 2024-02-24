@@ -6,7 +6,33 @@
     <description>Recent content in Tags on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 13 Feb 2024 21:46:59 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Feb 2024 16:12:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ForestGarden</title>
+      <link>http://localhost:1313/tags/forestgarden/</link>
+      <pubDate>Sat, 24 Feb 2024 16:12:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/forestgarden/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/forestgarden/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>Soil</title>
+      <link>http://localhost:1313/tags/soil/</link>
+      <pubDate>Sat, 24 Feb 2024 16:12:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/soil/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/soil/</link>
+      </description>
+    </item>
+    
     <item>
       <title>Drone</title>
       <link>http://localhost:1313/tags/drone/</link>
@@ -17,19 +43,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/drone/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>ForestGarden</title>
-      <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Tue, 13 Feb 2024 21:46:59 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/forestgarden/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/forestgarden/</link>
       </description>
     </item>
     

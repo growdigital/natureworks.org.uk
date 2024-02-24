@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soil on Nature Works</title>
+    <link>http://localhost:1313/tags/soil/</link>
+    <description>Recent content in Soil on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 24 Feb 2024 16:12:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/soil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Six Inches of Soil</title>
+      <link>http://localhost:1313/blog/240224-six-inches-soil/</link>
+      <pubDate>Sat, 24 Feb 2024 16:12:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/240224-six-inches-soil/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;New film about soil. Dig it.&lt;/p&gt;
+        Just seen this film advertised, Six Inches of Soil (I misttyped that as Oil, oh, the irony).
+        <link>http://localhost:1313/blog/240224-six-inches-soil/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
