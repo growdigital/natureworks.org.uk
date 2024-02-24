@@ -42,9 +42,11 @@ A list of features that benefit wildlife in any garden.
 20. **[Earwig hotels](https://www.thebuzzclub.uk/earwigo)**
 21. **Hedgehog highway**
 22. **Small mammal boxes**
-23. **Reptile refugium:** 50cm x 50cm black Onduline corrugated roofing, overlay on long grass
+23. **Reptile refugium:** 50cm x 50cm black Onduline corrugated roofing, overlay on long grass (Kate Bradbury book)
 24. **3 Cuts of Grass:** Keep patch of grass at 3 different lengths, mowing each one every 3 years. 
 25. **Bumblebee boxes**
+26. **Hibernaculum** 
+27. **Hedgehog box**
 
 ### Inspiration
 
