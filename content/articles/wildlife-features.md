@@ -48,6 +48,7 @@ A list of features that benefit wildlife in any garden.
 26. **Hibernaculum** 
 27. **Hedgehog box**
 28. **Ivy pole:** a telegraph pole planted securely in the ground, with UK native ivy planted around the base
+29. **Dead hedge**
 
 ### Inspiration
 
