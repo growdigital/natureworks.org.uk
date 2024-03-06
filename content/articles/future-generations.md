@@ -14,6 +14,9 @@ imageAlt:
 imageCap:
   - Look after your future generations, it’s the law
 draft: false
+aliases:
+- /future
+- /futuregenerations
 ---
 
 # Wellbeing of Future Generations Act
