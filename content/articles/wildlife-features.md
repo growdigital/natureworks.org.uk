@@ -50,6 +50,8 @@ A list of features that benefit wildlife in any garden.
 28. **Ivy pole:** a telegraph pole planted securely in the ground, with UK native ivy planted around the base
 29. **Dead hedge**
 30. **Ivy wall**
+31. **Stone bird-bath**
+32. **Humans:** no, seriously, human managed habitat [is the most diverse in the world](https://res.cloudinary.com/growdigital/image/upload/v1710705274/When-culture-supports-biodiversity-Kull-Kukk-Lotman-2003.pdf) (PDF↗) 
 
 ### Inspiration
 
