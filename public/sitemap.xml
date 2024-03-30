@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/240318-woodcrete/</loc>
-    <lastmod>2024-03-18T17:52:38+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2024-03-18T17:52:38+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-18T17:52:38+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-03-18T17:52:38+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/awaytogarden/</loc>
     <lastmod>2024-03-17T11:20:14+00:00</lastmod>
   </url><url>
@@ -36,6 +24,12 @@
     <lastmod>2024-03-17T11:20:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nativeplants/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-17T11:20:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/timjohnson/</loc>
@@ -72,6 +66,9 @@
     <lastmod>2024-02-24T16:18:49+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/food/</loc>
+    <lastmod>2024-02-24T16:18:49+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
     <lastmod>2024-02-24T16:18:49+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/240224-school-meals-beans/</loc>
