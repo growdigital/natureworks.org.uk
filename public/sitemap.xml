@@ -2,10 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/agriculture/</loc>
-    <lastmod>2024-02-24T16:18:49+00:00</lastmod>
+    <loc>http://localhost:1313/blog/240318-woodcrete/</loc>
+    <lastmod>2024-03-18T17:52:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2024-03-18T17:52:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-18T17:52:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-18T17:52:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/awaytogarden/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bioproductive/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240317-bioproductive-gardens/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ecologicallandscaping/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ecologicallandscaping/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/margaretroach/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nativeplants/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/timjohnson/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/biodiversity/</loc>
+    <lastmod>2024-03-06T13:24:57+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/job/</loc>
+    <lastmod>2024-03-06T13:24:57+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240306-job/</loc>
+    <lastmod>2024-03-06T13:24:57+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/news/</loc>
+    <lastmod>2024-03-06T13:24:57+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/future-generations/</loc>
+    <lastmod>2024-03-06T13:21:24+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/legislation/</loc>
+    <lastmod>2024-03-06T13:21:24+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/reference/</loc>
+    <lastmod>2024-03-06T13:21:24+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wales/</loc>
+    <lastmod>2024-03-06T13:21:24+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/agriculture/</loc>
     <lastmod>2024-02-24T16:18:49+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/education/</loc>
@@ -14,19 +74,10 @@
     <loc>http://localhost:1313/tags/food/</loc>
     <lastmod>2024-02-24T16:18:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2024-02-24T16:18:49+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/240224-school-meals-beans/</loc>
     <lastmod>2024-02-24T16:18:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-24T16:18:49+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/schoolmeals/</loc>
-    <lastmod>2024-02-24T16:18:49+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-02-24T16:18:49+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/agriculture/</loc>
@@ -300,9 +351,6 @@
     <lastmod>2023-09-23T21:13:22+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/book/</loc>
-    <lastmod>2023-09-22T21:14:53+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nativeplants/</loc>
     <lastmod>2023-09-22T21:14:53+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/230922-radical-horticulture-book/</loc>
@@ -667,9 +715,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/230206-tiktok-john/</loc>
     <lastmod>2023-02-06T21:33:58+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/biodiversity/</loc>
-    <lastmod>2023-02-05T22:13:55+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/invasive/</loc>
     <lastmod>2023-02-05T22:13:55+00:00</lastmod>
@@ -1326,9 +1371,6 @@
     <lastmod>2020-01-16T10:58:22+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/orchid/</loc>
-    <lastmod>2020-01-12T20:30:57+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wales/</loc>
     <lastmod>2020-01-12T20:30:57+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/wild-orchids-of-wales/</loc>
