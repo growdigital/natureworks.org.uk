@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/240401-obsidian/</loc>
+    <lastmod>2024-04-01T20:20:14+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/awaytogarden/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/biodiversityassistant/</loc>
     <lastmod>2024-03-17T11:20:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bioproductive/</loc>
@@ -20,6 +26,12 @@
     <loc>http://localhost:1313/categories/ecologicallandscaping/</loc>
     <lastmod>2024-03-17T11:20:14+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/job/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/localplacesfornature/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/margaretroach/</loc>
     <lastmod>2024-03-17T11:20:14+00:00</lastmod>
   </url><url>
@@ -33,6 +45,9 @@
     <lastmod>2024-03-17T11:20:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/timjohnson/</loc>
+    <lastmod>2024-03-17T11:20:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tools/</loc>
     <lastmod>2024-03-17T11:20:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/future-generations/</loc>
