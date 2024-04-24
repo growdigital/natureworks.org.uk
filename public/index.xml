@@ -6,7 +6,7 @@
     <description>Recent content on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 17 Mar 2024 11:20:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 20:20:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New job, new software</title>
       <link>http://localhost:1313/blog/240401-obsidian/</link>
@@ -4685,6 +4685,19 @@ Reasons for Biological Recording Reliable biological data Conservation - knowing
         Welcome to our new website, built by Grow Digital.
 Like a garden, there is always plenty to do and we will be rolling out our new design soon.
         <link>http://localhost:1313/blog/welcome-to-forest-garden-wales-website/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/untitled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/untitled/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/blog/untitled/</link>
       </description>
     </item>
     

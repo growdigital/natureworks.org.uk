@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LocalPlacesForNature on Nature Works</title>
+    <link>http://localhost:1313/tags/localplacesfornature/</link>
+    <description>Recent content in LocalPlacesForNature on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 01 Apr 2024 20:20:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/localplacesfornature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New job, new software</title>
+      <link>http://localhost:1313/blog/240401-obsidian/</link>
+      <pubDate>Mon, 01 Apr 2024 20:20:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/240401-obsidian/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;I’ve started a new part-time job as Biodiversity Assistant, and found some rather cool software in the process&lt;/p&gt;
+        I started a new part-time job a couple of weeks ago as a Biodiversitiy Assistant for Ceredigion Council, and it’s been pretty full on.
+        <link>http://localhost:1313/blog/240401-obsidian/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

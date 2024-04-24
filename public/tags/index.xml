@@ -6,7 +6,59 @@
     <description>Recent content in Tags on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 17 Mar 2024 11:20:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 20:20:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biodiversity</title>
+      <link>http://localhost:1313/tags/biodiversity/</link>
+      <pubDate>Mon, 01 Apr 2024 20:20:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/biodiversity/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/biodiversity/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>BiodiversityAssistant</title>
+      <link>http://localhost:1313/tags/biodiversityassistant/</link>
+      <pubDate>Mon, 01 Apr 2024 20:20:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/biodiversityassistant/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/biodiversityassistant/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>job</title>
+      <link>http://localhost:1313/tags/job/</link>
+      <pubDate>Mon, 01 Apr 2024 20:20:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/job/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/job/</link>
+      </description>
+    </item>
+    
+    <item>
+      <title>LocalPlacesForNature</title>
+      <link>http://localhost:1313/tags/localplacesfornature/</link>
+      <pubDate>Mon, 01 Apr 2024 20:20:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/localplacesfornature/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+        <link>http://localhost:1313/tags/localplacesfornature/</link>
+      </description>
+    </item>
+    
     <item>
       <title>AWayToGarden</title>
       <link>http://localhost:1313/tags/awaytogarden/</link>
@@ -1733,19 +1785,6 @@
         &lt;p class="p-summary"&gt;&lt;/p&gt;
         
         <link>http://localhost:1313/tags/nbnatlas/</link>
-      </description>
-    </item>
-    
-    <item>
-      <title>Biodiversity</title>
-      <link>http://localhost:1313/tags/biodiversity/</link>
-      <pubDate>Sun, 05 Feb 2023 22:13:55 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/biodiversity/</guid>
-      <description>
-        &lt;p class="p-summary"&gt;&lt;/p&gt;
-        
-        <link>http://localhost:1313/tags/biodiversity/</link>
       </description>
     </item>
     

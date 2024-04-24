@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Nature Works</title>
+    <link>http://localhost:1313/categories/tools/</link>
+    <description>Recent content in Tools on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 01 Apr 2024 20:20:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New job, new software</title>
+      <link>http://localhost:1313/blog/240401-obsidian/</link>
+      <pubDate>Mon, 01 Apr 2024 20:20:14 +0000</pubDate>
+      <guid>http://localhost:1313/blog/240401-obsidian/</guid>
+      <description>&lt;p&gt;I started a new part-time job a couple of weeks ago as a Biodiversitiy Assistant for Ceredigion Council, and it’s been pretty full on. There are very exciting wildlife and forest garden related potential projects and crossovers but more of those at a later date, when the dust has settled.&lt;/p&gt;&#xA;&lt;p&gt;What I have come across is some software called &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt;, a note taking tool which I’d heard of but never really explored (indeed, I am experimenting with it on this website).&lt;/p&gt;&#xA;&lt;p&gt;What is so immensely cool is that it is built around &lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt; plain text files. Markdown is a very readable and quick to learn markup language, just think plain text formatting like asterisks for bold, underlines for italics.&lt;/p&gt;&#xA;&lt;p&gt;Yet it also has a very nice interface, so that it’s quite a breeze to write &lt;strong&gt;formatted text&lt;/strong&gt; &lt;em&gt;without&lt;/em&gt; having to think about it too much. Combined with a static site generator like &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, I reckon it’s simple enough to use as an interface for writing content for most normal, non-techhie folk.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
