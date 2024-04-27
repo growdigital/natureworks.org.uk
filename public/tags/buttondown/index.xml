@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buttondown on Nature Works</title>
+    <link>http://localhost:1313/tags/buttondown/</link>
+    <description>Recent content in Buttondown on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 27 Apr 2024 21:36:50 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/buttondown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New job, new newsletter</title>
+      <link>http://localhost:1313/blog/240427-newsletter/</link>
+      <pubDate>Sat, 27 Apr 2024 21:36:50 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/240427-newsletter/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;I’ve started a new part-time job as Biodiversity Assistant, and found some rather cool software in the process&lt;/p&gt;
+        New job, new newsletter, this time Buttondown newsletter.
+        <link>http://localhost:1313/blog/240427-newsletter/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
