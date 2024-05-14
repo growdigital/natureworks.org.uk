@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pembrokeshire on Nature Works</title>
+    <link>http://localhost:1313/tags/pembrokeshire/</link>
+    <description>Recent content in Pembrokeshire on Nature Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 12 May 2024 20:17:03 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pembrokeshire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ty Rhos Trees nursery</title>
+      <link>http://localhost:1313/blog/240512-ty-rhos-trees/</link>
+      <pubDate>Sun, 12 May 2024 20:17:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/240512-ty-rhos-trees/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A quick trip to a lovely local nursery for just a couple of hedging plants soon expanded&lt;/p&gt;
+        Went to see Aisha at Ty Rhos Trees on Saturday. We supposed to be picking up a few privet hedging plants.
+        <link>http://localhost:1313/blog/240512-ty-rhos-trees/</link>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
