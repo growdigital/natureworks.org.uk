@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<!-- work details part start -->
+<section class="work-single section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <div class="work-single-image">
+          <!-- Work Single Image -->
+          <img class="img-fluid w-100" src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_736/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" alt="{{ (index .Params.imageAlt 0) }}">
+        </div>
+        <!-- work single Content -->
+        <div class="work-single-content">
+          {{ .Content }}
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <!-- sidebar -->
+        <aside class="work-single-sidebar bg-gray" data-aos="fade-up" data-aos-duration="500" data-aos-once="true">
+          <h5>Client</h5>
+          <h6>{{ .Params.Client }}</h6>
+          <h5>Date</h5>
+          <h6>{{ .PublishDate.Format "January 02, 2006" }}</h6>
+          <h5>Location</h5>
+          <h6>{{ .Params.location }}</h6>
+          <h5>Summary</h5>
+          <h6>{{ .Params.Summary }}</h6>
+          <h5>Website</h5>
+          <h6><a class="h6" href="https://{{.Params.SiteLink}}" target="_blank">{{.Params.SiteLink}}</a></h6>
+          <a href="mailto:hello@natureworks.org.uk" class="btn btn-primary mt-4">Email Jake</a>
+        </aside>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- work details part end -->
+
+{{ end }}

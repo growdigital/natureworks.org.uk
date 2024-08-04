@@ -1,0 +1,12 @@
+<!-- figure -->
+<figure>
+    <img class="img-fluid {{ if not (.Get "caption") }} {{ "mb-4" }} {{ end }}" src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/{{ substr (.Get "src") 52 }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
+    {{ if .Get "caption" }}
+    <figcaption>
+        <p class="mt-2">
+          <em><small>{{ .Get "caption" }}</small></em>
+        </p>
+    </figcaption>
+    {{ end }}
+</figure>
+<!-- figure -->

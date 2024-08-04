@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="https://schema.org/PresentationDigitalDocument">
+<head>
+  <title>CAD Intro 🌐</title>
+  <meta name="description" content="Introduction to CAD for Gardeners">
+  <meta charset="utf-8">
+ 
+  <!-- Schema.org markup for Google+ -->
+  <meta itemprop="name" content="CAD Intro">
+  <meta itemprop="description" content="Introduction to CAD for Gardeners">
+  <meta itemprop="image" content="https://res.cloudinary.com/growdigital/image/upload/w_800/v1574091015/design-pieces.jpg">
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@NatureWorksGdn">
+  <meta name="twitter:title" content="CAD Intro">
+  <meta name="twitter:description" content="Introduction to CAD for Gardeners">
+  <meta name="twitter:creator" content="@NatureWorksGdn">
+  <!-- Twitter summary card with large image must be at least 280x150px -->
+  <meta name="twitter:image:src" content="https://res.cloudinary.com/growdigital/image/upload/w_800/v1574091015/design-pieces.jpg">
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="CAD Intro">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://www.natureworks.org.uk/backyard/canopy/">
+  <meta property="og:image" content="https://res.cloudinary.com/growdigital/image/upload/w_800/v1574091015/design-pieces.jpg">
+  <meta property="og:image:width" content="800">
+  <meta property="og:image:height" content="450">
+  <meta property="og:description" content="Introduction to CAD for Gardeners">
+  <meta property="og:site_name" content="Nature Works">
+  <meta property="article:published_time" content="2022-12-08T12:47:37+01:00">
+  <meta property="article:modified_time" content="2022-12-08T12:47:37+01:00">
+  <meta property="article:section" content="Slideshow">
+  <meta property="article:tag" content="slideshow">
+  <meta property="fb:app_id" content="181804962563660"> 
+
+  <link rel="stylesheet" href="/assets/css/talks.css">
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+
+  <style>
+    .our-scale-factor {
+      position: absolute; 
+      right: 70px; 
+      text-align: center;
+      top: 260px; 
+    }
+
+    .right-img {
+      position: absolute;
+      right: 160px;
+      text-align: center;
+      top: 130px;
+    }
+  </style>
+
+</head>
+
+<body>
+<textarea id="source">
+
+class: center, middle
+
+# CAD for Gardeners
+
+_Beginners’ guide to computer-aided design_ 🌐🌳
+
+![Photo from above of newly planted curvey path garden, overlaid with CAD lines on path and edge](https://res.cloudinary.com/growdigital/image/upload/w_390/v1580908407/class/overlay-illustration.jpg)
+
+#### [natureworks.org.uk/slides/cad](https://www.natureworks.org.uk/slides/cad/)
+
+###### **Press `P` to see notes & credits**<br>**No.4: CAD** | Wildlife Forest Garden Design Classes | [natureworks.org.uk/classes](https://www.natureworks.org.uk/classes/)
+
+???
+
+* Work licensed under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/), embedded work may have other licenses.
+* Slideshow always available online
+* Press `p` for notes
+* Contact
+  * [Jake Rayson](https://natureworks.org.uk/about) 
+  * Email <hello@natureworks.org.uk> 
+  * Mastodon [@natureworks@mas.to](https://mas.to/@natureworks)
+
+---
+
+class: middle
+
+# Class outline
+
+1. Why CAD?
+2. Setup QCAD
+3. Shapes, entities & mods
+4. Examples
+5. Exercises
+6. Tips
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* Is CAD really for you?
+* Can you get by with paper plan?
+* There is a steep learning curve & you **will** need to practise
+* <abbr title="Read The Manual!">RTFM</abbr> if you can: [QCAD manual](https://qcad.org/en/qcad-book)
+* [Refunds available](https://help.gumroad.com/article/47-how-to-refund-a-customer) from [my Gumroad shop](https://natureworksgarden.gumroad.com/)!
+* Put the time in to survey accurately! An accurate survey gives an accurate plan! TODO
+
+
+---
+
+class: middle, center
+
+# 1. Why CAD?
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+---
+
+class: middle, center
+
+# 🌍🌐<br><br>This world needs<br>more gardeners<br><br>🌱🐛<br>
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* Nature & Climate Emergency
+* Gardens need to be a wildlife haven with crops
+* A forest garden!
+  * Edible - get a crop
+  * Wildlife - work with nature
+  * Ornamental - a pleasure to be in
+* Native plants where possible
+* Diversity of wildlife habitat
+* This stuff needs planning
+
+---
+
+# Forest garden
+
+![Path through mature forest garden](https://res.cloudinary.com/growdigital/image/upload/w_481/v1574024543/art-national-geographic-video.jpg)
+
+* “Work with nature to grow edible crops”
+* Emulate edge of woodland
+* Natural pest control & fertility
+* Create edible **ecosystem**
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* Perennial edibles
+* Photo still & [Martin Crawford](https://www.agroforestry.co.uk) quote from the short film [A forest garden with 500
+edible plants could lead to a sustainable future](https://www.youtube.com/watch?v=Q_m_0UPOzuI/) by
+[Thomas Regnault](https://www.thomasregnault.com) on National Geographic
+
+---
+
+# What is CAD?
+
+![CAD plan of circular beds](https://res.cloudinary.com/growdigital/image/upload/w_516,bo_1px_solid_gray/v1587997700/rhug/cad-patio-aswas.png)
+
+* [Computer Aided Design](https://en.wikipedia.org/wiki/Computer-aided_design)
+* Create precise line diagrams
+* Used in architecture & manufacturing
+* 2D CAD
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* **Line** based
+* 2 dimensional means **plan** view
+* Cf. drawing software eg [Inkscape](https://en.wikipedia.org/wiki/Inkscape), [Illustrator](https://en.wikipedia.org/wiki/Adobe_Illustrator)
+* Cf. painting software eg [Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop), [GIMP](https://en.wikipedia.org/wiki/Adobe_Photoshop), [Krita](https://en.wikipedia.org/wiki/Krita)
+
+---
+
+# Open Source CAD
+
+![Screenshot of CAD garden design including menus](https://res.cloudinary.com/growdigital/image/upload/w_520/v1570785794/greenroom-cad-screenshots-nophoto.png)
+
+* I use [QCAD](https://qcad.org/en/) 🌈🦄
+* [Free version](https://www.qcad.org/en/qcad-downloads-trial)
+* [Paid version](https://www.qcad.org/en/online-shop?cur=GBP) £41
+* [QCAD Book](https://qcad.org/en/qcad-book) £36
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* Free version more than adequate for CAD garden design
+* I bought QCAD to support developer
+* The code for [Open Source](https://en.wikipedia.org/wiki/Open-source_software) software is freely available
+* Free alternative to QCAD is [LibreCAD](https://librecad.org/)
+* Industry standard [Vectorworks](https://www.vectorworks.net/en-GB/landmark/buy) £1,230 _per year_!
+
+---
+
+# Paper?
+
+[![Outline plan drawn on 5mm grid paper](https://res.cloudinary.com/growdigital/image/upload/w_520/v1671115375/class/cad-intro-grid-paper.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1671115375/class/cad-intro-grid-paper.jpg)
+
+* Do you even need CAD?*
+* Paper if only 1 design
+* Get **scale** right
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* *&nbsp;“When you have a hammer, everything looks like a nail”
+* [5mm grid](https://www.amazon.co.uk/Graph-Paper-Squared-Cartesian-Jotter/dp/B08TCJPDXC/) _paper_
+* Whatever you use, get scale right
+* Click on image to get higher resolution
+
+---
+
+## CAD Pros 👍
+
+* 1:1 
+* Fast & accurate
+* Easy to edit
+* Portable
+
+## CAD Cons 👎
+
+* Technical
+* Ugly
+* Steep learning curve
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* cf drawing apps (eg [Inkscape](https://en.wikipedia.org/wiki/Inkscape), [Adobe Illustrator](https://en.wikipedia.org/wiki/Adobe_Illustrator))
+* cf paper - which is faster to sketch, less accurate, harder to edit and share 
+* Portable
+  * Save as [DXF format](https://en.wikipedia.org/wiki/AutoCAD_DXF), as text format
+  * Small file size, can use code repositories (eg GitHub) for storage and version control
+  * Easy to print out as PDF
+
+---
+
+# Reasons to plan
+
+![Photo from above of newly planted curvey path garden](https://res.cloudinary.com/growdigital/image/upload/w_380/v1580908407/clifftop/drone-crop.jpg)                 
+
+1. Spacing
+2. Position
+3. Quantity
+4. Communicate
+5. Document
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+---
+
+# 1. Tree spacing
+
+![Plan view of tree outlines with spacing guidance](https://res.cloudinary.com/growdigital/image/upload/w_520/v1573738171/tree-spacing-169.png)
+
+1. Forest gardens emulate **woodland edge**
+2. Enough light for crops below canopy
+3. About ¼ to ½ average canopy diameter
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* Tree spacing most critical, as trees hard to move
+* Same principle for other plants - not too crowded or sparse
+
+---
+
+# 2. Position
+
+![Outlines of paths in garden, blue house below & beyond](https://res.cloudinary.com/growdigital/image/upload/w_520/v1573738171/clifftop/220209-clifftop-wiggly-paths-169-saturated.jpg)
+
+
+* Plan enables **play**
+* Try different positions quickly
+* Overview of different conditions
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+---
+
+# 3. Quantity
+
+![CAD drawing showing area of a section, and ruler, side-by-side with plant spreadsheet](https://res.cloudinary.com/growdigital/image/upload/w_520/v1573738171/undergrove/cad-area-quantity-spreadsheet.jpg)
+
+* CAD brilliant at estimates
+* Distance tool for lengths
+* Easy to calculate areas
+* Use with spreadsheet
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* My plant spreadsheet template [bit.ly/template-plants](https://bit.ly/template-plants)
+
+---
+
+# 4. Communicate
+
+![Screenshot of online client notes](https://res.cloudinary.com/growdigital/image/upload/w_518,bo_1px_solid_gray/v1573738171/undergrove/client-notes-undergrove.jpg)
+
+* Share ideas with partners 
+* Landscaping & planting guide
+* Your future self
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* Easy to print out CAD as a PDF
+
+---
+
+# 5. Document
+
+![Montage of photos of new garden taken from above](https://res.cloudinary.com/growdigital/image/upload/w_520/v1656154985/hedgerows/hedgerows-from-east-beds-mar21-lines.jpg)
+
+* Where _are_ the plants?!
+* Seasonal differences
+* **Educate** partners
+* Management top priority
+
+<h6 class="breadcrumb"><span class="u-underline">CAD</span> — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+Spreadsheet another good tool for reference
+
+---
+
+class: middle, center
+
+# 2. Setup QCAD
+
+<h6 class="breadcrumb">CAD — <span class="u-underline">Setup</span> — Shapes — Examples — Exercises — Tips</h6>
+
+---
+
+# QCAD setup steps
+
+1. Install QCAD*
+2. Set units to metres†<br>
+  `Defaults for New Drawings > Drawing Unit`
+3. Remove trial plugins‡
+4. Set theme to Dark (restart app)§<br>
+ `Application Preferences > General > Theme`
+5. Set background to dark grey‖<br>
+  `Application Preferences > Graphics View > Colors > Background > Others > #3e3e3e`
+6. Hide Command Line & show Block widgets<br>
+  `View > Command Line`&nbsp;&nbsp;&nbsp;`View > Block List`
+7. Stack Layer, Property & Block widgets¶
+
+<h6 class="breadcrumb">CAD — <span class="u-underline">Setup</span> — Shapes — Examples — Exercises — Tips</h6>
+
+???
+
+* [Download QCAD Trial](https://qcad.org/en/download)
+* *&nbsp;[Install QCAD](https://qcad.org/en/documentation/installation), depends on Operating System
+* † You can set units on first start. I use metres: 
+  * Approximate enough for gardening
+  * All my [CAD blocks](https://github.com/growdigital?tab=repositories&q=cad+blocks&type=&language=&sort=) use metres 
+  * Millimetres normally used in architecture
+* ‡ Remove these plugins from the `plugins` folder:
+  * `libqcaddwg.so`
+  * `libqcadpdf.so`
+  * `libqcadpolygon.so`
+  * `libqcadproj.so`
+  * `libqcadproscripts.so`
+  * `libqcadshp.so`
+  * `libqcadspatialindexpro.so`
+  * `libqcadtrace.so`
+  * `libqcadtriangulation.so`
+* ‡ So that only these plugins remain:
+  * `libqcaddarkstyle.so`
+  * `libqcaddxf.so`
+  * `libqcadscripts.so`<br>![Screenshot of file list of 3 lonely plugins](https://res.cloudinary.com/growdigital/image/upload/v1672257002/class/plugins-remaining.png)
+* Location of plugins folder:
+  * MacOS: `Applications/QCAD.app/Contents/PlugIns` (Right-click on `QCAD.app` and click `Show Package Contents`)
+  * Windows: `[QCAD installation folder]\plugins`
+  * Linux: `[QCAD installation directory]/plugins` - I have mine in `~/opt/qcad-3…/plugins`
+* ‖ The reason to use a dark background is that the default CAD colours are more visible than on a white background.
+* ¶ I “lock” these to the right hand side of the screen, as they are the widgets I use the most and I like to have them visible all the time.
+
+<h6 class="breadcrumb">CAD — <span class="u-underline">Setup</span> — Shapes — Examples — Exercises — Tips</h6>
+
+---
+
+class: middle, center
+
+# 3. Shapes, entities & mods
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+???
+
+* Download the working CAD files from the [CAD for Gardeners project ](https://github.com/growdigital/cad-gardeners) or [direct from here](https://github.com/growdigital/cad-gardeners/archive/refs/heads/main.zip)
+
+---
+
+class: middle, center
+
+# But first…
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+---
+
+# Finding your way
+
+<img class="right-img" src="https://res.cloudinary.com/growdigital/image/upload/w_320/v1580908407/mouse-scroll.jpg" alt="Wooden mouse sculpture holding scroll in mouth">
+
+* Zoom in/out
+  * Mouse scroll
+  * `+` & `-` keys
+  * `View > Zoom > Auto Zoom`
+* Panning 
+  * Mouse scroll **click**
+  * `View > Zoom > Pan Zoom`
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+???
+
+* Apologies for the terrible pun
+* Netsuke of Mouse with Scroll in Mouth
+
+---
+
+# Don’t Panic!
+
+![Close-up of shiny red escape key on keyboard](https://res.cloudinary.com/growdigital/image/upload/w_480/v1672747890/shiny-red-esc-key.jpg)
+
+* Hit `Escape` to return to arrow tool
+* `View > Zoom > Auto Zoom` 
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+???
+
+* Photo by Wander Boessenkool <https://commons.wikimedia.org/wiki/File:Shiny_red_Esc_(7160723193).jpg>
+
+---
+
+class: middle
+
+# 3. Shapes, entities & mods
+
+* **4** shapes
+* **3** entities
+* **4** mods
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+???
+
+* Download files from [https://github.com/growdigital/cad-gardeners](github.com/growdigital/cad-gardeners)
+
+---
+
+# **4** shapes
+
+![CAD shapes screenshot: rectangle, line & circle](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672749716/class/cad-rectangle-line-circle.png)
+
+1. Rectangle
+2. Line tool
+3. Circles for trees
+4. NURBS for curves!
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+???
+
+* <a href="https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline" title="Non-uniform rational B-spline">NURBS</a> tool for creating curves!
+* See [Survey Class](https://natureworks.org.uk/classes/) on how to measure up & survey your site.
+
+---
+
+# Snap!
+
+![QCAD snap menu](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672749716/class/qcad-snap-menu.png)
+
+1. Snap Auto `SA`
+2. Snap Free `SF`
+3. Snap on Entity `ST` 
+4. Snap to End `SE`
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+---
+
+# **3** entities
+
+![CAD entities screenshot: block, polyline & text](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672751964/class/cad-block-polyline-text.png)
+
+1. Block
+2. Polyline
+3. Text
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+???
+
+* Block is a symbol that can be re-used & edited just once
+  * Useful for creating shape, **then** applying angle
+  * Also, where there are many instances of an element
+* Polyline is a *connected* line, can calculate area. Use command `Draw > Polyline > Polyline from Selection`, shortcut `OC`
+  * Useful for grouping lines together
+  * Also gives you **area** (can also use measurement tools)
+* NURBS give you curved lines, I use `Spline (Control Points)`. Stands for Non-Uniform Rational B-Splines.
+
+---
+
+# Layers!
+
+![Screenshot of Jake's Delicious CAD template on GitHub page](https://res.cloudinary.com/growdigital/image/upload/w_430/v1673340128/class/delicious-cad-template.png)
+
+* Organise different elements
+* Shape takes layer colour
+* My delicious [template](https://github.com/growdigital/template)
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+???
+
+* QCAD templates stored in `[QCAD folder]/libraries/templates/`
+* GitHub is a **code repository**
+* An online place to store and share text-based files and small images
+* Also for keeping track of old versions
+
+---
+
+# **4** mods
+
+![CAD modifications screenshot: offset, mirror, divide & rotate](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672751964/class/cad-offset-mirror-divide-rotate.png)
+
+1. Offset
+2. Mirror
+3. Divide
+4. Rotate
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+???
+
+* Mods is short for modifications!
+* I’m using a real world example, creating a curved [gabion](https://en.wikipedia.org/wiki/Gabion) wall for my [primary school wildlife garden project](https://grwd.uk/primary).
+* Offset
+  * Example with path
+  * Example of curved gabion wall
+
+---
+
+# Blocks!
+
+![Screenshot of forest garden blocks CAD file](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672751964/class/blocks-forest-garden-cad.png)
+
+* [Forest garden plants](https://github.com/growdigital/blocks-forestgarden)
+* [Native wild plants](https://github.com/growdigital/blocks-gardenwild)
+* [Garden furniture](https://github.com/growdigital/blocks-furniture)
+
+<h6 class="breadcrumb">CAD — Setup — <span class="u-underline">Shapes</span> — Examples — Exercises — Tips</h6>
+
+---
+
+class: middle, center
+
+# 4. Examples
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+---
+
+# Example walkthroughs🚶
+
+![CAD paths](https://res.cloudinary.com/growdigital/image/upload/w_480,h_270/v1673022407/hedgerows/hedgerows-paths.png)
+
+1. Average garden 
+2. Satellite 🛰
+3. Garden acre
+4. Garden town
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+---
+
+# 1. Average garden
+
+[![CAD drawing of 1 acre next to average sized garden](https://res.cloudinary.com/growdigital/image/upload/w_480,h_270/v1672751964/class/average-acre-cad.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1672751964/class/average-acre-cad.jpg)
+
+* UK 188m²
+* London 140m²
+* cf. 1 acre 4000m²
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* ONS article [One in eight British households has no garden](https://www.ons.gov.uk/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14)
+
+---
+
+# 2. Satellite 🛰
+
+![Screenshot 3D satellite window](https://res.cloudinary.com/growdigital/image/upload/w_480,h_270/v1591459919/greenroom-satellite-3d-google-south-west-169.jpg)
+
+1. Screenshot
+2. Metres per pixel
+3. Scale in QCAD
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+Screengrab **for personal use only**
+
+1. Screenshot: maximum resolution **with scale**, save as JPEG
+2. Calculate metres per pixel
+3. Same as your image scale factor
+4. Import: create new CAD file, save image in same folder, import image
+5. Resize: image automatically scaled at 1 pixel per metre. Select image, open `Property Editor`, enter image scale factor
+
+Instructions online: [Forest garden CAD photo](https://www.forestgarden.wales/blog/forest-garden-cad-photo/)
+
+OS maps onscreen from [groundstability.com](https://groundstability.com/public/web/log-order)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+---
+
+# Satellite: <span class="u-smaller">1. Screenshot</span>
+
+![Screenshot 2D satellite window, including browser chrome](https://res.cloudinary.com/growdigital/image/upload/w_480,h_270/v1573757850/course-screenshot-satellite-photo.jpg)
+
+* Highest resolution possible
+* Be sure to include scale, in metres
+* Save as good quality JPEG
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* Resolution varies between vendors
+* Vendors
+  * [Google Maps](https://www.google.com/maps)
+  * [Bing Maps](https://www.bing.com/maps)
+  * If you have a mac, [Apple Maps](https://en.wikipedia.org/wiki/Apple_Maps)
+
+---
+
+# Satellite: <span class="u-smaller">2. Metres per pixel</span>
+
+1. Measure pixel length of metres scale
+2. **_Metres per pixel_**&nbsp;&nbsp;`5m ÷ 106px = 0.047169811`
+4. Image scale factor = metres per pixel
+
+![Closeup of scale in metres on satellite screenshot](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573759452/course-satellite-scale.jpg)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* Use Photoshop, Open Source [GIMP](https://www.gimp.org) or [alternative](https://alternativeto.net/software/gimp/)
+* [QCAD](https://qcad.org/en/) imports at 1 metre per pixel
+
+---
+
+# Satellite: <span class="u-smaller">3. Scale in QCAD</span>
+
+1. `File → Import` , `Select → Select All` 👈
+3. `View → Property Editor`
+4. `Width & Height Factor:` _image scale factor_
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em> is<br>metres per pixel<br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Import image](https://res.cloudinary.com/growdigital/image/upload/w_580/v1573817365/scale-image-01-import.png)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* QCAD document same folder as image
+* File → Import
+
+---
+
+# Satellite: <span class="u-smaller">3. Scale in QCAD</span>
+
+1. `File → Import` , `Select → Select All` 👈
+3. `View → Property Editor`
+4. `Width & Height Factor:` _image scale factor_
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em> is<br>metres per pixel<br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Select All](https://res.cloudinary.com/growdigital/image/upload/w_580/v1573817366/scale-image-02-selectall.png)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* Select → Select All
+
+---
+
+# Satellite: <span class="u-smaller">3. Scale in QCAD</span>
+
+1. `File → Import` , `Select → Select All`
+3. `View → Property Editor` 👈
+4. `Width & Height Factor:` _image scale factor_
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em> is<br>metres per pixel<br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Property Editor](https://res.cloudinary.com/growdigital/image/upload/w_580/v1573817366/scale-image-03-propertyeditor.png)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* View → Property Editor
+
+---
+
+# Satellite: <span class="u-smaller">3. Scale in QCAD</span>
+
+1. `File → Import` , `Select → Select All`
+3. `View → Property Editor` 👈
+4. `Width & Height Factor:` _image scale factor_
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em> is<br>metres per pixel<br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Property Editor](https://res.cloudinary.com/growdigital/image/upload/w_580/v1573817366/scale-image-04-propertyeditor.png)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* View → Property Editor
+
+---
+
+# Satellite: <span class="u-smaller">3. Scale in QCAD</span>
+
+1. `File → Import` , `Select → Select All`
+3. `View → Property Editor`
+4. `Width & Height Factor:` _image scale factor_ 👈
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em> is<br>metres per pixel<br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Property Editor Width Factor](https://res.cloudinary.com/growdigital/image/upload/w_580/v1573817366/scale-image-05-widthfactor.png)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* Width & Height Factor
+
+---
+
+# Satellite: <span class="u-smaller">3. Scale in QCAD</span>
+
+1. `File → Import` , `Select → Select All`
+3. `View → Property Editor`
+4. `Width & Height Factor:` _image scale factor_ 👈
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em> is<br>metres per pixel<br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Property Editor Height Factor](https://res.cloudinary.com/growdigital/image/upload/w_580/v1573817366/scale-image-06-heightfactor.png)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* Width & Height Factor
+
+---
+
+# Satellite: <span class="u-smaller">3. Scale in QCAD</span>
+
+1. `File → Import` , `Select → Select All`
+3. `View → Property Editor`
+4. `Width & Height Factor:` _image scale factor_ 👈
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em> is<br>metres per pixel<br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing scaled image](https://res.cloudinary.com/growdigital/image/upload/w_580/v1573817366/scale-image-07-complete.png)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* Width & Height Factor
+
+---
+
+# 3. Garden acre
+
+![Satellite photograph of houses & fields](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672751964/class/acre-google-satellite.jpg)
+
+1. Satellite better for acres
+2. Update with measurements
+3. [Old maps](https://maps.nls.uk/) & [OS maps](https://www.bing.com/maps?osid=99c90955-4484-4d18-bc8f-114f37a9a37f&cp=52.057029%7E-4.469182&lvl=16.0&style=s&v=2&sV=2&form=S00027)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+### Add a template directory
+
+1. Download my delicious template [github.com/growdigital/template](https://github.com/growdigital/template)
+2. Unzip the file and put the folder somewhere safe eg `Documents`
+3. In QCAD, `Edit > Application Preferences > File > Templates`
+4. Add folder
+5. Restart QCAD
+6. `File > New from Template`
+7. Choose `template` folder, create new file
+
+Instructions: [bit.ly/add-qcad-template](https://bit.ly/add-qcad-template)
+
+---
+
+* Elements to create
+  1. Template
+  2. Satellite  
+  3. Boundary
+  4. Paths
+  5. Trees (forest garden block)
+  6. Hedges
+* Reference
+  * [bing.com/maps](https://bing.com/maps) Ordnance Survey & nice photos
+  * [google.co.uk/maps](https://google.co.uk/maps) higher resolution?
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+---
+
+# 4. Garden town
+
+![Satellite photograph of east-west facing street](https://res.cloudinary.com/growdigital/image/upload/w_430/v1672751964/class/garden-google-satellite.jpg)
+
+1. Satellite rough guide
+2. Plan from _measurements_
+3. General info from maps
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — <span class="u-underline">Examples</span> — Exercises — Tips</h6>
+
+???
+
+* Elements to create
+  1. Template
+  2. Satellite  
+  3. Boundary
+  4. Paths
+  5. Plants (forest garden block)
+  6. Hedges
+* See Survey class
+
+---
+
+class: middle, center
+
+# 5. Exercises
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — Examples — <span class="u-underline">Exercises</span> — Tips</h6>
+
+---
+
+class: middle
+
+# CAD excercises
+
+1. Install & setup QCAD!
+2. Draw shapes
+3. Draw circles
+4. Modifications
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — Examples — <span class="u-underline">Exercises</span> — Tips</h6>
+
+---
+
+class: middle, center
+
+# 6. CAD tips
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — Examples — Exercises — <span class="u-underline">Tips</span></h6>
+
+---
+
+# Class resources
+
+1. [Download free version](https://www.qcad.org/en/qcad-downloads-trial) of QCAD
+2. [CAD files](https://github.com/growdigital/cad-gardeners) for class
+3. [Garden Wild Edible](https://t.me/WildEdible) public [Telegram](https://telegram.org) group
+4. [QCAD forums](https://www.qcad.org/rsforum/index.php?sid=50158f66608a5367aaf3cfb039fd6fc7)
+5. [CAD Template file](https://github.com/growdigital/template)
+6. [Plant spreadsheet template](https://bit.ly/template-plants)
+6. [Native plant spreadsheet](https://bit.ly/garden-wild-spreadsheet)
+7. [Forest garden spreadsheet](https://bit.ly/forest-garden-spreadsheet)
+6. CAD blocks
+  * [Forest garden plants](https://github.com/growdigital/blocks-forestgarden)
+  * [Native wild plants](https://github.com/growdigital/blocks-gardenwild)
+  * [Garden furniture](https://github.com/growdigital/blocks-furniture)
+
+<h6 class="breadcrumb">CAD — Setup — Shapes — Examples — Exercises — Tips</h6>
+
+---
+
+class: middle, center
+
+# The End
+
+![Photo from above of newly planted curvey path garden, overlaid with CAD lines on path and edge](https://res.cloudinary.com/growdigital/image/upload/w_420/v1580908407/class/overlay-illustration.jpg)
+
+<hello@natureworks.org.uk>
+
+[natureworks.org.uk/newsletter](https://www.natureworks.org.uk/newsletter)
+
+</textarea>
+<script src="/assets/js/remark.js"></script>
+<script>
+  var slideshow = remark.create({ratio: '16:9'});
+</script>
+</body>
+
+</html>

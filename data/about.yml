@@ -1,0 +1,54 @@
+#########################3 history ############################
+history:
+  enable : true
+  image: "https://res.cloudinary.com/growdigital/image/upload/w_460/v1631868643/blackthorn-7478578144-portrait.jpg"
+  subtitle : "History"
+  title : "Sustainable gardens<br>in a Climate Emergency"
+  content : "My name is Jake Rayson and I’m a wildlife and food forest garden designer.<br><br>My interest in forest gardens came through a desire to engage with the Ecological and Climate Emergency, and I read Martin Crawford’s ‘Creating a Forest Garden’ in 2012. From a small terraced house in Kent, we moved to a Welsh hillside farm in 2015 where we have 3 acres of forest garden."
+
+################################ Team ###########################
+team:
+  enable : true
+  subtitle : "Multiskilled"
+  title : "Meet the team"
+  team_member:
+    # team member loop
+    - name : "Jake Rayson"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_280/v1631867572/jake-designer.jpg"
+      image_bg : "https://res.cloudinary.com/growdigital/image/upload/c_crop,h_600,w_600,q_40/v1544796504/cornus-41229080905.jpg"
+      designation : "Garden designer"
+
+    # team member loop
+    - name : "Jake Rayson"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_280/v1552470457/scythe-square-face.jpg"
+      image_bg : "https://res.cloudinary.com/growdigital/image/upload/c_crop,h_600,w_600,q_40/v1544127824/cornus-flower-41826722782.jpg"
+      designation : "Forest gardener"
+
+    # team member loop
+    - name : "Jake Rayson"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_280/v1620071435/jake-muddy-face.jpg"
+      image_bg : "https://res.cloudinary.com/growdigital/image/upload/c_crop,h_600,w_600,q_40/v1606208119/cornus-windbreak-201122.jpg"
+      designation : "Landscaper"
+
+############################### philosophy ###########################
+philosophy:
+  enable : true
+  subtitle : "Philosophy"
+  title : "Work with nature"
+  image : "https://res.cloudinary.com/growdigital/image/upload/w_540/v1631868879/comfrey-3C1CD837-square.jpg"
+  content : "<p>Working with nature to grow edible crops is at the very heart of my philosophy. How we live needs to be sustainable, and an integral part of that is our gardens and our agriculture.</p><p>I see my role as promoting these ideas, and bringing together the ornamental, wildlife and edible crop aspects of gardening.</p>"
+
+############################ Clients ################################
+clients:
+  enable : false
+  subtitle : "Our Clients"
+  title : "They Trust Us"
+  clients_logo:
+    - images/clients/client-logo-01.jpg
+    - images/clients/client-logo-02.jpg
+    - images/clients/client-logo-03.jpg
+    - images/clients/client-logo-04.jpg
+    - images/clients/client-logo-05.jpg
+    - images/clients/client-logo-06.jpg
+    - images/clients/client-logo-07.jpg
+    - images/clients/client-logo-08.jpg

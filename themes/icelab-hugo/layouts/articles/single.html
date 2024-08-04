@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        {{ if .Params.images }}
+        <figure>
+          <img class="img-fluid w-100" src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_736/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" alt="{{ (index .Params.imageAlt 0) }}">
+          {{ if .Params.imageCap }}
+          <figcaption>
+            <p class="mt-2">
+              <em><small>{{ (index .Params.imageCap 0) }}</small></em>
+            </p>
+          </figcaption>
+          {{ end }}
+        </figure>
+        {{ end }}
+        <h3 class="h5 mb-3">{{ index .Params.description }}</h3>
+        {{ .Content }}
+      </div>
+      <div class="col-lg-4">
+        <!-- Sidebar -->
+        <aside class="work-single-sidebar bg-gray">
+          <h5>Links</h5>
+          <ul>
+            <li><a href="/articles/">Articles</a></li>
+            <li><a href="/blog/">Blog posts</a></li>
+            <li><a href="https://bit.ly/forest-garden-spreadsheet" target="_blank">Forest Garden Spreadsheet</a></li>
+            <li><a href="https://bit.ly/garden-wild-spreadsheet" target="_blank">Wild flower spreadsheet</a></li>
+            <li><a href="https://bit.ly/apple-spreadsheet" target="_blank">Apple varieties spreadsheet</a></li>
+          </ul>
+          <a href="mailto:hello@natureworks.org.uk" class="btn btn-primary">Email Jake</a>
+        </aside>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

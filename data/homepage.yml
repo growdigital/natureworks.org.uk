@@ -1,0 +1,113 @@
+######################## Banner ############################
+banner:
+  enable : true
+  title : "Wildlife&nbsp;&amp;&nbsp;forest garden design"
+  content : "Your garden can be beautiful, edible <i>and</i> wildlife&nbsp;friendly.<br><br>Provide habitat diversity, grow edible perennials and create wonder with wild flowers. Garden design by Jake Rayson.<br><br>Support my <a href='https://ko-fi.com/natureworks/goal?g=37'>wood meadow fundraiser</a>! 💚"
+  bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1200,q_40/v1688476097/sweet-chestnut-flower-230702.jpg"
+  button:
+    enable : true
+    label : "Portfolio"
+    link : "portfolio"
+
+################### Service #################################
+service:
+  enable : true
+  title : "Create beautifully edible ecosystems"
+  subtitle : "Forest gardening"
+  bg_image : "images/shape-big.png"
+  service_item:
+    # Service item loop
+    - name : "Design"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_60,w_450/v1694125564/clifftop/path-back-230907.jpg"
+      iconAlt : ""
+      content : "By working with nature, a forest garden is sustainable &amp; low-maintenance. It emulates a woodland edge, with layers of edible perennials and a living ground cover."
+      button:
+        enable : true
+        label : "Design"
+        link : design
+
+    # Service item loop
+    - name : "Edible perennials"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_60,w_450/v1631113586/elephant-garlic-flower-169.jpg"
+      iconAlt : "Beautiful edible allium Elephant Garlic flower"
+      content : "Trees provide. Plant fruit, nut and nitrogen fixing trees, underplant with edible shrubs, perennial vegetables, herbs and wild flowers. See my store for classes on creating a forest garden."
+      button:
+        enable : true
+        label : "Store"
+        link : https://store.natureworks.org.uk/
+
+    # Service item loop
+    - name : "Ornamental wild flowers"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_60,w_450/v1652344759/sweet-woodruff-220512.jpg"
+      iconAlt : "White Sweet Woodruff flowers"
+      content : "Be a force for good by increasing the diversity of native plants species and habitat. Include structural complexity in garden infrastructure and use ornamental wild flowers."
+      button:
+        enable : true
+        label : "Native plants class"
+        link : https://store.natureworks.org.uk/l/native
+
+############################# portfolio ############################
+portfolio:
+  enable : true
+  subtitle : "Portfolio"
+  title : "Gardens designed"
+
+# portfolio item comes from `content/design/` folder
+
+############################ testimonial ###########################
+testimonial:
+  enable : true
+  subtitle : "Testimonials"
+  title : "Quotes<br> From Clients"
+  testimonial_item:
+    # Testimonial item loop
+    - name: "YC"
+      designation: "Small London garden"
+      image: "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1688922322/yc.jpg"
+      content: "Jake listened, worked quickly and came up with a design that is beautiful, practical and cost effective. Great communication and full engagement throughout, not to mention a wellspring of knowledge in forest gardening. Couldn't recommend more."
+
+    # Testimonial item loop
+    - name: "David & Laura"
+      designation: "Small clifftop garden"
+      image: "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1651752658/david.jpg"
+      content: "We are truly overwhelmed by our awesome garden, it is absolutely perfect and exactly what we had wished for. From an overgrown building site to a heavenly retreat and wildlife haven. Jake you are amazing, we are so lucky to have found you, thank you so much."
+
+    # Testimonial item loop
+    - name : "Jason, aged 14"
+      designation : "Laura’s nephew"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1682407166/rugby-ball.jpg"
+      content : "It’s magical!"
+
+    # Testimonial item loop
+    - name : "Kirsty Hayhoe"
+      designation : "English village garden"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630788090/kirsty-hayhoe-portrait.jpg"
+      content : "I asked Jake for a forest garden plan for my medium sized back garden. The plans, drawings and lists were comprehensive and meticulous. He made it easy to envision a beautiful, functioning ecosystem."
+
+    # Testimonial item loop
+    - name : "Daniel Richards"
+      designation : "One acre Welsh forest garden"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1631175141/alsatian-hat.jpg"
+      content : "Jake worked through our requirements and helped develop a comprehensive vision of what we wanted. The plans were meticulous and Jake was patient, knowledgeable and client led throughout. It was a pleasure working with him."
+
+    # Testimonial item loop
+    - name : "Glen Peters"
+      designation : "CEO, Western Solar Ltd"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630962703/glen-peters.jpg"
+      content : "Jake took on a complex job to design and implement the gardens for 10 affordable homes at Berllan Aur, our Zero Carbon development. He produced an imaginative, low maintenance scheme including native species and sourced them cost effectively."
+
+    # Testimonial item loop
+    - name : "Kristina & Dan"
+      designation : "0.6 hectare Belgian country garden"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630962703/dan-buzzo.jpg"
+      content : "Jake did a fantastic job, understanding the space, our needs, and also the real on site challenges. With interviews and discussion, video and remote surveying he produced a fantastic easy to follow plan, complete with planting guides and ideas for cropping edibles."
+
+################# call to action ##################################3
+call_to_action:
+  enable : true
+  title : "FREE Forest Garden Primer"
+  content : "Interested in creating a forest garden? Then get your FREE copy of my Forest&nbsp;Garden&nbsp;Primer class, a 20 minute introduction full of information.<br>What is a forest garden? Why are they so good in a Climate Emergency? How do you go about creating one?"
+  button:
+    enable : true
+    label : "Grab your copy!"
+    link : "https://natureworksgarden.gumroad.com/l/primer/FreePrimer"

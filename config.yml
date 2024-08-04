@@ -1,0 +1,75 @@
+baseURL: 'https://www.natureworks.org.uk'
+languageCode: en-gb
+title: Nature Works
+theme: icelab-hugo
+summaryLength: '10'
+outputs:
+  home:
+    - HTML
+    - RSS
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  plugins:
+    js:
+      - URL: plugins/plugins.js
+  logo: https://res.cloudinary.com/growdigital/image/upload/v1630698563/natureworks/logo.png
+  home: Home
+  description: Wildlife & Forest Garden Design
+  author: Jake Rayson
+  cloudinary: 'https://res.cloudinary.com/growdigital/image/upload/'
+  images:
+  - https://res.cloudinary.com/growdigital/image/upload/w_1240,q_60/v1544219005/valeriana-41717565655-169.jpg
+  imageAlt:
+  - Hoverfly on small pinkish flowers
+  footer_content: 'Email: hello@natureworks.org.uk Phone: 07802 535 321'
+  map:
+    enable: false
+    gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ
+    map_latitude: '51.5223477'
+    map_longitude: '-0.1622023'
+    map_marker: images/marker.png
+  social:
+    - name: YouTube
+      icon: fa-youtube
+      link: 'https://www.youtube.com/c/natureworksgarden'
+    - name: Mastodon
+      icon: fa-brands fa-mastodon
+      link: 'https://mas.to/@natureworks'
+    - name: Newsletter
+      icon: fa-newspaper-o
+      link: 'https://buttondown.email/natureworks'
+    - name: Ko-fi
+      icon: fa-coffee
+      link: 'https://ko-fi.com/natureworks'
+taxonomies:
+    category: categories
+    tag: tags
+menu:
+  main:
+    - name: Portfolio
+      URL: portfolio
+      weight: 1
+    - name: Design
+      URL: design
+      weight: 2
+    - name: Blog
+      URL: blog
+      weight: 3
+    - name: Store↗
+      URL: https://store.natureworks.org.uk/
+      weight: 4
+  secondary:
+    - name: About
+      URL: about
+      weight: 1
+    - name: Articles
+      URL: articles
+      weight: 2
+    - name: Classes
+      URL: classes
+      weight: 3
+permalinks:
+  articles: '/:title'

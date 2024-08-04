@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section portfolio">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <ul class=".list-unstyled">
+        {{ range .Data.Pages }}
+          <li class="media mb-2">
+              {{ if .Params.images }}
+                <a href="{{ .Permalink }}">
+                  <img class="mr-3" src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_120/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" class="img-fluid" alt="{{ (index .Params.imageAlt 0) }}">
+                </a>
+              {{ end }}
+              <div class="media-body">
+                <h2 class="h6"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                <p><time datetime="{{ .Date }}"><em>{{ .Date.Format "Mon 2 Jan 2006" }}</em></time> — {{ .Description }}</p>
+              </div>
+            </a>
+          </li>
+        {{ end }}
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <!-- Sidebar -->
+        <aside class="bg-gray" data-aos="fade-up" data-aos-duration="500" data-aos-once="true">
+          <h3 class="mb-4">Top articles</h3>
+          <p>A curated selection of <a href="/articles/">articles</a></p>
+          <ul class="list-unstyled">
+            <li class="mb-3"><a href="/spacing/">Tree spacing guide</a></li>
+            <li class="mb-3"><a href="/guard/">Substantial tree guard</a></li>
+            <li class="mb-3"><a href="/dead-hedge/">Dead hedge howto</a></li>
+            <li class="mb-3"><a href="/survey/">Surveying checklist</a></li>
+            <li class="mb-3"><a href="/wildlife-features/">Wildlife features</a></li>
+          </ul>
+        </aside>
+      </div>
+   </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,93 @@
+body {
+  color: rgb(11, 27, 33);
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.2rem;
+}
+
+.o-list-bare {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.o-list-bare li {
+  font-weight: bold;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+img {
+  display: inline;
+}
+
+html {
+  background: url(https://res.cloudinary.com/growdigital/image/upload/v1629230002/elephant-garlic-flower.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+@media (min-width: 54rem) {
+  .container {
+    margin-left: 20%;
+  }
+}
+
+@media (max-width: 863px) {
+  .inner {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4rem !important;
+  }
+}
+
+.inner {
+  background-color: rgba(255, 255, 255, 0.146);
+  border-radius: 6px;
+  margin-top: 6rem;
+  padding: 1rem;
+  text-align: center;
+  width: 23rem;
+}
+
+@media (max-width: 68rem) {
+ .inner {
+  background-color: rgba(255, 255, 255, 0.6);
+ }
+}
+
+h1, h2 {
+  font-weight: normal;
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 1.3rem;
+}
+
+header {
+  margin-bottom: 3rem;
+}
+
+header img {
+  margin: 1.3rem 0 0;
+}
+
+main {
+  margin-bottom: 2rem;
+}
+
+p {
+  line-height: 1.4;
+}
+
+a:link, a:visited, a:hover {
+  color: #145DDF;
+}
+
+.u-tiny {
+  font-size: 0.7rem !important;
+  margin-top: 1rem;
+}

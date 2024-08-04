@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'notosans';
+    src: url('../fonts/notosans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/notosans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'robotoslab-light';
+    src: url('../fonts/robotoslab-light-webfont.woff2') format('woff2'),
+         url('../fonts/robotoslab-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  line-height: 1.5;
+  font-size: 18px;
+  font-family: $secondary-font;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,h2,h3,h3.sm,h4,h5,h6,h6.sm{
+  font-family: $primary-font;
+  font-weight: 700;
+  color: $black;
+  margin-bottom: 0.7rem;
+}
+
+h1,.h1{
+  font-size: 60px;
+}
+
+h2,.h2{
+  font-size: 40px;
+}
+
+h3,.h3{
+  font-size: 35px;
+}
+
+h4,.h4{
+  font-size: 30px;
+}
+
+h5, .h5{
+  font-size: 24px;
+}
+
+h6.big{
+  font-size: 20px;
+}
+
+h6, .h6{
+  font-size: 18px;
+}
+
+h6.sm{
+  font-size: 18px;
+}
+
+a{
+  // font-size: 18px; // why?!?
+}
+
+p{
+  font-size: 18px;
+}
+
+p.sm{
+  font-size: 16px;
+}
+
+// span{
+//   font-size: 13px;
+// }
+
+table {
+  margin: 1rem 0;
+  min-width: 50%;
+  width: 100%;
+}
+
+table tr:nth-child(even) {
+  background-color: $pale;
+}
+
+td,th {
+  border: 0;
+  vertical-align: top;
+}
+
+th {
+  background-color: $primary-color;
+  border-right: 1px solid $pale;
+  color: #fff;
+  font-family: $primary-font;
+  font-size: 17px;
+  padding: 4px 8px;
+}
+
+td {
+  border-right: 1px solid $gray;
+  font-size: 15.5px;
+  padding: 5px 8px 8px;
+}
+
+td:last-child, th:last-child {
+  border: 0;
+}

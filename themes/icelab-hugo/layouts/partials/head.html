@@ -1,0 +1,31 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+
+  {{ "<!-- mobile responsive meta -->" | safeHTML }}
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+  {{ hugo.Generator }}
+
+  {{ "<!-- plugins -->" | safeHTML }}
+  {{ range .Site.Params.plugins.css }}
+  <link rel="stylesheet" href="{{ .Permalink | absURL }} ">
+  {{ end }}
+
+  {{ "<!-- Main Stylesheet -->" | safeHTML }}
+  {{ $styles := resources.Get "scss/style.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+
+  {{ "<!--Favicon-->" | safeHTML }}
+  <link rel="shortcut icon" href="{{ `https://res.cloudinary.com/growdigital/image/upload/v1630699184/natureworks/favicon.png` | absURL }} " type="image/x-icon">
+  <link rel="icon" href="{{ `https://res.cloudinary.com/growdigital/image/upload/v1630699184/natureworks/favicon.png` | absURL }} " type="image/x-icon">
+
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ template "_internal/opengraph.html" . }}
+
+  <!-- RSS, hardcoded -->
+  <link rel="alternate" type="application/rss+xml" href="https://www.natureworks.org.uk/blog/index.xml" title="Nature Works">
+  <script src="https://kit.fontawesome.com/0d41cba5ae.js" crossorigin="anonymous"></script>
+
+</head>
