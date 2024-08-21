@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b9bfde0143bebc9f",
+        "id": "aa528acc6efe66c9",
         "type": "tabs",
         "children": [
           {
-            "id": "3a146eb1c764bf94",
+            "id": "24a81abe9313079d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/240821-.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/blog/240821-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/blog/240821-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/blog/240821-.md"
+              }
             }
           }
         ]
@@ -135,11 +143,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1009222f974bc3a9",
+  "active": "24a81abe9313079d",
   "lastOpenFiles": [
+    "content/blog/240821-.md",
+    "templates/blog.md",
+    "content/blog/240821-.md",
+    "content/blog/210824-whatisthis.md",
+    "21.August.2024-17.21.11.md",
+    "Untitled 5.md",
+    "MyNewName.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "content/blog/240514-wood-meadow-cafe.md",
+    "README.md",
+    "content/blog/240518-oliver-rackham.md",
+    "content/blog/240712-.md",
     "templates",
     "content/blog/210115-done.md"
   ]
