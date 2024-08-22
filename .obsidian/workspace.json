@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa528acc6efe66c9",
+        "id": "250bdc12c2e03f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "24a81abe9313079d",
+            "id": "9d6ce348154ebb7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24a81abe9313079d",
+  "active": "9d6ce348154ebb7b",
   "lastOpenFiles": [
-    "().md",
     "content/blog/240822-testing.md",
+    "().md",
     "content/blog/240821-.md",
     "templates/blog.md",
     "content/blog/240821-.md",
