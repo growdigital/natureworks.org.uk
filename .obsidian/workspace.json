@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "91b0ff3a5a4435d4",
+        "id": "5163bb82b510d57c",
         "type": "tabs",
         "children": [
           {
-            "id": "fbe234db85a17285",
+            "id": "b6f6b4f982815066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/240824-how-very-small.md",
+                "file": "content/blog/240826-ice-unbroken.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:icebreaker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/240824-how-very-small.md",
+                "file": "content/blog/240826-ice-unbroken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/240824-how-very-small.md",
+                "file": "content/blog/240826-ice-unbroken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/240824-how-very-small.md"
+                "file": "content/blog/240826-ice-unbroken.md"
               }
             }
           }
@@ -147,15 +148,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbe234db85a17285",
+  "active": "aef379d365694633",
   "lastOpenFiles": [
+    "content/blog/240826-was-it-worth-it.md",
+    "content/blog/240826-ice-unbroken.md",
+    "content/blog/240824-how-very-small.md",
     "content/blog/230111-eatweeds.md",
     "content/blog/230105-memex.md",
     "content/blog/210115-done.md",
     "content/blog/2020-garden-trends-correction.md",
     "content/blog/2020-garden-trends.md",
     "content/blog/7-magical-things.md",
-    "content/blog/240824-how-very-small.md",
     "content/blog/240822-testing.md",
     "templates/blog.md",
     "content/blog/240821-.md",
