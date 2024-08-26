@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "250bdc12c2e03f9b",
+        "id": "91b0ff3a5a4435d4",
         "type": "tabs",
         "children": [
           {
-            "id": "9d6ce348154ebb7b",
+            "id": "fbe234db85a17285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/240822-testing.md",
+                "file": "content/blog/240824-how-very-small.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/240822-testing.md",
+                "file": "content/blog/240824-how-very-small.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/240822-testing.md",
+                "file": "content/blog/240824-how-very-small.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/240822-testing.md"
+                "file": "content/blog/240824-how-very-small.md"
               }
             }
           }
@@ -147,12 +147,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d6ce348154ebb7b",
+  "active": "fbe234db85a17285",
   "lastOpenFiles": [
+    "content/blog/230111-eatweeds.md",
+    "content/blog/230105-memex.md",
+    "content/blog/210115-done.md",
+    "content/blog/2020-garden-trends-correction.md",
+    "content/blog/2020-garden-trends.md",
+    "content/blog/7-magical-things.md",
+    "content/blog/240824-how-very-small.md",
     "content/blog/240822-testing.md",
-    "().md",
-    "content/blog/240821-.md",
     "templates/blog.md",
+    "content/blog/240821-.md",
+    "content/blog/240821-.md",
     "content/blog/240821-.md",
     "content/blog/210824-whatisthis.md",
     "21.August.2024-17.21.11.md",
@@ -166,7 +173,6 @@
     "README.md",
     "content/blog/240518-oliver-rackham.md",
     "content/blog/240712-.md",
-    "templates",
-    "content/blog/210115-done.md"
+    "templates"
   ]
 }
