@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4507c131561467b1",
+        "id": "8cf0db14e698a5c7",
         "type": "tabs",
         "children": [
           {
-            "id": "9e44066f38d427de",
+            "id": "168a81c2b5421f6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/240830-04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:icebreaker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/blog/240830-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/blog/240830-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/blog/240830-04.md"
+              }
             }
           }
         ]
@@ -139,35 +147,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9e44066f38d427de",
+  "active": "168a81c2b5421f6a",
   "lastOpenFiles": [
-    "content/blog/240826-ice-unbroken.md",
-    "content/blog/240828-02-.md",
-    "content/blog/240828-03.md",
-    "content/blog/240825-was-it-worth-it.md",
-    "content/blog/240827-02-grasslands.md",
     "content/blog/240830-03-making-restoration-sustainable.md",
-    "content/blog/240824-how-very-small.md",
-    "content/blog/240827-03-forests.md",
     "content/blog/240830-04.md",
     "content/blog/240830-02-biodiversity-agricultural-systems.md",
-    "package-lock.json",
-    "content/blog/240827-01-intro.md",
-    "content/blog/240827-04-results-based-payment-schemes.md",
     "content/blog/240830-01-biodiversity-agroecoystems.md",
-    "content/blog/240828-01-baltic-sea.md",
-    "content/blog/240822-testing.md",
+    "content/blog/240828-03.md",
     "().md",
-    "content/blog/240821-.md",
+    "content/blog/240828-02-.md",
+    "content/blog/240828-01-baltic-sea.md",
+    "content/blog/240827-04-results-based-payment-schemes.md",
+    "content/blog/240827-03-forests.md",
+    "content/blog/240827-02-grasslands.md",
+    "content/blog/240827-01-intro.md",
+    "content/blog/240825-was-it-worth-it.md",
+    "content/blog/240826-ice-unbroken.md",
+    "content/blog/240824-how-very-small.md",
+    "content/blog/230111-eatweeds.md",
+    "content/blog/230105-memex.md",
+    "content/blog/210115-done.md",
+    "content/blog/2020-garden-trends-correction.md",
+    "content/blog/2020-garden-trends.md",
+    "content/blog/7-magical-things.md",
+    "content/blog/240822-testing.md",
     "templates/blog.md",
     "content/blog/240821-.md",
-    "content/blog/210824-whatisthis.md",
-    "21.August.2024-17.21.11.md",
-    "Untitled 5.md",
-    "MyNewName.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
+    "content/blog/240821-.md",
+    "content/blog/240821-.md",
     "templates"
   ]
 }

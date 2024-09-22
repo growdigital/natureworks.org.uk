@@ -18,6 +18,8 @@ imageCap:
 draft: false
 aliases:
 - /day-lillies/
+- /daylilly/
+- /day-lilly/
 ---
 
 As grown by Alan Carter, [A Food Forest in Your Garden](https://www.foodforest.garden/product/book/) pp202

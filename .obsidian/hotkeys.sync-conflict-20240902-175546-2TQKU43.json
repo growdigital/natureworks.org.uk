@@ -98,21 +98,5 @@
       ],
       "key": "0"
     }
-  ],
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "U"
-    }
-  ],
-  "editor:toggle-numbered-list": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "O"
-    }
   ]
 }
