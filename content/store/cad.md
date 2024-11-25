@@ -6,7 +6,7 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1674133796/class/gumroad-cad-169.jpg"
 imageAlt: 
 - "Small front forest garden with text 'The Backyard Forest'"
-summary: "CAD for garden design £29.99"
+summary: "CAD for garden design only £1"
 length: "1 hour"
 level: "Beginner/Intermediate"
 features: 

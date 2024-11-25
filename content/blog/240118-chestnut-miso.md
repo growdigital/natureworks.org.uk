@@ -19,3 +19,9 @@ draft: false
 For some reason, I’m being drawn towards fermented foods: sauerkraut, kimchi, sourdough, miso. I like Japanese food generally (the vegan suff) and the pickles in particular, and I love miso, although I don’t know much about how to cook with it. 
 
 But soybeans aren’t a local crop, and I was wondering if you could make Sweet Chestnut miso? Apparently, you can. I found this article in Food Research International called [Development of fermented chestnut with Bacillus natto: Functional and sensory properties](https://www.sciencedirect.com/science/article/abs/pii/S0963996919308270). I am sorely tempted to try my hand.
+
+Edit: [Anthony](https://keal-a.fr/) emailed in to say
+
+> The article… refers to chestnut natto, which is another traditionnal Japanese fermentation made by *B.subtilis*, not kome-koji (rice+ *A.oryzae*) as it is the case in most misos.
+
+Thank you Anthony 🙂

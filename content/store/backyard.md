@@ -6,7 +6,7 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1632217390/course/Backyard_banner.jpg"
 imageAlt: 
 - "Small front forest garden with text 'The Backyard Forest'"
-summary: "Complete online forest garden course £99.99"
+summary: "Complete online forest garden course only £1"
 length: "3¾ hours"
 level: "Beginner/Intermediate"
 features: 
@@ -41,7 +41,7 @@ The full course outline, with links to slideshows:
 7. [Ground Preparation](/backyard/prep)
 8. [Shrubs & Ground Cover](/backyard/shrubs)
 
-## Testimonials 
+## Testimonials
 
 > “Very informative, organised presentation and easy to follow!”<br>~ _Kartini Clapham, June 2021_
 
