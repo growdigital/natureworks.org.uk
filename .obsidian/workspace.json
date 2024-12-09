@@ -11,8 +11,14 @@
             "id": "9e44066f38d427de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/241209-network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "241209-network"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/blog/241209-network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 241209-network"
             }
           },
           {
@@ -97,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/blog/241209-network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 241209-network"
             }
           },
           {
@@ -110,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/blog/241209-network.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 241209-network"
             }
           }
         ]
@@ -141,6 +165,7 @@
   },
   "active": "9e44066f38d427de",
   "lastOpenFiles": [
+    "content/blog/241209-network.md",
     "content/blog/240826-ice-unbroken.md",
     "content/blog/240828-02-.md",
     "content/blog/240828-03.md",
@@ -167,7 +192,6 @@
     "MyNewName.md",
     "Untitled 4.md",
     "Untitled 3.md",
-    "Untitled 2.md",
     "templates"
   ]
 }
