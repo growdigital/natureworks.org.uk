@@ -11,7 +11,7 @@ imageAlt:
 imageCap: 
 draft: true
 ---
-> using orogeny and magic together in a way that supports and strengthens each, making a stronger whole. Then integrating this into a network of orogenes working toward a single goal, all of them together stronger than they are individually, and plugged into an obelisk that amplifies their power manifold. It is amazing
+> using orogeny and magic together in a way that supports and strengthens each, making a stronger whole. Then integrating this into a network of orogenes working toward a single goal, all of them together stronger than they are individually, and plugged into an obelisk that amplifies their power manifold. It is amazing.
 
 *pp363, The Obelisk Gate by N.K. Jemisin*
 
