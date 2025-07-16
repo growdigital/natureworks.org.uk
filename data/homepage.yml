@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Wildlife&nbsp;&amp;&nbsp;forest garden design"
-  content : "Your garden can be beautiful, edible <i>and</i> wildlife&nbsp;friendly.<br><br>Provide habitat diversity, grow edible perennials and create wonder with wild flowers. Garden design by Jake Rayson.<br><br><a href='/blog/'>Live blogging</a> at the <a href='https://sere2024.org/'>14th European Conference on Ecological Restoration</a> 24-31 Aug in <a href='https://en.wikipedia.org/wiki/Tartu'>Tartu, Estonia</a>. Thank you to all <a href='https://ko-fi.com/natureworks'>my supporters</a>. 💚"
+  content : "Your garden can be beautiful, edible <i>and</i> wildlife&nbsp;friendly.<br><br>Provide habitat diversity, grow edible perennials and create wonder with wild flowers. Garden design by Jake Rayson."
   bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1200,q_40/v1688476097/sweet-chestnut-flower-230702.jpg"
   button:
     enable : true
